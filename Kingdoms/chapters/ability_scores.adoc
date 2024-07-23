@@ -1,4 +1,5 @@
 == Kingdoms Ability Scores
+:name="Kingdoms Ability Scores":
 
 A kingdom has four ability scores: Culture, Economy, Loyalty, and Stability. These function like the ability scores of a character, providing modifiers on die rolls and checks. As the kingdom prospers and grows, these scores can increase. And if the nation falls on hard times or goes through corruption, scandal, defeat, or disaster, Ruin will accrue that degrades these abilities. 
 //[TODO: link to Ruins]
