@@ -1,8 +1,8 @@
 = Kingdoms
 
-include::chapters/ability_scores.adoc[ability scores]
-
 include::chapters/creation.adoc[]
+
+include::chapters/ability_scores.adoc[name="Kingdom Ability Scores"]
 
 include::chapters/leveling_up.adoc[]
 
