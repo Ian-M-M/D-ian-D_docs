@@ -1,13 +1,14 @@
 = Kingdoms
 
-include::chapters/creation.adoc[]
+include::creation.adoc[]
 
-include::chapters/ability_scores.adoc[name="Kingdom Ability Scores"]
+include::ability_scores.adoc[]
 
-include::chapters/leveling_up.adoc[]
+include::leveling_up.adoc[]
 
-include::chapters/roles.adoc[]
+include::roles.adoc[]
 
-include::chapters/actions.adoc[]
+include::actions.adoc[]
 
-include::chapters/feats.adoc[]
+include::feats.adoc[]
+
