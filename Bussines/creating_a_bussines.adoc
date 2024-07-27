@@ -1,4 +1,5 @@
 == Creating a Bussines
+:toc:
 
 When creating a bussines it will start at level 1, proving that you would be able to run it during the next 4 months, this means that you will need to at least have an amount of money equals to
 ....
@@ -74,6 +75,6 @@ In the company differents positions and roles are going to be required, to be fi
 | Rank | Features                                                       
 | 1              | Equipment related to the position
 | 2              | A treasure related to the position with a cost of 200 gp
-| 3              | A Uncommon Magic Item related to that position, if not possible, then 500 gp
+| 3              | An Uncommon Magic Item related to that position, if not possible, then 500 gp
 | 4              | Access to a Feat it must be related to the position
 |==================================================================================

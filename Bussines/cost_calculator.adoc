@@ -1,5 +1,5 @@
 == Costs Calculation
-:stem: latexmath
+:toc:
 
 In the <<Worker cost>> we can use it to calculates the cost per day for each type of worker. To calculate the worker cost we have to apply the <<Formula Workers Cost>> for each of the 3 types of workers and add them. After the addition you also have to multiply it by the cost correspondant to your bussines level.
 
