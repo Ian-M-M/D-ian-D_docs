@@ -1,4 +1,5 @@
 = Bussines
+:toc:
 
 // Creating a Bussines
 include::creating_a_bussines.adoc[]
