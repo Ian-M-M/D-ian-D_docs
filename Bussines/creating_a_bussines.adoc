@@ -1,0 +1,79 @@
+== Creating a Bussines
+
+When creating a bussines it will start at level 1, proving that you would be able to run it during the next 4 months, this means that you will need to at least have an amount of money equals to
+....
+Open cost = (4 * day per month * 4 ) gp
+....
+
+Open Cost formula, serves to calculates the cost of the first worker, the Majordomo, its cost and the rest of future workers is defined in costs calculators chapter.
+
+[cols="3*", options="header"]
+|================================================================================================================
+| Level | New Staff                                    | Bussines Die (BD)
+| 1     | 1 Majordomo                                  | 2d4              
+| 2     | 1 Untrained Hireling                         | 2d4              
+| 3     | 1 Untrained Hireling                         | 2d4              
+| 4     | 1 Skilled Hireling                           | 2d4              
+| 5     | -                                            | 3d6              
+| 6     | 5 Crew                                       | 3d6              
+| 7     | 5 Crew                                       | 3d6              
+| 8     | 4 Untrained Hirelings                        | 3d6              
+| 9     | 1 Skilled Hireling                           | 4d8              
+| 10    | -                                            | 4d8              
+| 11    | 5 Crew                                       | 4d8              
+| 12    | 5 Crew                                       | 4d8              
+| 13    | 4 Untrained Hirelings and 1 Skilled Hireling | 5d10             
+| 14    | 4 Untrained Hirelings and 1 Skilled Hireling | 5d10             
+| 15    | -                                            | 5d10             
+| 16    | 10 Crew                                      | 5d10             
+| 17    | 10 Crew                                      | 6d12             
+| 18    | 8 Untrained Hirelings                        | 6d12             
+| 19    | 4 Untrained Hirelings and 2 Skilled Hireling | 6d12             
+| 20    | 4 Untrained Hirelings and 2 Skilled Hireling | 6d12             
+|================================================================================================================
+
+=== New Staff
+Certain levels will let you hire new workers, there are four types.
+
+==== Majordomo
+A majordomo administers a franchise headquarters. They typically reside within the headquarters and seldom leave it, sending out communications through a dedicated messenger (at no extra cost, and traveling on foot or by means the franchise provides). A majordomo is proficient in Charisma (Persuasion) and two skills of the DM's choice.
+
+==== Untrained Hirelings
+Untrained hirelings provide general labor, and can function as builders, cleaners, porters, and other workers. Untrained hirelings can work for a franchise or its allies, perhaps tending a garden for a noble family or helping a merchant unload cargo from ships. They will not engage in combat and do not leave the headquarters to join the party on adventures.
+
+The DM should name at least one hireling who acts as a leader for any interactions with groups of untrained laborers. Providing hirelings with a similar background (such as a band of ex-soldiers or reformed criminals) can add personality to the group.
+
+==== Trained Hirelings
+A skilled hireling has one or more skill, weapon, or tool proficiencies. A franchise can request skilled hirelings when needed (up to the maximum allowed by franchise rank), with the players describing the concept behind the hirelings and selecting one proficiency for each. The DM can then customize the hirelings as desired, perhaps by adding additional proficiencies or adjusting their combat statistics.
+
+Skilled hirelings can be fired and hired as needed. A franchise might bring on a couple of thugs to act as distraction during a street fair, then release those NPCs to hire a different set of skilled hirelings to conduct franchise tasks and downtime activities.
+
+Hirelings cannot perform more than one task at a time. A full complement of skilled hirelings assisting the party on a mission precludes other skilled hirelings from helping with franchise tasks and downtime activities until the mission is completed. As with untrained hirelings, detailing a group background and assigning personality characteristics to a group leader can make for a fun play experience.
+
+*Adventuring.* Characters can adventure with up to one skilled hireling at a time. An NPC with a challenge rating of roughly half the franchise rank works well for most adventures, providing utility without disrupting balance.
+
+*Tasks and Downtime.* Skilled hirelings can also be assigned to franchise tasks, as described in the "Franchise Tasks and Downtime" section later in this chapter.
+
+==== Crew
+Crew are skilled hirelings trained in tasks pertaining to the physical maintenance of a franchise (for example, servers or gardeners) or the navigation of a mobile headquarters (sailors for a seagoing franchise, engineers for a giant hollow statue, and so on). Crew do not leave a franchise and cannot perform franchise tasks. They typically run rather than fight back when attacked, though the DM can decide otherwise. If a mobile franchise headquarters requires more crew than is granted by the franchise's rank, the characters must hire the remainder (typically at the skilled hireling cost of 2 gp per day).
+
+=== Bussines Dice
+
+This resource is the one that will decide how good your bussines performs during the month to calculates your incomes. Both the Number of dice and the Bussines Dice are used to do so.
+
+Additionally, the number of Bussines Dice serve to indicate the general perception of the bussines: 2 and 3 are for small and big bussines, while from 5 and higher are for companies that are international or extraplanars.
+
+At the end of each mont you must roll all your Bussines Dice (including if you win or loss any dice during Bussines Tasks/Downtimes), the result is then multiply by the number of days and this is your incomes for that month
+
+== Positions and roles
+
+In the company differents positions and roles are going to be required, to be fitable in a position the character (or NPC) will requiere tools's proficiency related to that given position. Each position have 4 ranks, each rank give the following benefits when you gain access to it, take into account that this is only possible if the company can afford the material.
+
+[cols="2*", options="header"]
+|==================================================================================
+| Rank | Features                                                       
+| 1              | Equipment related to the position
+| 2              | A treasure related to the position with a cost of 200 gp
+| 3              | A Uncommon Magic Item related to that position, if not possible, then 500 gp
+| 4              | Access to a Feat it must be related to the position
+|==================================================================================

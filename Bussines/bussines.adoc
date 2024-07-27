@@ -1,0 +1,13 @@
+= Bussines
+
+// Creating a Bussines
+include::creating_a_bussines.adoc[]
+
+// Cost calculation
+include::cost_calculator.adoc[]
+
+// Roles & Positions
+include::positions.adoc[]
+
+// Bussines Tasks
+include::franchise_tasks_and_downtime.adoc[]
