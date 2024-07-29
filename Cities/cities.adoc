@@ -1,4 +1,4 @@
-= Kingdoms
+= Cities 
 
 include::creation.adoc[]
 
