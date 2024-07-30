@@ -1,5 +1,4 @@
 == Creating a Bussines
-:toc:
 
 When creating a bussines it will start at level 1, proving that you would be able to run it during the next 4 months, this means that you will need to at least have an amount of money equals to
 ....

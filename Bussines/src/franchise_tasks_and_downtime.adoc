@@ -1,5 +1,4 @@
 == Bussines Tasks and Downtime
-:toc:
 
 The downtimes can be done during adventures by the majordomo or between adventures by the players. Additionaly, others special positions can have access to the bussines task given that they are at least rank 3 or higher.
 
