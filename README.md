@@ -20,10 +20,8 @@ Whenever adding a new feature to the doc the process is the following, where tje
 export FEATURE_NAME="NAME OF THE FEATURE"
 export FEATURE_NAME_IN_LOWER_CASE="name of the feature"
 echo "================================================================"
-git swich main && git pull && git checkout -b ${FEATURE_NAME}
-mkdir ${FEATURE_NAME}
-cd ${FEATURE_NAME}
-mkdir src
+git swich main && git pull && git checkout -b ${FEATURE_NAME_IN_LOWER_CASE}
+mkdir ${FEATURE_NAME} && cd ${FEATURE_NAME} && mkdir src
 touch src/00_${FEATURE_NAME_IN_LOWER_CASE}.adoc
 echo "================================================================"
 unest FEATURE_NAME="NAME OF THE FEATURE"
