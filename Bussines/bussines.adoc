@@ -133,7 +133,9 @@ You can use the <<Precalculated cost per level>> to know the cost of each month 
 // Bussines Tasks
 == Bussines Tasks and Downtime
 
-The downtimes can be done during adventures by the majordomo or between adventures by the players. Additionaly, others special positions can have access to the bussines task given that they are at least rank 3 or higher.
+The downtimes can be done during adventures by the majordomo or between adventures by the players. Additionaly, others special positions can have access to the bussines task given that they are at least rank 3 or higher. The maximum number of downtimes that can be done for a given company depends on the number of Bussines Dices that the bussines have for it given level.
+
+During Bussines Tasks, you can gain or loose Bussines Dices, this dices are only for your next incomes calculation, after that you regain the Bussines Dices that the bussiness level have.
 
 === Bussines Tasks: Explore Territory
 No matter how densely populated or remote and wild the territory in which a franchise is licensed to operate, that territory has secrets. Characters and franchise staff can explore their licensed territory in search of useful features, hidden lairs, resources, and creatures that can be engaged in beneficial service. (Or, you know, sold for parts. If you're okay with that). Exploration can be done any number of times in a franchise's territory, representing new areas being explored, new discoveries, or elements that have changed since the last exploration.
