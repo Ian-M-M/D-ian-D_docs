@@ -14,11 +14,18 @@ In the folder the source will be in the src folder, inside of it, the main doc m
 
 ### Adding new features
 
-Whenever adding a new feature to the doc the process is the following
+Whenever adding a new feature to the doc the process is the following, where tje FEATURE_NAME and FEATURE_NAME_IN_LOWER_CASE are variables that can be set to automatize the process.
 
 ```
-git swich main && git pull && git checkout -b FEATURE_NAME
-mkdir FEATURE_NAME
-cd FEATURE_NAME
-touch FEATURE_NAME.adoc
+export FEATURE_NAME="NAME OF THE FEATURE"
+export FEATURE_NAME_IN_LOWER_CASE="name of the feature"
+echo "================================================================"
+git swich main && git pull && git checkout -b ${FEATURE_NAME}
+mkdir ${FEATURE_NAME}
+cd ${FEATURE_NAME}
+mkdir src
+touch src/00_${FEATURE_NAME_IN_LOWER_CASE}.adoc
+echo "================================================================"
+unest FEATURE_NAME="NAME OF THE FEATURE"
+unest FEATURE_NAME_IN_LOWER_CASE="name of the feature"
 ```
