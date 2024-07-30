@@ -10,7 +10,7 @@ The branch name is all in lower case.
 
 The folder name have to be the name of the feature you are adding with upper case in the first letter. Feats is a correct name, whereas feats is wrong.
 
-In the folder the main doc must be the name of the feature in lower case, extra files must be named in snake case (example_name).
+In the folder the source will be in the src folder, inside of it, the main doc must be the name of the feature in lower case starting with the prefix *00_*, extra files must be named in snake case (example_name).
 
 ### Adding new features
 
