@@ -1,0 +1,241 @@
+== *Rogue Archetype*
+
+=== Arcane Trickster
+
+Some rogues enhance their fine-honed skills of stealth and agility with
+magic, learning tricks of enchantment and illusion. These rogues include
+pickpockets and burglars, but also pranksters, mischief-makers, and a
+significant number of adventurers.
+
+==== 3rd LEVEL: Spellcasting
+
+When you reach 3rd level, you gain the ability to cast spells. See
+chapter 10 for the general rules of spellcasting and chapter 11 for the
+wizard spell list.
+
+*_Cantrips._*
+
+You learn three cantrips: mage hand and two other cantrips of your
+choice from the wizard spell list. You learn another wizard cantrip of
+your choice at 10th level.
+
+*_Spell Slots._*
+
+The Arcane Trickster Spellcasting table shows how many spell slots you
+have to cast your wizard spells of 1st level and higher. To cast one of
+these spells, you must expend a slot of the spell's level or higher. You
+regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell charm person and have a
+1st-level and a 2nd-level spell slot available, you can cast charm
+person using either slot.
+
+*_Spells Known of 1st-Level and Higher._*
+
+You know three 1st-level wizard spells of your choice, two of which you
+must choose from the enchantment and illusion spells on the wizard spell
+list.
+
+The Spells Known column of the Arcane Trickster Spellcasting table shows
+when you learn more wizard spells of 1st level or higher. Each of these
+spells must be an enchantment or illusion spell of your choice, and must
+be of a level for which you have spell slots. For instance, when you
+reach 7th level in this class, you can learn one new spell of 1st or 2nd
+level.
+
+The spells you learn at 8th, 14th, and 20th level can come from any
+school of magic.
+
+Whenever you gain a level in this class, you can replace one of the
+wizard spells you know with another spell of your choice from the wizard
+spell list. The new spell must be of a level for which you have spell
+slots, and it must be an enchantment or illusion spell, unless you're
+replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any
+school of magic.
+
+*_Spellcasting Ability._*
+
+Intelligence is your spellcasting ability for your wizard spells, since
+you learn your spells through dedicated study and memorization. You use
+your Intelligence whenever a spell refers to your spellcasting ability.
+In addition, you use your Intelligence modifier when setting the saving
+throw DC for a wizard spell you cast and when making an attack roll with
+one.
+
+*Spell save DC* = 8 + your proficiency bonus + your Intelligence
+modifier
+
+*Spell attack modifier* = your proficiency bonus + your Intelligence
+modifier
+
+==== 3rd LEVEL: Mage Hand Legerdemain
+
+Starting at 3rd level, when you cast mage hand, you can make the
+spectral hand invisible, and you can perform the following additional
+tasks with it:
+
+* {blank}
++
+____
+You can stow one object the hand is holding in a container worn or
+carried by another creature.
+____
+* {blank}
++
+____
+You can retrieve an object in a container worn or carried by another
+creature.
+____
+* {blank}
++
+____
+You can use [thieves'
+tools](https://5e.tools/items.html#thieves[[.underline]#https://5e.tools/items.html#thieves#]'%20tools_phb)
+to pick locks and disarm traps at range.
+____
+
+You can perform one of these tasks without being noticed by a creature
+if you succeed on a Dexterity (Sleight of Hand) check contested by the
+creature's Wisdom (Perception) check.
+
+In addition, you can use the bonus action granted by your Cunning Action
+to control the hand.
+
+==== 9th LEVEL: Magical Ambush
+
+Starting at 9th level, if you are hidden from a creature when you cast a
+spell on it, the creature has disadvantage on any saving throw it makes
+against the spell this turn.
+
+==== 13th LEVEL: Versatile Trickster
+
+At 13th level, you gain the ability to distract targets with your mage
+hand. As a bonus action on your turn, you can designate a creature
+within 5 feet of the spectral hand created by the spell. Doing so gives
+you advantage on attack rolls against that creature until the end of the
+turn.
+
+==== 17th LEVEL: Spell Thief
+
+At 17th level, you gain the ability to magically steal the knowledge of
+how to cast a spell from another spellcaster.
+
+Immediately after a creature casts a spell that targets you or includes
+you in its area of effect, you can use your reaction to force the
+creature to make a saving throw with its spellcasting ability modifier.
+The DC equals your spell save DC. On a failed save, you negate the
+spell's effect against you, and you steal the knowledge of the spell if
+it is at least 1st level and of a level you can cast (it doesn't need to
+be a wizard spell). For the next 8 hours, you know the spell and can
+cast it using your spell slots. The creature can't cast that spell until
+the 8 hours have passed.
+
+Once you use this feature, you can't use it again until you finish a
+long rest.
+
+=== Swashbuckler
+
+You focus your training on the art of the blade, relying on speed,
+elegance, and charm in equal parts. While some warriors are brutes clad
+in heavy armor, your method of fighting looks almost like a performance.
+Duelists and pirates typically belong to this archetype.
+
+A Swashbuckler excels in single combat, and can fight with two weapons
+while safely darting away from an opponent.
+
+==== 3rd LEVEL: Fancy Footwork
+
+When you choose this archetype at 3rd level, you learn how to land a
+strike and then slip away without reprisal. During your turn, if you
+make a melee attack against a creature, that creature can't make
+opportunity attacks against you for the rest of your turn.
+
+==== 3rd LEVEL: Rakish Audacity
+
+Starting at 3rd level, your confidence propels you into battle. You can
+give yourself a bonus to your initiative rolls equal to your Charisma
+modifier.
+
+You also gain an additional way to use your Sneak Attack; you don't need
+advantage on your attack roll to use Sneak Attack against a creature if
+you are within 5 feet of it, no other creatures are within 5 feet of
+you, and you don't have disadvantage on the attack roll. All the other
+rules for Sneak Attack still apply to you.
+
+==== 9th LEVEL: Panache
+
+At 9th level, your charm becomes extraordinarily beguiling. As an
+action, you can make a Charisma (Persuasion) check contested by a
+creature's Wisdom (Insight) check. The creature must be able to hear
+you, and the two of you must share a language.
+
+If you succeed on the check and the creature is hostile to you, it has
+disadvantage on attack rolls against targets other than you and can't
+make opportunity attacks against targets other than you. This effect
+lasts for 1 minute, until one of your companions attacks the target or
+affects it with a spell, or until you and the target are more than 60
+feet apart.
+
+If you succeed on the check and the creature isn't hostile to you, it is
+charmed by you for 1 minute. While charmed, it regards you as a friendly
+acquaintance. This effect ends immediately if you or your companions do
+anything harmful to it.
+
+==== 13th LEVEL: Elegant Maneuver
+
+Starting at 13th level, you can use a bonus action on your turn to gain
+advantage on the next Dexterity (Acrobatics) or Strength (Athletics)
+check you make during the same turn.
+
+==== 17th LEVEL: Master Duelist
+
+Beginning at 17th level, your mastery of the blade lets you turn failure
+into success in combat. If you miss with an attack roll, you can roll it
+again with advantage. Once you do so, you can't use this feature again
+until you finish a short or long rest.
+
+=== Thief
+
+You hone your skills in the larcenous arts. Burglars, bandits,
+cutpurses, and other criminals typically follow this archetype, but so
+do rogues who prefer to think of themselves as professional treasure
+seekers, explorers, delvers, and investigators. In addition to improving
+your agility and stealth, you learn skills useful for delving into
+ancient ruins, reading unfamiliar languages, and using magic items you
+normally couldn't employ.
+
+==== 3rd LEVEL: Fast Hands
+
+Starting at 3rd level, you can use the bonus action granted by your
+Cunning Action to make a Dexterity (Sleight of Hand) check, use your
+thieves' tools to disarm a trap or open a lock, or take the Use an
+Object action.
+
+==== 3rd LEVEL: Second-Story Work
+
+When you choose this archetype at 3rd level, you gain the ability to
+climb faster than normal; climbing no longer costs you extra movement.
+
+In addition, when you make a running jump, the distance you cover
+increases by a number of feet equal to your Dexterity modifier.
+
+==== 9th LEVEL: Supreme Sneak
+
+Starting at 9th level, you have advantage on a Dexterity (Stealth) check
+if you move no more than half your speed on the same turn.
+
+==== 13th LEVEL: Use Magic Device
+
+By 13th level, you have learned enough about the workings of magic that
+you can improvise the use of items even when they are not intended for
+you. You ignore all class, race, and level requirements on the use of
+magic items.
+
+==== 17th LEVEL: Thief's Reflexes
+
+When you reach 17th level, you have become adept at laying ambushes and
+quickly escaping danger. You can take two turns during the first round
+of any combat. You take your first turn at your normal initiative and
+your second turn at your initiative minus 10. You can't use this feature
+when you are surprised.
+

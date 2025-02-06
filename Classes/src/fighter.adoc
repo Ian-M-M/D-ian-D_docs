@@ -1,0 +1,410 @@
+== *Fighter*
+
+[width="100%",cols="8%,7%,85%",options="header",]
+|===
+|*_Level_* a|
+*_Prof._*
+
+*_Bonus_*
+
+|*_Features_*
+|*1st* |*+2* |*Fighting Style, Second Wind, Weapon Mastery*
+
+|*2nd* |*+2* |*Action Surge, Battle Maneuvers (1d6)*
+
+|*3rd* |*+2* |*Martial Archetype*
+
+|*4th* |*+2* |*Ability Score Improvement*
+
+|*5th* |*+3* |*Ability Score Improvement, Extra Attack*
+
+|*6th* |*+3* |*Improved Maneuver (1d8)*
+
+|*7th* |*+3* |*Martial Archetype feature, Weapon Expert*
+
+|*8th* |*+3* |*Ability Score Improvement*
+
+|*9th* |*+4* |*Indomitable*
+
+|*10th* |*+4* |*Martial Archetype feature*
+
+|*11th* |*+4* |*Extra Attack (2)*
+
+|*12th* |*+4* |*Ability Score Improvement*
+
+|*13th* |*+5* |*Indomitable (two uses), Weapon Adept*
+
+|*14th* |*+5* |*Improved Maneuver (1d10)*
+
+|*15th* |*+5* |*Ability Score Improvement, Martial Archetype feature*
+
+|*16th* |*+5* |*Ability Score Improvement*
+
+|*17th* |*+6* |*Action Surge (two uses), Indomitable (three uses),
+Unconquerable*
+
+|*18th* |*+6* |*Martial Archetype feature*
+
+|*19th* |*+6* |*Ability Score Improvement*
+
+|*20th* |*+6* |*Extra Attack (3)*
+|===
+
+[width="99%"]
+|===
+|
+*Hit Points*
+
+*_Hit Dice_*: 1d10
+
+*_Hit Points at 1st Level_*: 10 + your Constitution modifier
+
+*_Hit Points at Higher Levels_*: 1d10 (or 6) + your Constitution
+modifier per Fighter level after 1st
+|
+*Proficiencies*
+
+*_Armor_*: light armor, medium armor, heavy armor, shields
+
+*_Weapons_*: simple weapons, martial weapons
+
+*_Tools:_* none
+
+*_Saving Throws_*: Constitution and choose 1 from Strength or Dexterity
+
+*_Skills_*: Choose 2 from Acrobatics, Animal Handling, Athletics,
+History, Insight, Intimidation, Perception, and Survival.
+a|
+*Starting Equipment*
+
+You start with the following items, plus anything provided by your
+background.
+
+* {blank}
++
+____
+{empty}(a) chain mail or (b) leather armor, longbow, and 20 arrows
+____
+* {blank}
++
+____
+{empty}(a) a martial weapon and a shield or (b) two martial weapons
+____
+* {blank}
++
+____
+{empty}(a) a light crossbow and 20 bolts or (b) two handaxes
+____
+* {blank}
++
+____
+{empty}(a) a dungeoneer's pack or (b) an explorer's pack
+____
+|===
+
+=== *Fighting Style*
+
+At 1st level, you adopt a particular style of fighting as your
+specialty. Choose one of the following options. You can't take the same
+Fighting Style option more than once, even if you get to choose again.
+
+==== *Archery*
+
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+
+==== *Blind Fighting*
+
+You have blindsight with a range of 10 feet. Within that range, you can
+effectively see anything that isn't behind total cover, even if you're
+blinded or in darkness. Moreover, you can see an invisible creature
+within that range, unless the creature successfully hides from you.
+
+==== *Defense*
+
+While you are wearing armor, you gain a +1 bonus to AC.
+
+==== *Dueling*
+
+When you are wielding a melee weapon in one hand and no other weapons,
+you gain a +2 bonus to damage rolls with that weapon.
+
+==== *Great Weapon Fighting*
+
+When you roll a 1 or 2 on a damage die for an attack you make with a
+melee weapon that you are wielding with two hands, you can reroll the
+die and must use the new roll, even if the new roll is a 1 or a 2. The
+weapon must have the two-handed or versatile property for you to gain
+this benefit.
+
+==== *Interception*
+
+When a creature you can see hits a target, other than you, within 5 feet
+of you with an attack, you can use your reaction to reduce the damage
+the target takes by 1d10 + your proficiency bonus (to a minimum of 0
+damage). You must be wielding a shield or a simple or martial weapon to
+use this reaction.
+
+==== *Protection*
+
+When a creature you can see attacks a target other than you that is
+within 5 feet of you, you can use your reaction to impose disadvantage
+on the attack roll. You must be wielding a shield.
+
+==== *Thrown Weapon Fighting*
+
+You can draw a weapon that has the thrown property as part of the attack
+you make with the weapon.
+
+In addition, when you hit with a ranged attack using a thrown weapon,
+you gain a +2 bonus to the damage roll.
+
+==== *Two-Weapon Fighting*
+
+When you engage in two-weapon fighting, you can add your ability
+modifier to the damage of the second attack.
+
+==== *Unarmed Fighting*
+
+Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your
+Strength modifier on a hit. If you aren't wielding any weapons or a
+shield when you make the attack roll, the d6 becomes a d8.
+
+At the start of each of your turns, you can deal 1d4 bludgeoning damage
+to one creature grappled by you.
+
+=== *Second Wind*
+
+At 1st level, you have a limited well of stamina that you can draw on to
+protect yourself from harm. On your turn, you can use a bonus action to
+regain hit points equal to 1d10 + your fighter level.
+
+You can use this feature twice, you regain all uses after you finish a
+Long Rest.
+
+You gain additional uses at 4th and 10th level.
+
+=== *Weapon Mastery*
+
+At 1st level, your training with weapons allows you to use the Mastery
+property of three kinds of Simple or Martial weapons of your choice.
+Whenever you finish a Long Rest, you can practice weapon drills and
+change the kinds of weapons you chose.
+
+You gain the ability to use the Mastery properties of more kinds of
+weapons at 4th and 10th Level.
+
+=== *Action Surge*
+
+You can push yourself beyond your normal limits for a moment. On your
+turn, you can take one additional action, chosen from the following
+action options: Attack, Dash, Disengage, or Dodge.
+
+Once you use this feature, you must finish a short or long rest before
+you can use it again.
+
+You gain additional uses at 17th level.
+
+=== Battle Maneuvers 
+
+At 2nd level, you gain access to the following traits as part of your
+martial training:
+
+* {blank}
++
+____
+*Maneuvers*. You learn one maneuver of your choice, which are listed in
+the Class Features as “Battle Maneuvers”. Many maneuvers enhance an
+attack in some way. You can use only one maneuver per attack. +
+Your Maneuvers Known is equal to your Proficiency Bonus minus 1. Each
+time you learn new maneuvers, you can also replace one maneuver you know
+with a different one.
+____
+* {blank}
++
+____
+*Maneuvers Dice*. You have a number of superiority dice equals to your
+proficiency bonus, which are d6s. A superiority die is expended when you
+use it. You regain all of your expended superiority dice when you finish
+a long rest.
+____
+* {blank}
++
+____
+*Saving Throws*. Some of your maneuvers require your target to make a
+saving throw to resist the maneuver's effects. The saving throw DC is
+calculated as follows: +
+ +
+*Maneuver save DC* = 8 + your proficiency bonus + your Strength or
+Dexterity modifier (your choice)
+____
+
+=== *Martial Archetype*
+
+At 3rd level, you choose an archetype from the list available that you
+strive to emulate in your combat styles and techniques. The archetype
+you choose grants you features at 3rd level and again at 7th, 10th,
+15th, and 18th level.
+
+=== *Ability Score Improvement*
+
+When you reach 4th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== Ability Score Improvement
+
+When you reach 5th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Extra Attack*
+
+Beginning at 5th level, you can attack twice, instead of once, whenever
+you take the Attack action on your turn.
+
+The number of attacks increases to three when you reach 11th level in
+this class and to four when you reach 20th level in this class.
+
+=== Improved Maneuver
+
+At 6th level, your maneuver dice become d8s.
+
+=== *Martial Archetype feature*
+
+At 7th level, you gain a feature granted by your Martial Archetype.
+
+=== *Martial Expert*
+
+At 7th level, You have honed your use of weapons to an art. Whenever you
+finish a Long Rest, you can choose one of the kinds of Mastery weapons
+you’re using and replace its Mastery property with another Mastery
+property. The chosen kind of weapon must qualify for the new property.
+For example, you could replace the Longsword’s Flex property with the
+Push property.
+
+This property change applies only for you, not for others, and the
+change ends for you when you finish your next Long Rest.
+
+=== *Ability Score Improvement*
+
+When you reach 8th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Indomitable*
+
+Beginning at 9th level, you can reroll a saving throw that you fail. If
+you do so, you must use the new roll, and you can't use this feature
+again until you finish a long rest. This new roll adds your Fighter
+level with any modifier that you have.
+
+You can use this feature twice between long rests starting at 13th level
+and three times between long rests starting at 17th level.
+
+=== *Martial Archetype feature*
+
+At 10th level, you gain a feature granted by your Martial Archetype.
+
+=== *Extra Attack (2)*
+
+At 11th level, you can attack three times whenever you take the Attack
+action on your turn.
+
+=== *Ability Score Improvement*
+
+When you reach 12th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Indomitable (two uses)*
+
+At 13th level, you can use Indomitable twice between long rests.
+
+=== *Weapon Adept*
+
+At 13th level, you are a master of weapons. When you use your Weapon
+Expert feature on a kind of weapon, you can give that kind of weapon two
+properties rather than one, but you then use only one property at a
+time; whenever you make an attack roll against a target with that kind
+of weapon, you decide which of the two properties applies to that
+attack. You make this decision before the attack hits or misses.
+
+For example, you could apply the Push and Topple properties to
+Longswords, and whenever you hit a target with a Longsword, you decide
+which of those properties to use against the target.
+
+=== Improved Maneuver
+
+At 14th level, your maneuver dice become d10s.
+
+=== *Ability Score Improvement*
+
+When you reach 15th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Martial Archetype feature*
+
+At 15th level, you gain a feature granted by your Martial Archetype.
+
+=== *Ability Score Improvement*
+
+When you reach 16th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Action Surge (two uses)*
+
+At 17th level, you can use Action Surge twice before a rest, but only
+once on the same turn.
+
+=== *Indomitable (three uses)*
+
+At 17th level, you can use Indomitable three times between long rests.
+
+=== *Unconquerable*
+
+At 17th level, When you’re in great peril, you can tap into a deep well
+of resilience within yourself. If you fail a saving throw and your
+Indomitable feature is expended, you can use it again by expending a use
+of your Second Wind, which also heals you.
+
+=== *Martial Archetype feature*
+
+At 18th level, you gain a feature granted by your Martial Archetype.
+
+=== *Ability Score Improvement*
+
+When you reach 19th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Extra Attack (3)*
+
+At 20th level, you can attack four times whenever you take the Attack
+action on your turn.
+
+===  +
+
+include::fighter_subclass.adoc[]

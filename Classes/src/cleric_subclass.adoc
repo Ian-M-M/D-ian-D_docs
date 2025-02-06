@@ -1,0 +1,222 @@
+== *Cleric Domains*
+
+=== Death Domain
+
+The Death domain is concerned with the forces that cause death, as well
+as the negative energy that gives rise to undead creatures. Deities such
+as Chemosh, Myrkul, and Wee Jas are patrons of necromancers, death
+knights, liches, mummy lords, and vampires. Gods of the Death domain
+also embody murder (Anubis, Bhaal, and Pyremius), pain (Iuz or
+Loviatar), disease or poison (Incabulos, Talona, or Morgion), and the
+underworld (Hades and Hel).
+
+At each indicated cleric level, add the listed spells to your spells
+prepared. They do not count towards your limit.
+
+*Death Domain Spells*
+
+[width="100%",cols="17%,83%",options="header",]
+|===
+|*Cleric Level* |*Spells*
+|1st |false life, ray of sickness
+|3rd |blindness/deafness, ray of enfeeblement
+|5th |animate dead, vampiric touch
+|7th |blight, death ward
+|9th |antilife shell, cloudkill
+|===
+
+==== 1st LEVEL: Bonus Proficiency
+
+When the cleric chooses this domain at 1st level, he or she gains
+proficiency with martial weapons and heavy armor.
+
+==== 1st LEVEL: Reaper
+
+At 1st level, you learn one necromancy cantrip of your choice from any
+spell list. When you cast a necromancy cantrip or spell of level 1 or
+higher, that normally targets only one creature, the spell can instead
+target two creatures within range.
+
+==== 2nd LEVEL: Channel Divinity: Touch of Death
+
+Starting at 2nd level, you can use Channel Divinity to destroy another
+creature's life force by touch.
+
+When the cleric hits a creature with a melee attack, the cleric can use
+Channel Divinity to deal extra necrotic damage to the target. The damage
+equals 5 + twice your cleric level.
+
+==== 6th LEVEL: Inescapable Destruction
+
+Starting at 6th level, the cleric's ability to channel negative energy
+becomes more potent. Necrotic damage dealt by your cleric spells and
+Channel Divinity options ignores resistance to necrotic damage.
+
+==== 8th LEVEL: Blessed Strikes
+
+Starting at 8th level, you are blessed with divine might in battle. When
+a creature takes damage from one of your cantrips or weapon attacks, you
+can also deal 1d8 necrotic damage to that creature. Once you deal this
+damage, you can't use this feature again until the start of your next
+turn.
+
+==== 17th LEVEL: Improved Reaper
+
+Starting at 17th level, when you cast a Necromancy spell that targets
+only one creature, the spell deals max damage. Once you use this trait
+you can’t use it until you finish a long rest.
+
+=== Life Domain
+
+The Life domain focuses on the vibrant positive energy—one of the
+fundamental forces of the universe—that sustains all life. The gods of
+life promote vitality and health through healing the sick and wounded,
+caring for those in need, and driving away the forces of death and
+undeath. Almost any non-evil deity can claim influence over this domain,
+particularly agricultural deities (such as Chauntea, Arawai, and
+Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of
+healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht),
+and gods of home and community (such as Hestia, Hathor, and Boldrei).
+
+At each indicated cleric level, you add the listed spells to your spells
+prepared.
+
+*Life Domain Spells*
+
+[width="100%",cols="16%,84%",options="header",]
+|===
+|*Cleric Level* |*Spells*
+|*1st* |*bless, cure wounds*
+|*3rd* |*lesser restoration, spiritual weapon*
+|*5th* |*beacon of hope, revivify*
+|*7th* |*death ward, guardian of faith*
+|*9th* |*mass cure wounds, raise dead*
+|===
+
+==== 1st LEVEL: Bonus Proficiency
+
+When you choose this domain at 1st level, you gain proficiency with
+heavy armor.
+
+==== 1st LEVEL: Disciple of Life
+
+Also starting at 1st level, your healing spells are more effective.
+Whenever you use a spell of 1st level or higher to restore hit points to
+a creature, the creature regains additional hit points equal to 2 + the
+spell's level.
+
+==== 2nd LEVEL: Channel Divinity: Preserve Life
+
+Starting at 2nd level, you can use your Channel Divinity to heal the
+badly injured.
+
+As an action, you present your holy symbol and evoke healing energy that
+can restore a number of hit points equal to five times your cleric
+level. Choose any creatures within 30 feet of you, and divide those hit
+points among them. This feature can restore a creature to no more than
+half of its hit point maximum. You can't use this feature on an undead
+or a construct.
+
+==== 6th LEVEL: Blessed Healer
+
+Beginning at 6th level, the healing spells you cast on others heal you
+as well. When you cast a spell of 1st level or higher that restores hit
+points to a creature other than you, you regain hit points equal to 2 +
+the spell's level.
+
+==== 8th LEVEL: Blessed Strikes
+
+You are blessed with divine might in battle. When a creature takes
+damage from one of your cantrips or weapon attacks, you can also deal
+1d8 radiant damage to that creature. Once you deal this damage, you
+can't use this feature again until the start of your next turn.
+
+==== 17th LEVEL: Supreme Healing
+
+Starting at 17th level, when you would normally roll one or more dice to
+restore hit points with a spell, you instead use the highest number
+possible for each die. For example, instead of restoring 2d6 hit points
+to a creature, you restore 12.
+
+=== Peace Domain
+
+The balm of peace thrives at the heart of healthy communities, between
+friendly nations, and in the souls of the kindhearted. The gods of peace
+inspire people of all sorts to resolve conflict and to stand up against
+those forces that try to prevent peace from flourishing. See the Peace
+Deities table for a list of some of the gods associated with this
+domain.
+
+Clerics of the Peace Domain preside over the signing of treaties, and
+they are often asked to arbitrate in disputes. These clerics' blessings
+draw people together and help them shoulder one another's burdens, and
+the clerics' magic aids those who are driven to fight for the way of
+peace.
+
+You gain domain spells at the cleric levels listed in the Peace Domain
+Spells table. See the Divine Domain class feature for how domain spells
+work.
+
+*Peace Domain Spells*
+
+[width="100%",cols="10%,90%",options="header",]
+|===
+|*Cleric Level* |*Spells*
+|1st |heroism, sanctuary
+|3rd |aid, warding bond
+|5th |beacon of hope, sending
+|7th |aura of purity, Otiluke's resilient sphere
+|9th |greater restoration, Rary's telepathic bond
+|===
+
+==== 1st LEVEL: Implement of Peace
+
+You gain proficiency in the Insight, Performance, or Persuasion skill
+(your choice).
+
+==== 1st LEVEL: Emboldening Bond
+
+You can forge an empowering bond among people who are at peace with one
+another. As an action, you choose a number of willing creatures within
+30 feet of you (this can include yourself) equal to your proficiency
+bonus. You create a magical bond among them for 10 minutes or until you
+use this feature again. While any bonded creature is within 30 feet of
+another, the creature can roll a d4 and add the number rolled to an
+attack roll, an ability check, or a saving throw it makes. Each creature
+can add the d4 no more than once per turn.
+
+You can use this feature a number of times equal to your proficiency
+bonus, and you regain all expended uses when you finish a long rest.
+
+==== 2nd LEVEL: Channel Divinity: Balm of Peace
+
+You can use your Channel Divinity to make your very presence a soothing
+balm. As an action, you can move up to your speed, without provoking
+opportunity attacks, and when you move within 5 feet of any other
+creature during this action, you can restore a number of hit points to
+that creature equal to 2d6 + your Wisdom modifier (minimum of 1 hit
+point). A creature can receive this healing only once whenever you take
+this action.
+
+==== 6th LEVEL: Protective Bond
+
+The bond you forge between people helps them protect each other. When a
+creature affected by your Emboldening Bond feature is about to take
+damage, a second bonded creature within 30 feet of the first can use its
+reaction to teleport to an unoccupied space within 5 feet of the first
+creature. The second creature then takes all the damage instead.
+
+==== 8th LEVEL: Blessed Strikes
+
+You are blessed with divine might in battle. When a creature takes
+damage from one of your cantrips or weapon attacks, you can also deal
+1d8 radiant damage to that creature. Once you deal this damage, you
+can't use this feature again until the start of your next turn.
+
+==== 17th LEVEL: Expansive Bond
+
+The benefits of your Emboldening Bond and Protective Bond features now
+work when the creatures are within 60 feet of each other. Moreover, when
+a creature uses Protective Bond to take someone else's damage, the
+creature has resistance to that damage.
+

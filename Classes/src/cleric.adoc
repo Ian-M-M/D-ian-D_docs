@@ -1,0 +1,365 @@
+=== *Cleric*
+
+[width="99%",cols="12%,6%,37%,8%,4%,5%,4%,4%,4%,4%,4%,4%,4%",options="header",]
+|===
+| | | | |*_Spell Slots per Spell Level_* | | | | | | | |
+|*_Level_* a|
+*_Prof._*
+
+*_Bonus_*
+
+|*_Features_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_*
+|*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
+
+|*1st* |*+2* |*Spellcasting, Divine Domain* |*3* |*2* |*—* |*—* |*—*
+|*—* |*—* |*—* |*—* |*—*
+
+|*2nd* |*+2* |*Channel Divinity (1/rest), Channel Divinity: Harness
+Divine Power, Divine Domain feature* |*3* |*3* |*—* |*—* |*—* |*—* |*—*
+|*—* |*—* |*—*
+
+|*3rd* |*+2* |*—* |*3* |*4* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+
+|*4th* |*+2* |*Ability Score Improvement* |*4* |*4* |*3* |*—* |*—* |*—*
+|*—* |*—* |*—* |*—*
+
+|*5th* |*+3* |*Destroy Undead (CR 1/2)* |*4* |*4* |*3* |*2* |*—* |*—*
+|*—* |*—* |*—* |*—*
+
+|*6th* |*+3* |*Channel Divinity (2/rest), Divine Domain feature* |*4*
+|*4* |*3* |*3* |*—* |*—* |*—* |*—* |*—* |*—*
+
+|*7th* |*+3* |*—* |*4* |*4* |*3* |*3* |*1* |*—* |*—* |*—* |*—* |*—*
+
+|*8th* |*+3* |*Ability Score Improvement, Destroy Undead (CR 1), Divine
+Domain feature* |*4* |*4* |*3* |*3* |*2* |*—* |*—* |*—* |*—* |*—*
+
+|*9th* |*+4* |*—* |*4* |*4* |*3* |*3* |*3* |*1* |*—* |*—* |*—* |*—*
+
+|*10th* |*+4* |*Divine Intervention* |*5* |*4* |*3* |*3* |*3* |*2* |*—*
+|*—* |*—* |*—*
+
+|*11th* |*+4* |*Destroy Undead (CR 2)* |*5* |*4* |*3* |*3* |*3* |*2*
+|*1* |*—* |*—* |*—*
+
+|*12th* |*+4* |*Ability Score Improvement* |*5* |*4* |*3* |*3* |*3* |*2*
+|*1* |*—* |*—* |*—*
+
+|*13th* |*+5* |*—* |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*—* |*—*
+
+|*14th* |*+5* |*Destroy Undead (CR 3)* |*5* |*4* |*3* |*3* |*3* |*2*
+|*1* |*1* |*—* |*—*
+
+|*15th* |*+5* |*—* |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*—*
+
+|*16th* |*+5* |*Ability Score Improvement* |*5* |*4* |*3* |*3* |*3* |*2*
+|*1* |*1* |*1* |*—*
+
+|*17th* |*+6* |*Destroy Undead (CR 4), Divine Domain feature* |*5* |*4*
+|*3* |*3* |*3* |*2* |*1* |*1* |*1* |*1*
+
+|*18th* |*+6* |*Channel Divinity (3/rest)* |*5* |*4* |*3* |*3* |*3* |*3*
+|*1* |*1* |*1* |*1*
+
+|*19th* |*+6* |*Ability Score Improvement* |*5* |*4* |*3* |*3* |*3* |*3*
+|*2* |*1* |*1* |*1*
+
+|*20th* |*+6* |*Divine Intervention Improvement* |*5* |*4* |*3* |*3*
+|*3* |*3* |*2* |*2* |*1* |*1*
+|===
+
+[width="99%"]
+|===
+|
+*Hit Points*
+
+*_Hit Dice_*: 1d8
+
+*_Hit Points at 1st Level_*: 8 + your Constitution modifier
+
+*_Hit Points at Higher Levels_*: 1d8 (or 5) + your Constitution modifier
+per Cleric level after 1st
+|
+*Proficiencies*
+
+*_Armor_*: light armor, medium armor, shields
+
+*_Weapons_*: simple weapons
+
+*_Tools_*: none
+
+*_Saving Throws_*: Wisdom, Charisma
+
+*_Skills_*: Choose 2 from History, Insight, Medicine, Persuasion, and
+Religion.
+a|
+*Starting Equipment*
+
+You start with the following items, plus anything provided by your
+background.
+
+* {blank}
++
+____
+{empty}(a) a mace or (b) a warhammer (if proficient)
+____
+* {blank}
++
+____
+{empty}(a) scale mail, (b) leather armor, or (c) chain mail (if
+proficient)
+____
+* {blank}
++
+____
+{empty}(a) a light crossbow and 20 bolts or (b) any simple weapon
+____
+* {blank}
++
+____
+{empty}(a) a priest's pack or (b) an explorer's pack
+____
+* {blank}
++
+____
+A shield and a holy symbol
+____
+|===
+
+=== *Spellcasting*
+
+==== *Cantrips*
+
+You learn cantrips from the druid spell List Cantrips Knows on the
+Cleric table shows. Additionally, you learn the _Sacred Flame_, it
+doesn’t count to your Cantrips Knows.
+
+Whenever you reach a level in this class that grants the __Ability Score
+Improvemen__t feature, you can replace one cantrip you learned from this
+class's Spellcasting feature with another cantrip from the druid class
+spell list.
+
+==== *Spell Slots*
+
+Your Class table shows how many spell slots you have to cast your spells
+of 1st level and higher. To cast one of these spells, you must expend a
+slot of the spell's level or higher. You regain all expended spell slots
+when you finish a long rest.
+
+==== *Preparing and Casting Spells*
+
+Whenever you finish a Long Rest, you can replace any Spell you have
+prepared for this Class with another Spell from the Cleric Class Spell
+List. At higher levels in this Class, you can prepare more Spells. The
+amount of spells you can prepare is equal to your Wisdom modifier + your
+Cleric level. The amount of spells that you are able to prepare for each
+level is determined by the amount of spell slots that you have for each
+level.
+
+==== *Spellcasting Ability*
+
+Your spellcasting ability is Wisdom:
+
+____
+Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
+
+Spell attack modifier = your proficiency bonus + your Wisdom modifier
+____
+
+==== *Spellcasting Focus*
+
+You can use a holy symbol as a spellcasting focus for your cleric
+spells.
+
+==== *Ritual Casting*
+
+You can cast any spell from your Prepared Spells of this class as a
+ritual if that spell has the ritual tag.
+
+=== *Divine Domain*
+
+Choose one domain related to your deity from the list of available
+domains. Each domain is detailed in their own feature, and each one
+provides examples of gods associated with it. Your choice grants you
+domain spells and other features when you choose it at 1st level. It
+also grants you additional ways to use Channel Divinity when you gain
+that feature at 2nd level, and additional benefits at 6th, 8th, and 17th
+levels.
+
+==== Domain Spells
+
+Each domain has a list of spells—its domain spells—that you gain at the
+cleric levels noted in the domain description. Once you gain a domain
+spell, you always have it prepared, and it doesn't count against the
+number of spells you can prepare each day.
+
+If you have a domain spell that doesn't appear on the cleric spell list,
+the spell is nonetheless a cleric spell for you.
+
+=== *Channel Divinity*
+
+At 2nd level, you gain the ability to channel divine energy directly
+from your deity, using that energy to fuel magical effects. You start
+with two such effects: Turn Undead and an effect determined by your
+domain. Some domains grant you additional effects as you advance in
+levels, as noted in the domain description.
+
+When you use your Channel Divinity, you choose which effect to create.
+You must then finish a short or long rest to use your Channel Divinity
+again.
+
+Some Channel Divinity effects require saving throws. When you use such
+an effect from this class, the DC equals your cleric spell save DC.
+
+Beginning at 6th level, you can use your Channel Divinity twice between
+rests, and beginning at 18th level, you can use it three times between
+rests. When you finish a short or long rest, you regain your expended
+uses.
+
+==== *Channel Divinity: Turn Undead*
+
+As an action, you present your holy symbol and speak a prayer censuring
+the undead. Each undead that can see or hear you within 30 feet of you
+must make a Wisdom saving throw. If the creature fails its saving throw,
+it is turned for 1 minute or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from
+you as it can, and it can't willingly move to a space within 30 feet of
+you. It also can't take reactions. For its action, it can use only the
+Dash action or try to escape from an effect that prevents it from
+moving. If there's nowhere to move, the creature can use the Dodge
+action.
+
+==== *Channel Divinity: Harness Divine Power*
+
+You can expend a use of your Channel Divinity to fuel your spells. As a
+bonus action, you touch your holy symbol, utter a prayer, and regain one
+expended spell slot, the level of which can be no higher than half your
+proficiency bonus (rounded up). The number of times you can use this
+feature is based on the level you've reached in this class: 2nd level,
+once; 6th level, twice; and 18th level, thrice. You regain all expended
+uses when you finish a long rest.
+
+=== *Divine Domain feature*
+
+At 2nd level, you gain a feature from your Divine Domain.
+
+=== *Ability Score Improvement*
+
+When you reach 4th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Destroy Undead (CR 1/2)*
+
+Starting at 5th level, when an undead of CR 1/2 or lower fails its
+saving throw against your Turn Undead feature, the creature is instantly
+destroyed.
+
+=== *Channel Divinity*
+
+Beginning at 6th level, you can use your Channel Divinity twice between
+rests.
+
+=== *Divine Domain feature*
+
+At 6th level, you gain a feature from your Divine Domain.
+
+=== *Ability Score Improvement*
+
+When you reach 8th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Destroy Undead (CR 1)*
+
+Starting at 8th level, when an undead of CR 1 or lower fails its saving
+throw against your Turn Undead feature, the creature is instantly
+destroyed.
+
+=== *Divine Domain feature*
+
+At 8th level, you gain a feature from your Divine Domain.
+
+=== *Divine Intervention*
+
+Beginning at 10th level, you can call on your deity to intervene on your
+behalf when your need is great.
+
+Imploring your deity's aid requires you to use your action. Describe the
+assistance you seek, and roll percentile dice. If you roll a number
+equal to or lower than your cleric level, your deity intervenes. The DM
+chooses the nature of the intervention; the effect of any cleric spell
+or cleric domain spell would be appropriate. If your deity intervenes,
+you can't use this feature again for 7 days. Otherwise, you can use it
+again after you finish a long rest.
+
+At 20th level, your call for intervention succeeds automatically, no
+roll required.
+
+=== *Destroy Undead (CR 2)*
+
+Starting at 11th level, when an undead of CR 2 or lower fails its saving
+throw against your Turn Undead feature, the creature is instantly
+destroyed.
+
+=== *Ability Score Improvement*
+
+When you reach 12th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Destroy Undead (CR 3)*
+
+Starting at 14th level, when an undead of CR 3 or lower fails its saving
+throw against your Turn Undead feature, the creature is instantly
+destroyed.
+
+=== *Ability Score Improvement*
+
+When you reach 16th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Destroy Undead (CR 4)*
+
+Starting at 17th level, when an undead of CR 4 or lower fails its saving
+throw against your Turn Undead feature, the creature is instantly
+destroyed.
+
+=== *Divine Domain feature*
+
+At 17th level, you gain a feature from your Divine Domain.
+
+=== *Channel Divinity*
+
+Beginning at 18th level, you can use your Channel Divinity three times
+between rests.
+
+=== *Ability Score Improvement*
+
+When you reach 19th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Divine Intervention Improvement*
+
+At 20th level, your call for intervention succeeds automatically, no
+roll required.
+
+include::cleric_subclass.adoc[]

@@ -1,0 +1,348 @@
+== *Paladin Oaths*
+
+=== Oath of the Ancients
+
+==== *3RD LEVEL: Oath Spells*
+
+You gain oath spells at the paladin levels listed.
+
+*Oath of the Ancients Spells*
+
+[width="100%",cols="29%,71%",options="header",]
+|===
+|*Paladin Level* |*Spells*
+|*3rd* |*ensnaring strike, speak with animals*
+|*5th* |*moonbeam, misty step*
+|*9th* |*plant growth, protection from energy*
+|*13th* |*ice storm, stoneskin*
+|*17th* |*commune with nature, tree stride*
+|===
+
+==== *3RD LEVEL: Nature's Wrath__.__*
+
+You can use your Channel Divinity to invoke primeval forces to ensnare a
+foe. As a bonus action, you can cause spectral vines to spring up and
+reach for a creature within 10 feet of you that you can see. The
+creature must succeed on a Strength saving throw or be restrained. While
+restrained by the vines, the creature repeats the saving throw at the
+end of each of its turns. On a success, it frees itself and the vines
+vanish.
+
+==== *3RD LEVEL: Healing Radiance.*
+
+As a bonus action, you can expend and heal yourself and any ally that is
+10 ft from you. At the start of your next turn you heal again. The
+amount of healing is your charisma modifier. The second heal only
+happens while you aren’t incapacitated.
+
+==== *7TH LEVEL: Aura of Warding*
+
+You and your allies have resistance to damage from spells while in your
+Aura of Protection.
+
+==== *15TH LEVEL: Elder Champion*
+
+Starting at 15th level, as a bonus action, you can imbue your Aura of
+Protection with holy power. The aura gains the following benefits for 1
+minute or until you end them as a Bonus Action.
+
+*Healing Nature.* Every ally that starts its turn inside your aura
+regains 10 hit points.
+
+*Nature's Wrath*. Enemy creatures inside your aura have disadvantage on
+saving throws against your paladin spells and Channel Divinity options.
+
+Once you use this feature, you can’t use it again until you finish a
+Long Rest unless you expend a Spell Slot of at least 4th level when you
+use it again.
+
+Additionally, you suffer none of the drawbacks of old age, and you can't
+be aged magically.
+
+=== Oath of Devotion
+
+==== *3RD LEVEL: OATH SPELLS*
+
+The magic of your oath gives you the following benefits:
+
+* {blank}
++
+____
+*Prepared Spells.* You always have certain spells ready; when you reach
+a Paladin level specified in the Oath of Devotion Spells table, you
+thereafter always have the listed spells prepared. These spells don’t
+count against the number of spells you can prepare, and they follow the
+rules of this class’s Spellcasting feature.
+____
+* {blank}
++
+____
+*Divine Casting*. You can cast one of your prepared spells from this
+feature without expending a Spell Slot, and you must finish a Long Rest
+before you use this benefit again.
+____
+
+*OATH OF DEVOTION SPELLS*
+
+[width="100%",cols="18%,82%",options="header",]
+|===
+|*Paladin Level* |*Spells*
+|*_3rd_* |Protection from Evil And Good, Shield of Faith
+|*_5th_* |Aid, Zone of Truth
+|*_9th_* |Aura of Vitality, Blinding Smite
+|*_13th_* |Guardian of Faith, Staggering Smite
+|*_17th_* |Commune, Flame Strike
+|===
+
+==== *3RD LEVEL: SACRED WEAPON*
+
+As a bonus action, you can imbue one Simple or Martial weapon that you
+are holding with positive energy, using your Channel Divinity. For 1
+minute, you add your Charisma modifier to attack rolls made with that
+weapon (with a minimum bonus of +1), and each time you hit with it, you
+cause it to deal radiant damage instead of its normal damage type.
+
+The weapon also emits bright light in a 20-foot radius and dim light 20
+feet beyond that.
+
+You can end this effect on your turn as part of any other action. If you
+are no longer holding or carrying this weapon, or if you have the
+Incapacitated, this effect ends.
+
+==== *3RD LEVEL: SMITE OF PROTECTION*
+
+Your Divine Smite now radiates protective energy that allows you and
+your allies to stay in the fight. Whenever you use your Divine Smite,
+choose yourself or an ally within 30 feet of yourself. The chosen
+creature gains Temporary Hit Points equal to 1d8 plus the level of the
+Spell Slot used for the Divine Smite.
+
+==== *7TH LEVEL: AURA OF DEVOTION*
+
+You and your allies are immune to the Charmed condition while in your
+Aura of Protection. If a Charmed ally enters the aura, that condition is
+suppressed while the ally is there.
+
+==== *15TH LEVEL: Holy Nimbus*
+
+Beginning at 15th level, as a bonus action, you can imbue your Aura of
+Protection with holy power. The aura gains the following benefits for 1
+minute or until you end them as a Bonus Action:
+
+*Radiant Damage*. Whenever an enemy starts its turn in the aura, that
+creature takes Radiant damage equal to your Proficiency Bonus plus your
+Charisma modifier.
+
+*Sunlight.* The aura is filled with light, that is sunlight. As a bonus
+action, you can create an explosion of light inside your aura, forcing
+any creature that is inside of it to make a Constitution saving throw
+against your spellcasting DC, being blinded on a failed save.
+
+Once you use this feature, you can’t use it again until you finish a
+Long Rest unless you expend a Spell Slot of at least 4th level when you
+use it again.
+
+=== Oath of Glory
+
+==== *3RD LEVEL: Oath Spells*
+
+You gain oath spells at the paladin levels listed in the Oath of Glory
+Spells table. See the Sacred Oath class feature for how oath spells
+work.
+
+[width="100%",cols="31%,69%",options="header",]
+|===
+|Paladin Level |Spells
+|3rd |guiding bolt, heroism
+|5th |enhance ability, magic weapon
+|9th |haste, protection from energy
+|13th |compulsion, freedom of movement
+|17th |commune, flame strike
+|===
+
+==== *3RD LEVEL: Peerless Athlete.*
+
+As a bonus action, you can use your Channel Divinity to augment your
+athleticism. For the next 10 minutes, you have advantage on Strength
+(Athletics) and Dexterity (Acrobatics) checks; you can carry, push,
+drag, and lift twice as much weight as normal; and the distance of your
+long and high jumps increases by 10 feet (this extra distance costs
+movement as normal).
+
+==== *3RD LEVEL: Inspiring Smite.*
+
+You can use your Channel Divinity as a bonus action and distribute
+temporary hit points to creatures of your choice within 30 feet of you,
+which can include you. The total number of temporary hit points equals
+2d8 + your level in this class, divided among the chosen creatures
+however you like.
+
+==== *7TH LEVEL: Aura of Alacrity*
+
+You and your allies have a walking speed increase of 10 feet while in
+your Aura of Protection.
+
+==== *15TH LEVEL: Living Legend*
+
+Beginning at 15th level, as a bonus action, you can imbue your Aura of
+Protection with holy power. The aura gains the following benefits for 1
+minute or until you end them as a Bonus Action:
+
+*Glorious Attack*. Once on each of your turns when you make a weapon
+attack and miss, you can cause that attack to hit instead.
+
+*Glorious Salvation.* If you fail a saving throw, you can use your
+reaction to reroll it. You must use this new roll.
+
+Once you use this feature, you can’t use it again until you finish a
+Long Rest unless you expend a Spell Slot of at least 4th level when you
+use it again.
+
+=== Oath of the Open Sea
+
+==== *Tenets of the Open Sea*
+
+Freedom can be a selfless virtue or a selfish want. For paladins who
+swear the Oath of the Open Sea, freedom is the highest calling, and a
+gift to be granted to all.
+
+*No Greater Life than a Life Lived Free*. One should be free to chart
+their own path without oppression. Those who would exert their power to
+dominate others shall be smote.
+
+*Trust the Skies*. The guidance of a strong breeze. The rumbling
+warnings of a coming storm. Nature is a source of portent and council
+that should be heeded.
+
+*Adapt Like the Water.* The waters of the ocean can shift around any
+obstacle—or become the most impassable obstacle of all. They carve away
+the land to reveal the secrets of the past, or swallow the truth and
+hide it forever. To embrace this fluidity is to be ready for any
+challenge.
+
+*Explore the Uncharted.* The world is filled with mystery. Through the
+pursuit of enigmatic ends, one can uncover those who hide their foul
+deeds, and find the path to becoming something great.
+
+==== *3RD LEVEL: Oath Spells*
+
+You gain oath spells at the paladin levels listed in the Oath of the
+Open Sea Spells table. Spells marked with an asterisk are new spells
+described on the spells page.
+
+[width="100%",cols="31%,69%",options="header",]
+|===
+|Paladin Level |Spells
+|3rd |create or destroy water, expeditious retreat
+
+|5th |augury, misty step
+
+|9th |call lightning, tidal wave
+
+|13th |control water, freedom of movement
+
+|17th |commune with nature, Conjure Elemental (water and air elemental
+only)
+|===
+
+==== *3RD LEVEL: Marine Layer.*
+
+As an action you can spend one use of your Channel Divinity, to channel
+the sea to create a thick cloud of fog that surrounds you for 20 feet in
+all directions. The fog moves with you, remaining centered on you and
+making its area heavily obscured. You and each creature within 5 feet of
+you instead treat the area as lightly obscured. This fog lasts for 10
+minutes, spreads around corners, and cannot be dispersed unless you
+choose to end this effect (no action required).
+
+==== *3RD LEVEL: Fury of the Tides.*
+
+You can use your Channel Divinity as a bonus action and channel the
+powerful might of the waves to bolster your attacks for 1 minute. Once
+per turn for the duration, when you hit a creature with a weapon attack,
+you can choose to push the target 10 feet away from you. If pushed into
+an obstacle or another creature, the target takes bludgeoning damage
+equal to your Charisma modifier.
+
+==== *7TH LEVEL: Aura of Liberation*
+
+You and your allies cannot be grappled or restrained, and ignore
+penalties on movement and attacks while underwater, while in your Aura
+of Protection.
+
+Creatures that are already grappled or restrained when they enter the
+aura can spend 5 feet of movement to automatically escape unless they
+are bound by magic restraints
+
+==== *15TH LEVEL: Mythic Swashbuckler*
+
+Beginning at 15th level, as a bonus action, you can imbue your Aura of
+Protection with holy power. The aura gains the following benefits for 1
+minute or until you end them as a Bonus Action:
+
+*Mythic Duel*. If you are within 5 feet of a creature and no other
+creatures are within 5 feet of you, you have advantage on attack rolls
+against that creature..
+
+*Cunning Action.* You can take the Dash or Disengage action as a bonus
+action.
+
+Once you use this feature, you can’t use it again until you finish a
+Long Rest unless you expend a Spell Slot of at least 4th level when you
+use it again.
+
+=== Oathbreaker
+
+==== 3RD LEVEL: Oathbreaker Spell
+
+You gain oathbreaker spells at the paladin levels listed.
+
+[width="100%",cols="25%,75%",options="header",]
+|===
+|Paladin Level |Spells
+|3rd |hellish rebuke, inflict wounds
+|5th |crown of madness, darkness
+|9th |spirit guardians, bestow curse
+|13th |blight, confusion
+|17th |contagion, dominate person
+|===
+
+==== 3RD LEVEL: End Life.
+
+As a bonus action, when you roll the damage of your divine smite you can
+target a creature other than the one that takes the damage of your
+divine smite and force it to make a Constitution saving throw, on a fail
+save it takes half the damage of your divine smite. Additionally, your
+divine smite deals necrotic damage.
+
+==== 3RD LEVEL: Dreadful Aspect.
+
+As a bonus action, you can expend a use of your Channel Divinity to
+force each creature that is 10 feet from you, must make a Wisdom saving
+throw. On a failed save, the target is frightened of you for 1 minute. A
+creature frightened by you can repeat the save at the end of its turn,
+ending the effect on itself.
+
+==== 7TH LEVEL: Aura of Hate
+
+You and your allies gain a bonus to the damage roll equals to your
+Charisma modifier while in your Aura of Protection.
+
+==== 15TH LEVEL: Dread Lord
+
+Beginning at 15th level, as a bonus action, you can imbue your Aura of
+Protection with holy power. The aura gains the following benefits for 1
+minute or until you end them as a Bonus Action:
+
+*Supernatural Resistance.* You gain resistance to bludgeoning, piercing,
+and slashing damage from non magical weapons.
+
+*Dead Aura.* As a bonus action, you can create an explosion of dead
+inside your aura, forcing any creature that is inside of it to make a
+Constitution saving throw against your spellcasting DC,on a fail save
+takes necrotic damage equal to your 2d8 plus your Charisma modifier.
+
+Once you use this feature, you can’t use it again until you finish a
+Long Rest unless you expend a Spell Slot of at least 4th level when you
+use it again.
+

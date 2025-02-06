@@ -1,0 +1,525 @@
+== *Druid*
+
+[width="99%",cols="14%,7%,25%,9%,10%,8%,3%,3%,3%,3%,3%,3%,3%,3%,3%",options="header",]
+|===
+| | | | | | |*_Spell Slots per Spell Level_* | | | | | | | |
+|*_Level_* |*_Prof . Bonus_* |*_Features_* |*_Channel Nature_* a|
+*_Animalistic_*
+
+*_Invocations_*
+
+|*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_*
+|*_6th_* |*_7th_* |*_8th_* |*_9th_*
+
+|*1st* |*+2* |*Animalistic Invocations, Channel Nature, Druidic,
+Spellcasting* |*2* |*1* |*2* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*—*
+
+|*2nd* |*+2* |*Nature’s Aid, Druid Circle* |*2* |*1* |*2* |*3* |*—* |*—*
+|*—* |*—* |*—* |*—* |*—* |*—*
+
+|*3rd* |*+2* |*—* |*2* |*1* |*2* |*4* |*2* |*—* |*—* |*—* |*—* |*—* |*—*
+|*—*
+
+|*4th* |*+2* |*Ability Score Improvement* |*2* |*2* |*3* |*4* |*3* |*—*
+|*—* |*—* |*—* |*—* |*—* |*—*
+
+|*5th* |*+3* |*Might of the Land* |*3* |*2* |*3* |*4* |*3* |*2* |*—*
+|*—* |*—* |*—* |*—* |*—*
+
+|*6th* |*+3* |*Druid Circle feature* |*3* |*2* |*3* |*4* |*3* |*3* |*—*
+|*—* |*—* |*—* |*—* |*—*
+
+|*7th* |*+3* |*Aquatic Form* |*3* |*2* |*3* |*4* |*3* |*3* |*1* |*—*
+|*—* |*—* |*—* |*—*
+
+|*8th* |*+3* |*Ability Score Improvement* |*3* |*3* |*3* |*4* |*3* |*3*
+|*2* |*—* |*—* |*—* |*—* |*—*
+
+|*9th* |*+4* |*Aerial Form* |*4* |*3* |*3* |*4* |*3* |*3* |*3* |*1* |*—*
+|*—* |*—* |*—*
+
+|*10th* |*+4* |*Druid Circle feature* |*4* |*3* |*4* |*4* |*3* |*3* |*3*
+|*2* |*—* |*—* |*—* |*—*
+
+|*11th* |*+4* |*Tiny Critter* |*4* |*3* |*4* |*4* |*3* |*3* |*3* |*2*
+|*1* |*—* |*—* |*—*
+
+|*12th* |*+4* |*Ability Score Improvement* |*4* |*4* |*4* |*4* |*3* |*3*
+|*3* |*2* |*1* |*—* |*—* |*—*
+
+|*13th* |*+5* |*Alternating Forms* |*4* |*4* |*4* |*4* |*3* |*3* |*3*
+|*2* |*1* |*1* |*—* |*—*
+
+|*14th* |*+5* |*Druid Circle feature* |*4* |*4* |*4* |*4* |*3* |*3* |*3*
+|*2* |*1* |*1* |*—* |*—*
+
+|*15th* |*+5* |*Wild Resurgence* |*4* |*4* |*4* |*4* |*3* |*3* |*3* |*2*
+|*1* |*1* |*1* |*—*
+
+|*16th* |*+5* |*Ability Score Improvement* |*4* |*5* |*4* |*4* |*3* |*3*
+|*3* |*2* |*1* |*1* |*1* |*—*
+
+|*17th* |*+6* |*Timeless Body* |*4* |*5* |*4* |*4* |*3* |*3* |*3* |*2*
+|*1* |*1* |*1* |*1*
+
+|*18th* |*+6* |*Beast Spells* |*4* |*5* |*4* |*4* |*3* |*3* |*3* |*3*
+|*1* |*1* |*1* |*1*
+
+|*19th* |*+6* |*Ability Score Improvement* |*4* |*5* |*4* |*4* |*3* |*3*
+|*3* |*3* |*2* |*1* |*1* |*1*
+
+|*20th* |*+6* |*Archdruid* |*Unlimited* |*5* |*4* |*4* |*3* |*3* |*3*
+|*3* |*2* |*2* |*1* |*1*
+|===
+
+[width="99%",cols="20%,16%,16%,16%,16%,16%",options="header",]
+|===
+|
+*Hit Points*
+
+*_Hit Dice_*: 1d8
+
+*_Hit Points at 1st Level_*: 8 + your Constitution modifier
+
+*_Hit Points at Higher Levels_*: 1d8 (or 5) + your Constitution modifier
+per Druid level after 1st
+|
+*Proficiencies*
+
+*_Armor_*: light armor, medium armor, shields (druids will not wear
+armor or use shields made of metal)
+
+*_Weapons_*: clubs, daggers, darts, javelins, maces, quarterstaffs,
+scimitars, sickles, slings, spears
+
+*_Tools:_* Herbalism kit
+
+*_Saving Throws_*: Intelligence, Wisdom
+
+*_Skills_*: Choose 2 from Arcana, Animal Handling, Insight, Medicine,
+Nature, Perception, Religion, and Survival.
+a|
+*Starting Equipment*
+
+You start with the following items, plus anything provided by your
+background.
+
+* {blank}
++
+____
+{empty}(a) a wooden shield or (b) any simple weapon
+____
+* {blank}
++
+____
+{empty}(a) a scimitar or (b) any simple melee weapon
+____
+* {blank}
++
+____
+Leather armor, an explorer's pack, and a druidic focus
+____
+|===
+
+=== Animalistic Invocations
+
+At 1st level, you learn the specific form as a creature gaining the
+ability given by that beast. You can choose 1 animalistic Invocation
+with which you have access to the form that it requires, additionally
+you can use this trait when you have in other forms (like using the
+poison of a snake while you are in aquatic form).
+
+You gain the benefits of the given trait as long as you are in your
+Wildshape.
+
+You learn additional Animalistic Invocations as shown in the Animalistic
+Invocations column. When you learn new Invocations you can replace one
+of the Invocations that you know.
+
+=== 
+
+=== Channel Nature
+
+At 1st level, the magic of nature infuses you. Tapping into that power,
+you can create various magical
+
+effects. You start with one such effect: Wild Shape, which is described
+below. Other Druid features give additional Channel Nature effect
+options. Each time you use this Channel Nature, you choose which effect
+to create from among those you have from this class. You can use Channel
+Nature twice. You regain one expended use when you finish a Short Rest,
+and you regain all expended uses when you finish a Long Rest.
+
+You gain additional uses at 5th and 9th level. At 20th level you get
+unlimited uses.
+
+If a Channel Nature effect requires a saving throw, the DC equals the
+Spell Save DC from this class’s Spellcasting feature.
+
+*Wild Shape*. As an action, you transform into a form that you have
+learned for this feature. You start knowing one form, Animal of the
+Land, which is detailed in the “Wild Shapes” section later in this
+class’s description. You stay in that form for a number of hours equal
+to half your Druid level or until you use Wild Shape again, have the
+Incapacitated condition, or die. You can also end Wild Shape early as a
+Bonus Action. While in a form, its game statistics replace yours, and
+your ability to handle objects is determined by the form’s limbs, rather
+than your own. You retain your personality, memories, ability to speak,
+Wild Shape, skills and saving throw proficiencies. You lose access to
+all your other features, such as the ability to cast spells (you can
+continue to concentrate on one). When you transform, you choose whether
+your equipment falls to the ground in your space or merges into your new
+form. Equipment that merges with the form has no effect until you leave
+the form.
+
+=== Druidic
+
+At 1st level, you know Druidic, the secret language of druids. You can
+speak the language and use it to leave hidden messages. You and others
+who know this language automatically spot such a message. Others spot
+the message's presence with a successful DC 15 Wisdom (Perception) check
+but can't decipher it without magic.
+
+=== *Spellcasting*
+
+==== *Cantrips*
+
+You learn cantrips from the druid spell List Cantrips Knows on the Druid
+table shows. Additionally, you learn the Druidcraft Cantrip it doesn’t
+count to your Cantrips Knows.
+
+Whenever you reach a level in this class that grants the __Ability Score
+Improvemen__t feature, you can replace one cantrip you learned from this
+class's Spellcasting feature with another cantrip from the druid class
+spell list.
+
+==== *Spell Slots*
+
+Your Class table shows how many spell slots you have to cast your spells
+of 1st level and higher. To cast one of these spells, you must expend a
+slot of the spell's level or higher. You regain all expended spell slots
+when you finish a long rest.
+
+==== *Preparing and Casting Spells*
+
+Whenever you finish a Long Rest, you can replace any Spell you have
+prepared for this Class with another Spell from the Druid Class Spell
+List. At higher levels in this Class, you can prepare more Spells. The
+amount of spells you can prepare is equal to your Wisdom modifier + your
+Druid level (minimum of 1). The amount of spells that you are able to
+prepare for each level is determined by the amount of spell slots that
+you have for each level.
+
+==== *Spellcasting Ability*
+
+Your spellcasting ability is Wisdom:
+
+____
+Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
+
+Spell attack modifier = your proficiency bonus + your Wisdom modifier
+____
+
+==== *Spellcasting Focus*
+
+You can use a druidic focus as a spellcasting focus for your druid
+spells.
+
+==== *Ritual Casting*
+
+You can cast any spell from your Prepared Spells of this class as a
+ritual if that spell has the ritual tag.
+
+=== *Nature’s Aid*
+
+At 2nd level, you learn two more ways to use your Channel Nature—Healing
+Blossoms and Wild Companion—each of which is described below.
+
+*Healing Blossoms.* As an action, you channel healing energy that
+appears as blooming flowers. Choose a point within 30 feet of yourself,
+and spectral flowers appear for a moment in a 10-foot-radius sphere
+centered on that point. Then roll a number of d4s equal to your Wisdom
+modifier (minimum of one die), and add the dice together. The total is
+the number of Hit Points you can distribute to creatures in that sphere.
+You decide the number of Hit Points that are restored to each of those
+creatures, deducting the healing from the total.
+
+*Wild Companion.* You can summon a nature spirit that assumes an animal
+form to aid you. As an action, you can expend a use of your Channel
+Nature and cast the Find Familiar spell without material components.
+When you cast the spell in this way, the familiar is a Fey, and it
+disappears when you finish a Long Rest.
+
+=== *Druid Circle*
+
+At 2nd level, you choose to identify with a circle of druids from the
+list of available circles. Your choice grants you features at 2nd level
+and again at 6th, 10th, and 14th level.
+
+=== Ability Score Improvement
+
+When you reach 4th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Might of the Land*
+
+At 5th level, your connection to the land deepens, empowering the Animal
+of the Land form of your *Wild Shape*; you unlock that form’s Climb
+Speed and Multiattack.
+
+=== *Druid Circle*
+
+At 6th level, you gain a feature granted by your Druid Circle feature.
+
+=== *Aquatic Form*
+
+At 7th level, you learn a new form for your *Wild Shape:* Animal of the
+Sea, which is described in the “Wild Shapes” section later in this
+class’s description.
+
+=== Ability Score Improvement
+
+When you reach 8th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Aerial Form*
+
+At 9th level, you learn a new form for your *Wild Shape:* Animal of the
+Sky, which is described in the “Wild Shapes” section later in this
+class’s description.
+
+=== *Druid Circle*
+
+At 10th level, you gain a feature granted by your Druid Circle feature.
+
+=== *Tiny Critter*
+
+At 11th level, you gain the ability to become a Tiny creature. When you
+transform into a *Wild Shape* form, you can make it Tiny. If you do so,
+you can stay in that form no longer than 10 minutes, and the damage you
+deal in that form is halved.
+
+=== Ability Score Improvement
+
+When you reach 12h level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Alternating Forms*
+
+At 13th level, you can now rapidly shift between a *Wild Shape* form and
+your normal form. If you’re in a Wild Shape form, you can switch to your
+normal form as a Bonus Action, and you can then switch back into that
+Wild Shape form within the next minute as a Bonus Action. Neither switch
+expends a use of Wild Shape.
+
+=== *Druid Circle*
+
+At 14th level, you gain a feature granted by your Druid Circle feature.
+
+=== *Wild Resurge*
+
+At 15th level, when you use your Wild Shape, primal magic radiates from
+you, allowing you to use Healing Blossoms as part of the same use of
+Channel Nature.
+
+=== Ability Score Improvement
+
+When you reach 16th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Timeless Body*
+
+Starting at 17th level, the primal magic that you wield causes you to
+age more slowly. For every 10 years that pass, your body ages only 1
+year.
+
+=== *Beast Spells*
+
+Beginning at 18th level, you can cast many of your druid spells in any
+shape you assume using Wild Shape. You can perform the somatic and
+verbal components of a druid spell while in a beast shape, but you
+aren't able to provide material components.
+
+=== Ability Score Improvement
+
+When you reach 19th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Archdruid*
+
+At 20th level, you can use your Wild Shape an unlimited number of times.
+
+Additionally, you can ignore the verbal and somatic components of your
+druid spells, as well as any material components that lack a cost and
+aren't consumed by a spell. You gain this benefit in both your normal
+shape and your beast shape from Wild Shape.
+
+====  +
+
+=== *WILD SHAPES FORM*
+
+When you use your Wild Shape, you transform into a form you’ve learned
+for this feature. This section includes three forms: Animal of the Land,
+Animal of the Sea, and Animal of the Sky.
+
+As you assume a form, you determine its appearance, selecting an example
+animal from the form’s description, selecting another appropriate
+animal, or choosing a hybrid form that incorporates visual
+characteristics from two or more animals. The appearance you choose has
+no effect on the form’s capabilities.
+
+When choosing an animal’s appearance for a form, that animal needn’t be
+the same size as the form. For example, you could choose an elephant for
+the appearance and Small for the size— creating a form that resembles a
+little elephant.
+
+==== *ANIMAL OF THE LAND*
+
+An Animal of the Land is a flightless terrestrial animal, such as a
+bear, deer, horse, cat, dog, velociraptor, or big rodent. While in this
+form, you use the Animal of the Land stat block.
+
+[width="100%",cols="100%",options="header",]
+|===
+a|
+*ANIMAL OF THE LAND*
+
+Small, Medium, or Large Terrestrial Animal (Your Creature Type Doesn’t
+Change)
+
+*Armor Class* 10 + your Wisdom modifier
+
+*Hit Points* you continue to use your Hit Points and Hit Dice
+
+*Speed* 40 ft., Climb 40 ft. (requires 5th+ level)
+
+*STR, DEX* equal your Wisdom score
+
+*CON, INT, WIS, CHA* use your scores
+
+*Senses* Darkvision 60 ft.
+
+*Languages* the languages you know
+
+*Proficiency Bonus* equals your Proficiency Bonus
+
+*ACTIONS*
+
+*Bestial Strike.* Melee Attack: your Spell Attack Modifier to hit, reach
+5 ft., one target. Hit: 1d8 + your Wisdom modifier Bludgeoning,
+Piercing, or Slashing damage.
+
+*Multiattack* (Requires 5th+ Level). You make two Bestial Strike
+attacks.
+
+|===
+
+==== *ANIMAL OF THE SEA*
+
+An Animal of the Sea is an aquatic or semi aquatic animal, such as a
+crocodile, dolphin, sea turtle, octopus, or shark. While in this form,
+you use the Animal of the Sea stat block.
+
+[width="100%",cols="100%",options="header",]
+|===
+a|
+*ANIMAL OF THE SEA*
+
+Small, Medium, or Large Aquatic or Semi Aquatic Animal (Your Creature
+Type Doesn’t Change)
+
+**Armor Clas**s 10 + your Wisdom modifier
+
+*Hit Points* you continue to use your Hit Points and Hit Dice
+
+*Speed* 20 ft., Swim 40 ft.
+
+*DEX* equals your Wisdom score
+
+*STR, CON, INT, WIS, CHA* use your scores
+
+*Senses* Darkvision 90 ft.
+
+*Languages* the languages you know
+
+*Proficiency Bonus* equals your Proficiency Bonus
+
+*Amphibious*. You can breathe air and water.
+
+*ACTIONS*
+
+*Multiattack*. You make two Bestial Strike attacks.
+
+*Bestial Strike*. Melee Attack: your Spell Attack Modifier to hit, reach
+5 ft., one target. Hit: 1d6 + your Wisdom modifier Bludgeoning,
+Piercing, or Slashing damage.
+
+|===
+
+==== *ANIMAL OF THE SKY*
+
+An Animal of the Sky is a winged animal, such as a bat, eagle, falcon,
+pteranodon, or owl. While in this form, you use the Animal of the Sky
+stat block.
+
+[width="100%",cols="100%",options="header",]
+|===
+a|
+*ANIMAL OF THE SKY*
+
+Small, Medium, or Large Winged Animal (Your Creature Type Doesn’t
+Change)
+
+*Armor Class* 8 + your Wisdom modifier
+
+*Hit Points* you continue to use your Hit Points and Hit Dice
+
+*Speed* 20 ft., Fly 40 ft.
+
+*DEX* equals your Wisdom score
+
+*STR, CON, INT, WIS, CHA* use your scores
+
+*Senses* Darkvision 120 ft.
+
+*Languages* the languages you know
+
+*Proficiency Bonus* equals your Proficiency Bonus
+
+*Flyby*. You don’t provoke Opportunity Attacks when you fly out of an
+enemy’s reach.
+
+*Keen Senses*. You have Advantage on Wisdom (Perception) checks.
+
+*ACTIONS*
+
+*Multiattack*. You make two Bestial Strike attacks.
+
+*Bestial Strike*. Melee Attack: your Spell Attack Modifier to hit, reach
+5 ft., one target. Hit: 1d4 + your Wisdom modifier Bludgeoning,
+Piercing, or Slashing damage.
+
+|===
+
+include::druid_subclass.adoc[]

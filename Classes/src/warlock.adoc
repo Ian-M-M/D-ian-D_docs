@@ -1,0 +1,526 @@
+== *Warlock*
+
+[width="99%",cols="8%,6%,48%,8%,7%,7%,6%,10%",options="header",]
+|===
+|*_Level_* a|
+*_Prof._*
+
+*_Bonus_*
+
+|*_Features_* |*_Cantrips Known_* |*_Spells Known_* |*_Spell Slots_*
+|*_Slot Level_* |*_Invocations Known_*
+|*1st* |*+2* |*Pact Boon, Pact Magic* |*2* |*2* |*1* |*1st* |*—*
+
+|*2nd* |*+2* |*Eldritch Invocations* |*2* |*3* |*1* |*1st* |*2*
+
+|*3rd* |*+2* |*Otherworldly Patron* |*2* |*4* |*1* |*2nd* |*2*
+
+|*4th* |*+2* |*Ability Score Improvement, Eldritch Versatility* |*3*
+|*5* |*1* |*2nd* |*2*
+
+|*5th* |*+3* |*—* |*3* |*6* |*2* |*3rd* |*3*
+
+|*6th* |*+3* |*Otherworldly Patron feature* |*3* |*7* |*2* |*3rd* |*3*
+
+|*7th* |*+3* |*—* |*3* |*8* |*2* |*4th* |*4*
+
+|*8th* |*+3* |*Ability Score Improvement* |*3* |*9* |*2* |*4th* |*4*
+
+|*9th* |*+4* |*—* |*3* |*10* |*3* |*5th* |*5*
+
+|*10th* |*+4* |*Otherworldly Patron feature* |*4* |*10* |*3* |*5th* |*5*
+
+|*11th* |*+4* |*Mystic Arcanum (6th level)* |*4* |*11* |*3* |*5th* |*5*
+
+|*12th* |*+4* |*Ability Score Improvement* |*4* |*11* |*3* |*5th* |*6*
+
+|*13th* |*+5* |*Mystic Arcanum (7th level)* |*4* |*12* |*4* |*5th* |*6*
+
+|*14th* |*+5* |*Otherworldly Patron feature* |*4* |*12* |*4* |*5th* |*6*
+
+|*15th* |*+5* |*Mystic Arcanum (8th level)* |*4* |*13* |*4* |*5th* |*7*
+
+|*16th* |*+5* |*Ability Score Improvement* |*4* |*13* |*4* |*5th* |*7*
+
+|*17th* |*+6* |*Mystic Arcanum (9th level)* |*4* |*14* |*4* |*5th* |*7*
+
+|*18th* |*+6* |*—* |*4* |*14* |*4* |*5th* |*8*
+
+|*19th* |*+6* |*Ability Score Improvement* |*4* |*15* |*4* |*5th* |*8*
+
+|*20th* |*+6* |*Eldritch Master* |*4* |*15* |*4* |*5th* |*8*
+|===
+
+[width="99%"]
+|===
+|
+*Hit Points*
+
+*_Hit Dice_*: 1d8
+
+*_Hit Points at 1st Level_*: 8 + your Constitution modifier
+
+*_Hit Points at Higher Levels_*: 1d8 (or 5) + your Constitution modifier
+per Warlock level after 1st
+|
+*Proficiencies*
+
+*_Armor_*: light armor
+
+*_Weapons_*: simple weapons
+
+*_Tools:_* none
+
+*_Saving Throws_*: Choose 2 from Intelligence, Wisdom and Charisma.
+
+*_Skills_*: Choose 2 from Arcana, Deception, History, Intimidation,
+Investigation, Nature, and Religion.
+a|
+*Starting Equipment*
+
+You start with the following items, plus anything provided by your
+background.
+
+* {blank}
++
+____
+{empty}(a) a light crossbow and 20 bolts or (b) any simple weapon
+____
+* {blank}
++
+____
+{empty}(a) a component pouch or (b) an arcane focus
+____
+* {blank}
++
+____
+{empty}(a) a scholar's pack or (b) a dungeoneer's pack
+____
+* {blank}
++
+____
+Leather armor, any simple weapon, and two daggers
+____
+|===
+
+=== Pact Boon
+
+At 1st level, You have formed a pact with an otherworldly entity that
+has bestowed magical powers upon you. You always have the *_Eldritch
+Blast_* and *_Hex_* spells prepared, and you choose one of the following
+boons: Pact of the Blade, Pact of the Chain, or Pact of the Tome, each
+of which give you access to a cantrip that you learn and doesn’t count
+against your cantrips know. You determine the identity of the entity and
+choose its plane of existence, such as the Feywild, the Shadowfell, or
+an Outer Plane.
+
+You must choose from Wisdom, Intelligence or Charisma, which ability you
+will use for your spellcasting ability used by your Pact Magic feature.
+
+==== *Pact of the Blade*
+
+[width="99%",cols="20%,16%,16%,16%,16%,16%",options="header",]
+|===
+a|
+*Pact Weapon*
+
+Conjuration Cantrip (Warlock)
+
+*Casting Time:* Action
+
+*Range:* Self
+
+*Component*: S
+
+*Duration*: 24 hours
+
+| | | | |
+a|
+Tracing arcane sigils in the air, you conjure a Simple or Martial melee
+weapon of your choice in your outstretched hand, or you create a bond
+with a magic weapon you touch. The weapon you conjure or touch must lack
+the Heavy property, and the spell fails if you touch a magic item that
+is attuned to someone else. For the duration, the weapon grants you the
+following benefits:
+
+*Eldritch Warrior.* When you attack with the weapon, you can use your
+spellcasting ability modifier for the attack and damage rolls,
+
+instead of using Strength or Dexterity. Additionally you are proficient
+with medium armor for the duration.
+
+*Proficiency.* You have proficiency with the weapon.
+
+*Returning Weapon.* If the weapon has the Thrown property, the weapon
+returns to your hand immediately after hitting or missing a target.
+
+The spell ends early if you cast the spell again or die. When it ends, a
+conjured weapon disappears, or your bond with a magic weapon stops.
+
+*Cantrip Upgrade.* When you reach 5th level as a Warlock, you gain the
+Extra Attack feature for the conjured or magic weapon only. With that
+feature, you can attack twice with the weapon, instead of once, when you
+take the Attack action on your turn.
+
+| | | | |
+|===
+
+==== *Pact of the Chain*
+
+[width="99%",cols="20%,16%,16%,16%,16%,16%",options="header",]
+|===
+a|
+*Pact Familiar*
+
+Conjuration Cantrip (Warlock)
+
+*Casting Time:* 1 hour
+
+*Range:* 10 feet
+
+*Component*: V, S
+
+*Duration*: Instantaneous
+
+| | | | |
+a|
+You summon an unearthly entity to serve you. It manifests in an
+unoccupied space of your choice within range. This creature uses the
+Pact Familiar stat block. If you already have a familiar from this
+spell, that familiar transforms into the new one but retains its
+memories; you don’t get a second Pact Familiar. Whenever you cast the
+spell, choose the familiar’s creature type: Aberration (flumph or knot
+of tentacles), Celestial (owl, raven, or other bird), Dragon
+(pseudodragon or similar dragonet), Fey (pixie or sprite), Fiend (imp or
+quasit), or Undead (shadow or skull). This choice affects the familiar’s
+default appearance, as noted in the parentheses, and it determines
+certain traits in its stat block. You can alter details of the
+creature’s appearance each time you summon it.
+
+*Combat.* The familiar is an ally to you and your companions, and it
+obeys you. In combat, it shares your Initiative count, but it takes its
+turn immediately after yours. On its turn, the familiar takes the Dodge
+action and uses its Move to avoid danger, unless you use your Reaction
+to command it to attack instead.
+
+*Disappearance of the Familiar.* The familiar disappears if it drops to
+0 Hit Points, if you dismiss it as a Bonus Action, or if you die. When
+it disappears, it leaves behind anything it was wearing or carrying. If
+you cast this spell again, you decide whether you summon the familiar
+that disappeared or a different one.
+
+*Remote Viewing.* As a Magic action, you can see what your familiar sees
+and hear what it hears until the end of your next turn.
+
+*Cantrip Upgrade.* Starting when you reach 5th level as a Warlock, you
+can communicate telepathically with your familiar as long as you two are
+on the same plane of existence. Additionally, while perceiving through
+your familiar’s senses, you can also speak through your familiar in your
+own voice.
+
+| | | | |
+|===
+
+[width="100%",cols="100%",options="header",]
+|===
+a|
+*PACT FAMILIAR*
+
+Tiny Aberration, Celestial, Dragon, Fey, Fiend, or Undead (Choose When
+Casting the Spell), Any Alignment
+
+*Armor Class* 10 + your spellcasting ability modifier (natural armor)
+
+*Hit Points* 5 + your Warlock level (the familiar has a number of Hit
+Dice [d4s] equal to your Warlock level)
+
+*Speed* 40 ft., Fly 40 ft. (Hover)
+
+*STR DEX CON INT WIS CHA*
+
+3 (–4) 14 (+2) 12 (+1) 10 (+0) 14 (+2) 8 (–1)
+
+*Condition Immunities* Charmed, Exhaustion
+
+*Senses* Darkvision 120 ft., passive Perception 12
+
+*Languages* Telepathy 120 ft. (only between you and the familiar)
+
+*Challenge* —
+
+Proficiency Bonus equals your bonus
+
+*Eldritch Bond.* You can add your Proficiency Bonus to any ability check
+or saving throw that the familiar makes.
+
+*ACTIONS*
+
+*Eldritch Strike.* Melee Spell Attack: *_your Spell Attack Modifier_* to
+hit, reach 5 ft., one target. Hit: 2 + half your Warlock level (round
+up) damage of a type determined by the familiar’s creature type:
+Aberration (Acid), Celestial (Radiant), Dragon (Fire), Fey (Psychic),
+Fiend (Poison), or Undead (Necrotic).
+
+*Invisibility.* The familiar has the Invisible condition until the end
+of its next turn.
+
+|===
+
+==== *Pact of the Tome*
+
+[width="99%",cols="20%,16%,16%,16%,16%,16%",options="header",]
+|===
+a|
+*Pact Book*
+
+Conjuration Cantrip (Warlock)
+
+*Casting Time:* 1 hour
+
+*Range:* Self
+
+*Component*: V, S
+
+*Duration*: Instantaneous
+
+| | | | |
+a|
+Stitching together strands of shadow, you conjure forth a book in your
+hand. The book contains eldritch magic that only you can access,
+granting you the following benefits:
+
+*Cantrips and Rituals.* When the book appears, choose two cantrips, and
+choose two 1st-level spells that have the Ritual tag. The spells can be
+from any spell lists, and they must be spells you don’t already have
+prepared. While the book is on your person, you have the chosen spells
+prepared.
+
+*Spellcasting Focus.* You can use the book as a Spellcasting Focus. The
+book disappears if you cast this spell again or die.
+
+*Cantrip Upgrade.* When you reach 5th level as a Warlock, this spell
+also enhances other cantrips while the book is on your person; you can
+add your Warlock spellcasting ability modifier to the damage rolls of
+any cantrip you cast that doesn’t already have that modifier added to
+its damage roll.
+
+| | | | |
+|===
+
+=== *Pact Magic*
+
+Your arcane research and the magic bestowed on you by your patron have
+given you facility with spells.
+
+==== *Cantrips*
+
+You know two cantrips of your choice from the warlock spell list. You
+learn additional warlock cantrips of your choice at higher levels, as
+shown in the Cantrips Known column of the Warlock table.
+
+==== *Spell Slots*
+
+The Warlock table shows how many spell slots you have to cast your
+warlock spells of 1st through 5th level. The table also shows what the
+level of those slots is; all of your spell slots are the same level. To
+cast one of your warlock spells of 1st level or higher, you must expend
+a spell slot. You regain all expended spell slots when you finish a
+short or long rest.
+
+==== *Spells Known of 1st Level and Higher*
+
+At 1st level, you know two 1st-level spells of your choice from the
+warlock spell list.
+
+The Spells Known column of the Warlock table shows when you learn more
+warlock spells of your choice of 1st level and higher. A spell you
+choose must be of a level no higher than what's shown in the table's
+Slot Level column for your level.
+
+Additionally, when you gain a level in this class, you can choose one of
+the warlock spells you know and replace it with another spell from the
+warlock spell list, which also must be of a level for which you have
+spell slots.
+
+==== *Spellcasting Ability*
+
+Your Pact Boon feature determines the spellcasting ability for the
+spells you cast with your Warlock features.
+
+____
+*Spell save DC* = 8 + your proficiency bonus + your ability determine by
+your Pact Boon modifier +
+*Spell attack modifier* = your proficiency bonus + your ability
+determine by your Pact Boon modifier
+____
+
+==== *Spellcasting Focus*
+
+You can use an arcane focus as a spellcasting focus for your warlock
+spells.
+
+=== *Eldritch Invocations*
+
+In your study of occult lore, you have unearthed eldritch invocations,
+fragments of forbidden knowledge that imbue you with an abiding magical
+ability.
+
+At 2nd level, you gain two eldritch invocations of your choice. A list
+of the available options can be found on the Optional Features page.
+When you gain certain warlock levels, you gain additional invocations of
+your choice, as shown in the Invocations Known column of the Warlock
+table.
+
+Additionally, when you gain a level in this class, you can choose one of
+the invocations you know and replace it with another invocation that you
+could learn at that level.
+
+If an eldritch invocation has prerequisites, you must meet them to learn
+it. You can learn the invocation at the same time that you meet its
+prerequisites. A level prerequisite refers to your level in this class.
+
+=== Otherworldly Patron
+
+At 3rd level, you have struck a bargain with an otherworldly being
+chosen from the list of available patrons. Your choice grants you
+features at 1st level and again at 6th, 10th, and 14th level.
+
+=== *Ability Score Improvement*
+
+When you reach 4th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Eldritch Versatility*
+
+Whenever you reach a level in this class that grants the Ability Score
+Improvement feature, you can do one of the following, representing a
+change of focus in your occult studies:
+
+* {blank}
++
+____
+Replace one cantrip you learned from this class's Pact Magic feature
+with another cantrip from the
+https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:warlock=1[[.underline]#warlock
+spell list#].
+____
+* {blank}
++
+____
+Replace the option you chose for the Pact Boon feature with one of that
+feature's other options.
+____
+* {blank}
++
+____
+If you're 12th level or higher, replace one spell from your Mystic
+Arcanum feature with another warlock spell of the same level.
+____
+
+If this change makes you ineligible for any of your Eldritch
+Invocations, you must also replace them now, choosing invocations for
+which you qualify.
+
+=== *Otherworldly Patron feature*
+
+At 6th level, you gain a feature granted by your Otherworldly Patron.
+
+=== *Ability Score Improvement*
+
+When you reach 8th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Otherworldly Patron feature*
+
+At 10th level, you gain a feature granted by your Otherworldly Patron.
+
+=== *Mystic Arcanum (6th level)*
+
+At 11th level, your patron bestows upon you a magical secret called an
+arcanum. Choose one 6th-level spell from the warlock spell list as this
+arcanum.
+
+You can cast your arcanum spell once without expending a spell slot. You
+must finish a long rest before you can do so again.
+
+At higher levels, you gain more warlock spells of your choice that can
+be cast in this way: one 7th-level spell at 13th level, one 8th-level
+spell at 15th level, and one 9th-level spell at 17th level. You regain
+all uses of your Mystic Arcanum when you finish a long rest.
+
+=== *Ability Score Improvement*
+
+When you reach 12th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Mystic Arcanum (7th level)*
+
+At 13th level, your patron bestows upon you a magical secret called an
+arcanum. Choose one 7th-level spell from the warlock spell list as this
+arcanum.
+
+You can cast your arcanum spell once without expending a spell slot. You
+must finish a long rest before you can do so again.
+
+=== *Otherworldly Patron feature*
+
+At 14th level, you gain a feature granted by your Otherworldly Patron.
+
+=== *Mystic Arcanum (8th level)*
+
+At 15th level, your patron bestows upon you a magical secret called an
+arcanum. Choose one 8th-level spell from the warlock spell list as this
+arcanum.
+
+You can cast your arcanum spell once without expending a spell slot. You
+must finish a long rest before you can do so again.
+
+=== *Ability Score Improvement*
+
+When you reach 16th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Mystic Arcanum (9th level)*
+
+At 17th level, your patron bestows upon you a magical secret called an
+arcanum. Choose one 9th-level spell from the warlock spell list as this
+arcanum.
+
+You can cast your arcanum spell once without expending a spell slot. You
+must finish a long rest before you can do so again.
+
+=== *Ability Score Improvement*
+
+When you reach 19th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Eldritch Master*
+
+At 20th level, you can draw on your inner reserve of mystical power
+while entreating your patron to regain expended spell slots. You can
+spend 1 minute entreating your patron for aid to regain all your
+expended spell slots from your Pact Magic feature. Once you regain spell
+slots with this feature, you must finish a long rest before you can do
+so again.
+
+include::warlock_subclass.adoc[]
