@@ -27,3 +27,7 @@ echo "================================================================"
 unest FEATURE_NAME
 unest FEATURE_NAME_IN_LOWER_CASE
 ```
+
+## build_feature.sh
+
+The script is used to premerge all the src content into one unique asciidoc file.
