@@ -1,0 +1,446 @@
+== *Bard*
+
+[width="99%",cols="10%,6%,41%,7%,4%,4%,4%,4%,4%,4%,4%,4%,4%",options="header",]
+|===
+| | | | |*_Spell Slots per Spell Level_* | | | | | | | |
+|*_Level_* a|
+*_Prof._*
+
+*_Bonus_*
+
+|*_Features_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_*
+|*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
+
+|*1st* |*+2* |*Bardic Inspiration, Spellcasting* |*2* |*2* |*—* |*—*
+|*—* |*—* |*—* |*—* |*—* |*—*
+
+|*2nd* |*+2* |*Jack of All Trades, Song of Rest (d6)* |*2* |*3* |*—*
+|*—* |*—* |*—* |*—* |*—* |*—* |*—*
+
+|*3rd* |*+2* |*Bard College, Expertise, Magical Inspiration* |*2* |*4*
+|*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+
+|*4th* |*+2* |*Ability Score Improvement* |*3* |*4* |*3* |*—* |*—* |*—*
+|*—* |*—* |*—* |*—*
+
+|*5th* |*+3* |*Bardic Inspiration (d8), Font of Inspiration* |*3* |*4*
+|*3* |*2* |*—* |*—* |*—* |*—* |*—* |*—*
+
+|*6th* |*+3* |*Countercharm, Bard College feature* |*3* |*4* |*3* |*3*
+|*—* |*—* |*—* |*—* |*—* |*—*
+
+|*7th* |*+3* |*—* |*3* |*4* |*3* |*3* |*1* |*—* |*—* |*—* |*—* |*—*
+
+|*8th* |*+3* |*Ability Score Improvement* |*3* |*4* |*3* |*3* |*2* |*—*
+|*—* |*—* |*—* |*—*
+
+|*9th* |*+4* |*Song of Rest (d8)* |*3* |*4* |*3* |*3* |*3* |*1* |*—*
+|*—* |*—* |*—*
+
+|*10th* |*+4* |*Bardic Inspiration (d10),Expertise,Magical Secrets* |*4*
+|*4* |*3* |*3* |*3* |*2* |*—* |*—* |*—* |*—*
+
+|*11th* |*+4* |*—* |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*—* |*—* |*—*
+
+|*12th* |*+4* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*3* |*2*
+|*1* |*—* |*—* |*—*
+
+|*13th* |*+5* |*Song of Rest (d10)* |*4* |*4* |*3* |*3* |*3* |*2* |*1*
+|*1* |*—* |*—*
+
+|*14th* |*+5* |*Magical Secrets,Bard College feature* |*4* |*4* |*3*
+|*3* |*3* |*2* |*1* |*1* |*—* |*—*
+
+|*15th* |*+5* |*Bardic Inspiration (d12)* |*4* |*4* |*3* |*3* |*3* |*2*
+|*1* |*1* |*1* |*—*
+
+|*16th* |*+5* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*3* |*2*
+|*1* |*1* |*1* |*—*
+
+|*17th* |*+6* |*Song of Rest (d12)* |*4* |*4* |*3* |*3* |*3* |*2* |*1*
+|*1* |*1* |*1*
+
+|*18th* |*+6* |*Magical Secrets* |*4* |*4* |*3* |*3* |*3* |*3* |*1* |*1*
+|*1* |*1*
+
+|*19th* |*+6* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*3* |*3*
+|*2* |*1* |*1* |*1*
+
+|*20th* |*+6* |*Superior Inspiration* |*4* |*4* |*3* |*3* |*3* |*3* |*2*
+|*2* |*1* |*1*
+|===
+
+[width="99%"]
+|===
+|
+*Hit Points*
+
+*_Hit Dice_*: 1d8
+
+*_Hit Points at 1st Level_*: 8 + your Constitution modifier
+
+*_Hit Points at Higher Levels_*: 1d8 (or 5) + your Constitution modifier
+per Bard level after 1st
+|
+*Proficiencies*
+
+*_Armor_*: light armor
+
+*_Weapons_*: simple weapons, hand crossbows, longswords, rapiers,
+shortswords
+
+*_Tools_*: three musical instruments of your choice
+
+*_Saving Throws_*: Dexterity, Charisma
+
+*_Skills_*: Choose any 3.
+a|
+*Starting Equipment*
+
+You start with the following items, plus anything provided by your
+background.
+
+* {blank}
++
+____
+{empty}(a) a rapier, (b) a longsword, or (c) any simple weapon
+____
+* {blank}
++
+____
+{empty}(a) a diplomat's pack or (b) an entertainer's pack
+____
+* {blank}
++
+____
+{empty}(a) a lute or (b) any other musical instrument
+____
+* {blank}
++
+____
+Leather armor, and a dagger
+____
+|===
+
+=== *Bardic Inspiration*
+
+You can supernaturally inspire others through words, music, or dance.
+This inspiration is represented by your Bardic Inspiration die, which is
+a d6. Using Bardic Inspiration. You can use your Bardic Inspiration die
+in the following ways:
+
+* {blank}
++
+____
+*_Boost a d20 Roll._* When another creature within 60 feet of you that
+you can see or hear fails a d20 Roll, you can use your Reaction to give
+the creature a Bardic Inspiration die. The creature rolls that die and
+adds the number rolled to the d20, potentially turning the failure into
+a success.
+____
+* {blank}
++
+____
+*_Heal._* Immediately after another creature within 60 feet of you that
+you can see or hear takes damage, you can use your Reaction to roll your
+Bardic Inspiration die and restore a number of Hit Points to the
+creature equal to the number rolled.
+____
+
+*_Number of Uses_*. A Bardic Inspiration die is expended when it’s
+rolled. You can confer a Bardic Inspiration die a number of times equal
+to your Proficiency Bonus, and you regain all expended uses when you
+finish a Long Rest.
+
+*_At Higher Levels._* Your Bardic Inspiration die changes when you reach
+certain levels in this Class. The die becomes a d8 at 5th level, a d10
+at 10th level, and a d12 at 15th level.
+
+=== *Spells added to the Bard Spell List*
+
+[width="99%",cols="20%,16%,16%,16%,16%,16%",options="header",]
+|===
+a|
+Vicious Mockery +
+_Cantrip enchantment_
+
+*Casting Time:* 1 action
+
+*Range:* 60 ft
+
+*Components:* V
+
+*Duration:* Instantaneous
+
+| | | | |
+a|
+You unleash a string of insults laced with subtle enchantments at a
+creature you can see within range. If the target can hear you (though it
+need not understand you), it must succeed on a Wisdom saving throw or
+take 1d6 psychic damage and have disadvantage on the next attack roll it
+makes before the end of its next turn.
+
+This spell's damage increases by 1d6 when you reach 5th level (2d6),
+11th level (3d6), and 17th level (4d6).
+
+| | | | |
+|===
+
+=== 
+
+=== *Spellcasting*
+
+==== *Cantrips*
+
+You learn cantrips from the Spell List associated for your Class as the
+table of your class stays. Additionally, you learn _Vicious Mockery_
+that doesn’t count to your Cantrips Knows.
+
+Whenever you reach a level in this class that grants the Ability Score
+Improvement feature, you can replace one cantrip you learned from this
+class's Spellcasting feature with another cantrip from the bard spell
+list.
+
+==== *Spell Slots*
+
+Your Class table shows how many spell slots you have to cast your spells
+of 1st level and higher. To cast one of these spells, you must expend a
+slot of the spell's level or higher. You regain all expended spell slots
+when you finish a long rest.
+
+==== *Preparing and Casting Spells*
+
+Whenever you finish a Long Rest, you can replace any Spell you have
+prepared for this Class with another Spell from your Class Spell List.
+At higher levels in this Class, you can prepare more Spells. The amount
+of spells you can prepare is equal to your Charisma modifier + your bard
+level (minimum of 1).
+
+The amount of spells that you are able to prepare for each level is
+determined by the amount of spell slots that you have for each level.
+
+==== *Spellcasting Ability*
+
+Your Spellcasting Ability is Charisma:
+
+____
+Spell save DC = 8 + your proficiency bonus + your Charisma modifier
+
+Spell attack modifier = your proficiency bonus + your Charisma modifier
+____
+
+==== *Spellcasting Focus*
+
+You can use a musical instrument as a spellcasting focus for your bard
+spells.
+
+==== *Ritual Casting*
+
+You can cast any spell from your Prepared Spells of this class as a
+ritual if that spell has the ritual tag.
+
+=== *Jack of All Trades*
+
+Starting at 2nd level, you can add half your proficiency bonus, rounded
+down, to any ability check you make that doesn't already include your
+proficiency bonus.
+
+=== *Song of Rest (d6)*
+
+Beginning at 2nd level, you can use soothing music or oration to help
+revitalize your wounded allies during a short rest. If you or any
+friendly creatures who can hear your performance regain hit points by
+spending Hit Dice at the end of the short rest, each of those creatures
+regains an extra 1d6 hit points.
+
+The extra hit points increase when you reach certain levels in this
+class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th
+level.
+
+Additionally, you have learned how to use music, poetry, and dance to
+heal wounds and maladies. When you reach certain levels in this Class,
+you add a specific Spell to your Songs of Restoration repertoire, as
+shown on the Songs of Restoration Repertoire table. You always have that
+Spell prepared, and it doesn’t count against the number of Spells you
+can prepare.
+
+==== *Song of Restoration Repertoire*
+
+[width="100%",cols="24%,76%",options="header",]
+|===
+|*Bard Level* |*Spell*
+|2nd |Healing Word
+|4th |Lesser Restoration
+|6th |Mass Healing Word
+|8th |Freedom of Movement
+|10th |Greater Restoration
+|===
+
+=== *Bard College*
+
+At 3rd level, you delve into the advanced techniques of a bard college
+of your choice from the list of available colleges. Your choice grants
+you features at 3rd level and again at 6th and 14th level.
+
+=== *Expertise*
+
+At 3rd level, choose two of your skill proficiencies. Your proficiency
+bonus is doubled for any ability check you make that uses either of the
+chosen proficiencies.
+
+At 10th level, you can choose another two skill proficiencies to gain
+this benefit.
+
+=== Magical Inspiration
+
+At 3rd level, when a creature in 60 ft of you (including yourself) that
+can hear you, hits a creature with an attack or heals a creature, you
+can expend one use of your bardic inspiration to deal extra damage or
+healing equal to a roll of your bardic inspiration die.
+
+=== *Ability Score Improvement*
+
+When you reach 4th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Bardic Inspiration (d8)*
+
+At 5th level, your Bardic Inspiration die changes to a d8.
+
+=== *Font of Inspiration*
+
+At 5th level, beginning when you reach 5th level, you regain all of your
+expended uses of Bardic Inspiration when you finish a short or long
+rest.
+
+In addition, if a creature rolls your Bardic Inspiration die and gets a
+1 (after any rerolls you might have), that use of your Bardic
+Inspiration isn’t expended.
+
+=== *Countercharm*
+
+At 6th level, you gain the ability to use musical notes or words of
+power to disrupt mind-influencing effects. As an action, you can start a
+performance that lasts until the end of your next turn. During that
+time, you and any friendly creatures within 30 feet of you have
+advantage on saving throws against being frightened or charmed. A
+creature must be able to hear you to gain this benefit. The performance
+ends early if you are incapacitated or silenced or if you voluntarily
+end it (no action required).
+
+=== *Bard College feature*
+
+At 6th level, you gain a feature from your Bard College.
+
+=== *Ability Score Improvement*
+
+When you reach 8th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Song of Rest (d8)*
+
+At 9th level, the extra hit points gained from Song of Rest increases to
+1d8.
+
+=== *Bardic Inspiration (d10)*
+
+At 10th level, your Bardic Inspiration die changes to a d10.
+
+=== *Expertise*
+
+At 10th level, you can choose another two skill proficiencies. Your
+proficiency bonus is doubled for any ability check you make that uses
+either of the chosen proficiencies.
+
+=== *Magical Secrets*
+
+By 10th level, you have plundered magical knowledge from a wide spectrum
+of disciplines. Choose two spells from any classes, including this one.
+A spell you choose must be of a level you can cast, as shown on the Bard
+table, or a cantrip.
+
+The chosen spells count as bard spells for you and are included in the
+number in the Spells Known column of the Bard table.
+
+You learn two additional spells from any classes at 14th level and again
+at 18th level.
+
+=== *Ability Score Improvement*
+
+When you reach 12th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Song of Rest (d10)*
+
+At 13th level, the extra hit points gained from Song of Rest increases
+to 1d10.
+
+=== *Magical Secrets*
+
+At 14th level, choose two additional spells from any classes, including
+this one. A spell you choose must be of a level you can cast, as shown
+on the Bard table, or a cantrip.
+
+The chosen spells count as bard spells for you and are included in the
+amount of spells that you can prepare for this class.
+
+=== *Bard College feature*
+
+At 14th level, you gain a feature from your Bard College.
+
+=== *Bardic Inspiration (d12)*
+
+At 15th level, your Bardic Inspiration die changes to a d12.
+
+=== *Ability Score Improvement*
+
+When you reach 16th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Song of Rest (d12)*
+
+At 17th level, the extra hit points gained from Song of Rest increases
+to 1d12.
+
+=== *Magical Secrets*
+
+At 18th level, choose two additional spells from any class, including
+this one. A spell you choose must be of a level you can cast, as shown
+on the Bard table, or a cantrip.
+
+The chosen spells count as bard spells for you and are included in the
+amount of spells that you can prepare for this class.
+
+=== *Ability Score Improvement*
+
+When you reach 19th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== X: *Superior Inspiration*
+
+At 20th level, when you succeed in helping someone with your Bardic
+Inspiration you don’t spend your reaction. Additionally, if you use it
+to *_Boosts a d20 Roll_*, and it fails, you don’t spend that use.
+
+include::bard_subclass.adoc[]
+

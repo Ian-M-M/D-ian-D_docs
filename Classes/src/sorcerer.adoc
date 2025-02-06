@@ -1,0 +1,478 @@
+== *Sorcerer*
+
+[width="100%",cols="8%,6%,61%,8%,7%,10%",options="header",]
+|===
+|*_Level_* |*_Prof. Bonus_* |*_Features_* a|
+*_Cantrips_*
+
+*_Known_*
+
+|*_Spell Points_* a|
+*_Max._*
+
+*_Spell Level_*
+
+|*1st* |*+2* |*Spellcasting, Sorcerous Origin* |*4* |*4* |*1st*
+
+|*2nd* |*+2* |*Metamagic* |*4* |*6* |*1st*
+
+|*3rd* |*+2* |*Magical Guidance* |*4* |*14* |*2nd*
+
+|*4th* |*+2* |*Ability Score Improvement* |*5* |*17* |*2nd*
+
+|*5th* |*+3* |*Sorcerous Restoration (1d6), Sorcerous Vitality* |*5*
+|*27* |*3rd*
+
+|*6th* |*+3* |*Sorcerous Origin feature* |*5* |*32* |*3rd*
+
+|*7th* |*+3* |*Arcane Eruption, Metamagic* |*5* |*38* |*4th*
+
+|*8th* |*+3* |*Ability Score Improvement* |*5* |*44* |*4th*
+
+|*9th* |*+4* |*Arcane Secrets, Sorcerous Vitality Improvement* |*5*
+|*57* |*5th*
+
+|*10th* |*+4* |*Sorcery Incarnate* |*6* |*64* |*5th*
+
+|*11th* |*+4* |*Metamagic, Sorcerous Restoration Improvement (1d12)*
+|*6* |*73* |*6th*
+
+|*12th* |*+4* |*Ability Score Improvement* |*6* |*73* |*6th*
+
+|*13th* |*+5* |*Arcane Secrets* |*6* |*83* |*7th*
+
+|*14th* |*+5* |*Sorcerous Origin feature* |*6* |*83* |*7th*
+
+|*15th* |*+5* |*Arcane Secrets, Metamagic* |*6* |*94* |*8th*
+
+|*16th* |*+5* |*Ability Score Improvement* |*6* |*94* |*8th*
+
+|*17th* |*+6* |*Sorcerous Restoration Improvement (2d12)* |*6* |*107*
+|*9th*
+
+|*18th* |*+6* |*Metamagic* |*6* |*114* |*9th*
+
+|*19th* |*+6* |*Ability Score Improvement* |*6* |*123* |*9th*
+
+|*20th* |*+6* |*Arcone Apotheosis* |*6* |*133* |*9th*
+|===
+
+[width="99%"]
+|===
+|
+*Hit Points*
+
+*_Hit Dice_*: 1d6
+
+*_Hit Points at 1st Level_*: 6 + your Constitution modifier
+
+*_Hit Points at Higher Levels_*: 1d6 (or 4) + your Constitution modifier
+per Sorcerer level after 1st
+|
+*Proficiencies*
+
+*_Armor_*: nonce
+
+*_Weapons_*: daggers, darts, slings, quarterstaffs, light crossbows
+
+*_Tools:_* nonce
+
+*_Saving Throws_*: Constitution, Charisma
+
+*_Skills_*: Choose 2 from Arcana, Deception, Insight, Intimidation,
+Persuasion, and Religion.
+a|
+*Starting Equipment*
+
+You start with the following items, plus anything provided by your
+background.
+
+* {blank}
++
+____
+{empty}(a) a light crossbow and 20 bolts or (b) any simple weapon
+____
+* {blank}
++
+____
+{empty}(a) a component pouch or (b) an arcane focus
+____
+* {blank}
++
+____
+{empty}(a) a dungeoneer's pack or (b) an explorer's pack
+____
+* {blank}
++
+____
+Two daggers
+____
+|===
+
+=== *Spells Added to the Sorcerer Spell List*
+
+[width="99%",cols="20%,16%,16%,16%,16%,16%",options="header",]
+|===
+a|
+*Sorcerous Burst*
+
+Evocation Cantrip (Sorcerer)
+
+*Casting Time:* Action
+
+*Range:* 120 feet
+
+*Component*: V, S
+
+*Duration*: Instantaneous
+
+| | | | |
+a|
+You cast sorcerous energy at one creature or object within range. Make a
+ranged attack roll against the target. On a hit, the target takes 1d6
+damage. If you roll a 6 on a d6 for this spell, you can roll another d6,
+and add it to the damage. Whenever you cast this spell, the maximum
+number of these d6s you can add to the spell’s damage equals your
+spellcasting ability modifier.
+
+When you cast the spell you roll 1d6 to determine the damage from the
+following list: Acid, Cold, Fire, Lightning, Psychic, or Thunder.
+
+*Cantrip Upgrade.* This spell’s damage increases by 1d6 when you reach
+certain Sorcerer levels: 5th level (2d6), 11th level (3d6), and 17th
+level (4d6).
+
+| | | | |
+|===
+
+===  +
+
+=== 
+
+[width="99%",cols="20%,16%,16%,16%,16%,16%",options="header",]
+|===
+a|
+*Arcane Eruption*
+
+Evocation 4th-Level (Sorcerer)
+
+*Casting Time:* Action
+
+*Range:* 120 feet
+
+*Component*: V, S
+
+*Duration*: Instantaneous
+
+| | | | |
+a|
+Churning magical energy explodes in a 20-foot radius sphere centered on
+a point you choose within range. When you cast the spell, you select the
+type of damage dealt by the explosion: Acid,
+
+Cold, Fire, Lightning, Poison, Psychic, or Thunder. Each creature in the
+sphere must make a Constitution saving throw. On a failed save, a
+creature takes 6d6 damage of the chosen type.
+
+On a successful save, a creature takes half as much damage. Choose one
+of those d6s. The number rolled on that die determines a condition
+that’s applied to each creature that failed the save, as shown below. A
+creature has the condition until the end of your next turn.
+
+*d6* *Additional Effect*
+
+1 Incapacitated
+
+2 Blinded
+
+3 Frightened
+
+4 Poisoned
+
+5 Charmed
+
+6 Deafened
+
+*At Higher Levels.* When you cast this spell using a Spell Slot of 5th
+level or higher, the damage increases by 1d6 for each slot level above
+4th.
+
+| | | | |
+|===
+
+=== 
+
+===  +
+
+=== *Spellcasting*
+
+==== *Cantrips*
+
+You learn cantrips from the Sorcerer Spell List as the sorcerer class
+table stays. Additionally, you learn the cantrip _Sorcerous Burst_ that
+doesn’t count to your Cantrips Knows.
+
+Whenever you reach a level in this class that grants the Ability Score
+Improvement feature, you can replace one cantrip you learned from this
+class's Spellcasting feature with another cantrip from this class spell
+list.
+
+==== *Spell Points*
+
+Instead of gaining a number of spell slots to cast your spells from the
+Spellcasting feature, you gain a pool of spell points instead. You
+expend a number of spell points to create a spell slot of a given level,
+and then use that slot to cast a spell. You can't reduce your spell
+points total to less than 0, and you regain all spent spell points when
+you finish a long rest.
+
+Spells of 6th level and higher are particularly taxing to cast. You can
+use spell points to create one slot of each level of 6th or higher. You
+can't create another slot of the same level until you finish a long
+rest.
+
+The number of spell points you have to spend is based on your level as a
+spellcaster, as shown in the Spell Points by Level table. Your level
+also determines the maximum-level spell slot you can create. Even though
+you might have enough points to create a slot above this maximum, you
+can't do so.
+
+Spell Point Cost
+
+[width="100%",cols="51%,49%",options="header",]
+|===
+|*Spell Level* |*Point Cost*
+|1st |2
+|2nd |3
+|3rd |5
+|4th |6
+|5th |7
+|6th |9
+|7th |10
+|8th |11
+|9th |13
+|===
+
+==== *Preparing and Casting Spells*
+
+Whenever you finish a Long Rest, you can replace any Spell you have
+prepared for this Class with another Spell from the Sorcerer, Warlock or
+Wizard spell lists, that isn’t from the schools of Conjuration,
+Divination and Necromancy. At higher levels in this Class, you can
+prepare more Spells. The amount of spells you can prepare is equal to
+your Charisma modifier + your Sorcerer level (minimum of 1).
+
+==== *Spellcasting Ability*
+
+Your spellcasting ability is Charisma:
+
+____
+*_Spell save DC_* = 8 + your proficiency bonus + your Charisma modifier
+
+*_Spell attack modifier_* = your proficiency bonus + your Charisma
+modifier
+____
+
+==== *Spellcasting Focus*
+
+You can use an arcane focus as a spellcasting focus for your sorcerer
+spells.
+
+==== *Ritual Casting*
+
+You can cast any spell from your Prepared Spells of this class as a
+ritual if that spell has the ritual tag.
+
+=== *Sorcerous Origin*
+
+At 1st level you choose a sorcerous origin, which describes the source
+of your innate magical power, from the list of available origins.
+
+Your choice grants you features when you choose it at 1st level and
+again at 6th, 14th, and 18th level.
+
+*Metamagic*
+
+At 2nd level, you gain access to the following metamagics: Distant
+Spell, Subtle Spell and Transmuted Spell. You can use only one Metamagic
+option on a spell when you cast it, unless otherwise noted. In addition
+you have one use of each metamagic per short rest without expending any
+spell point.
+
+=== *Magical Guidance*
+
+At 3rd level you can tap into your inner wellspring of magic to try to
+conjure success from failure. When you make an ability check that fails,
+you can reroll the d20, and you must use the new roll, potentially
+turning the failure into a success. This trait can be used a number of
+time equal to your Charisma modifier.
+
+=== *Ability Score Improvement*
+
+When you reach 4th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+===  +
+
+=== Sorcerous Restoration
+
+At 5th level, you regain 1d6 spell points plus your proficiency bonus,
+whenever you finish a short rest.
+
+=== *Sorcerous Vitality*
+
+At 5th level, you can use your innate magic to heal yourself. As an
+action, you can heal yourself by an amount equal to a roll of d6, the
+number of d6 is your proficiency bonus.
+
+You can use this trait once, and you use it again when you finish a
+Short or Long Rest.
+
+=== *Sorcerous Origin feature*
+
+At 6th level, you gain a feature granted by your Sorcerous Origin.
+
+=== *Arcane Eruption*
+
+At 7th level, you can now unleash magical energy that roils inside you;
+you always have the _Arcane Eruption_ spell prepared and doesn’t count
+for your number of spells prepared for this class.
+
+=== Metamagic
+
+At 7th level, you learn the following metamagic options: Quickened
+Spell, Careful Spell and Extended Spell.
+
+=== *Ability Score Improvement*
+
+When you reach 8th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== 
+
+=== Arcane Secrets
+
+At 9th level, you gain one slot from your prepared spells, which you can
+use to choose a spell from the Schools of Conjuration, Divination and
+Necromancy.
+
+=== *Sorcerous Vitality Improvement*
+
+At 9th level now you can heal one of the following conditions when you
+use your Sorcerous Vitality: Blinded, Deafened, and Poisoned.
+Additionally, instead of one of the conditions you can choose to not
+heal and reduce your exhaustion level by one.
+
+=== *Sorcery Incarnate*
+
+At 10th level, fueled by the arcane power within, you can transform
+yourself into magical energy; As a bonus action and during 1 minute
+(count as you were concentrating an spell) you gain the following
+benefits:
+
+* {blank}
++
+____
+You can use up to two of your Metamagic options on each spell you cast,
+provided you pay the Sorcery Point costs.
+____
+* {blank}
++
+____
+You have Advantage on the attack rolls of every spell you cast.
+____
+
+You can use this trait a number of times equal to half your proficiency
+bonus (rounded down), and you regain all expended uses when you finish a
+Long Rest.
+
+=== Metamagic
+
+At 11th level, you learn the following metamagic options: Heightened
+Spell and Twinned Spell.
+
+=== Sorcerous Restoration Improvement
+
+At 11th level, instead of regaining 1d6 spell points plus your
+proficiency bonus you regain 1d12 spell points plus your proficiency
+bonus.
+
+=== *Ability Score Improvement*
+
+When you reach 12th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== Arcane *Secrets*
+
+At 13th level, you gain one slot from your prepared spells, which you
+can use to choose a spell from the Schools of Conjuration, Divination
+and Necromancy.
+
+=== *Sorcerous Origin feature*
+
+At 14th level, you gain a feature granted by your Sorcerous Origin.
+
+=== Arcane *Secrets*
+
+At 15th level, you gain one slot from your prepared spells, which you
+can use to choose a spell from the Schools of Conjuration, Divination
+and Necromancy.
+
+=== Metamagic
+
+At 15th level, you learn the following metamagic options: Empowered
+Spell and Seeking Spell.
+
+=== *Ability Score Improvement*
+
+When you reach 16th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== Sorcerous Restoration Improvement
+
+At 17th level, instead of regain 1d12 spell points plus your proficiency
+bonus you regain 2d12 spell points plus your proficiency bonus.
+
+=== Metamagic
+
+At 18th level, you learn the following metamagic options:
+AutonomousSpell.
+
+=== *Ability Score Improvement*
+
+When you reach 19th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Arcane Apotheosis*
+
+At 20th level, you are now so suffused with magic that you can alter
+reality itself. You always have the Wish spell prepared, and if you
+undergo the spell’s casting stress, you have no chance of losing the
+ability to cast the spell.
+
+In addition, you can cast Wish to replicate a spell of 1st through 8th
+level without expending a 9th-level Spell Slot. You instead expend a
+slot of the replicated spell’s level. Once you use Wish in this way, you
+can’t do so again until you finish a Long Rest.
+
+include::sorcerer_subclass.adoc[]

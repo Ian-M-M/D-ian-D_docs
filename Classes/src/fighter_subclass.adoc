@@ -1,0 +1,454 @@
+== *Fighter Archetype*
+
+=== Arcane Shooter
+
+An Arcane Shooter studies a unique elven method of archery that weaves
+magic into attacks to produce supernatural effects. Arcane Shooters are
+some of the most elite warriors among the elves. They stand watch over
+the fringes of elven domains, keeping a keen eye out for trespassers and
+using magic-infused shots to defeat monsters and invaders before they
+can reach elven settlements. Over the centuries, the methods of these
+elf archers have been learned by members of other races who can also
+balance arcane aptitude with archery.
+
+==== 3rd LEVEL: Arcane Archer Lore
+
+At 3rd level, you learn magical theory or some of the secrets of
+nature—typical for practitioners of this elven martial tradition. You
+gain proficiency in Arcana, and you choose to learn either the
+prestidigitation or the druidcraft cantrip.
+
+==== 3rd LEVEL: Arcane Shot
+
+At 3rd level, you learn to unleash special magical effects with some of
+your shots. When you gain this feature, you learn two Arcane Shot
+options of your choice (see "Arcane Shot Options").
+
+Once per turn when you do a ranged weapon attack as part of the Attack
+action, you can apply one of your Arcane Shot options to that attack.
+You decide to use the option when the attack hits a creature, unless the
+option doesn't involve an attack roll. You can use this ability a number
+of times equal to your proficiency bonus, and you regain all expended
+uses of it when you finish a long rest.
+
+You gain an additional Arcane Shot option of your choice when you reach
+certain levels in this class: 7th, 10th, 15th, and 18th level. Each
+option also improves when you become a 15th-level fighter.
+
+==== 3rd LEVEL: Arcane Shot Options
+
+The Arcane Shot feature lets you choose options for it at certain
+levels. The options are presented here in alphabetical order. They are
+all magical effects, and each one is associated with one of the schools
+of magic.
+
+If an option requires a saving throw, your Arcane Shot save DC is
+calculated as follows:
+
+*Arcane Shot save DC* = 8 + your proficiency bonus + your Intelligence
+(if you choose prestidigitation as your cantrip) or Wisdom (if you
+choose druidcraft as your cantrip) modifier
+
+==== 7th LEVEL: Magic _Shot_
+
+At 7th level, you gain the ability to infuse shots with magic. Whenever
+you do a nonmagical attack from a ranged attack weapon, you can make it
+magical for the purpose of overcoming resistance and immunity to
+nonmagical attacks and damage. The magic fades from the shot immediately
+after it hits or misses its target.
+
+==== 7th LEVEL: Curving Shot
+
+At 7th level, you learn how to direct an errant shot toward a new
+target. When you make an attack roll with a magic shot and miss, you can
+use a bonus action to reroll the attack roll against a different target
+within 60 feet of the original target.
+
+==== 7th LEVEL: Additional Arcane Shot Option
+
+You gain an additional Arcane Shot option of your choice when you reach
+7th level.
+
+==== 10th LEVEL: Additional Arcane Shot Option
+
+You gain an additional Arcane Shot option of your choice when you reach
+10th level.
+
+==== 15th LEVEL: Ever-Ready Shot
+
+Starting at 15th level, your magical archery is available whenever
+battle starts. If you roll initiative and have no uses of Arcane Shot
+remaining, you regain one use of it.
+
+==== 15th LEVEL: Additional Arcane Shot Option
+
+You gain an additional Arcane Shot option of your choice when you reach
+15th level.Each option also improves when you become an 15th-level
+fighter.
+
+==== 18th LEVEL: Additional Arcane Shot Option
+
+You gain an additional Arcane Shot option of your choice when you reach
+18th level.
+
+=== Champion
+
+The archetypal Champion focuses on the development of raw physical power
+honed to deadly perfection. Those who model themselves on this archetype
+combine rigorous training with physical excellence to deal devastating
+blows.
+
+==== 3rd LEVEL: Improved Critical
+
+Beginning when you choose this archetype at 3rd level, your weapon
+attacks score a critical hit on a roll of 19 or 20.
+
+==== 7th LEVEL: Remarkable Athlete
+
+Starting at 7th level, you can add half your proficiency bonus (round
+up) to any Strength, Dexterity, or Constitution check you make that
+doesn't already use your proficiency bonus.
+
+In addition, when you make a running long jump, the distance you can
+cover increases by a number of feet equal to your Strength modifier.
+
+==== 10th LEVEL: Additional Fighting Style
+
+At 10th level, you can choose a second option from the Fighting Style
+class feature.
+
+==== 15th LEVEL: Superior Critical
+
+Starting at 15th level, your weapon attacks score a critical hit on a
+roll of 18-20.
+
+==== 18th LEVEL: Survivor
+
+At 18th level, you attain the pinnacle of resilience in battle. At the
+start of each of your turns, you regain hit points equal to 5 + your
+Constitution modifier if you have no more than half of your hit points
+left. You don't gain this benefit if you have 0 hit points.
+
+=== Eldritch Knight
+
+The archetypal Eldritch Knight combines the martial mastery common to
+all fighters with a careful study of magic. Eldritch Knights use magical
+techniques similar to those practiced by wizards. They focus their study
+on two of the eight schools of magic—abjuration and evocation.
+Abjuration spells grant an Eldritch Knight additional protection in
+battle, and evocation spells deal damage to many foes at once, extending
+the fighter's reach in combat. These knights learn a comparatively small
+number of spells, committing them to memory instead of keeping them in a
+spellbook.
+
+==== 3rd LEVEL: Spellcasting
+
+When you reach 3rd level, you augment your martial prowess with the
+ability to cast spells. See chapter 10 for the general rules of
+spellcasting and chapter 11 for the wizard spell list.
+
+*_Cantrips._*
+
+You learn two cantrips of your choice from the wizard spell list. You
+learn an additional wizard cantrip of your choice at 10th level.
+
+*_Spell Slots._*
+
+The Eldritch Knight Spellcasting table shows how many spell slots you
+have to cast your wizard spells of 1st level and higher. To cast one of
+these spells, you must expend a slot of the spell's level or higher. You
+regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell shield and have a 1st-level
+and a 2nd-level spell slot available, you can cast shield using either
+slot.
+
+*_Spells Known of 1st-Level and Higher._*
+
+You know three 1st-level wizard spells of your choice, two of which you
+must choose from the abjuration and evocation spells on the wizard spell
+list.
+
+The Spells Known column of the Eldritch Knight Spellcasting table shows
+when you learn more wizard spells of 1st level or higher. Each of these
+spells must be an abjuration or evocation spell of your choice, and must
+be of a level for which you have spell slots. For instance, when you
+reach 7th level in this class, you can learn one new spell of 1st or 2nd
+level.
+
+The spells you learn at 8th, 14th, and 20th level can come from any
+school of magic.
+
+Whenever you gain a level in this class, you can replace one of the
+wizard spells you know with another spell of your choice from the wizard
+spell list. The new spell must be of a level for which you have spell
+slots, and it must be an abjuration or evocation spell, unless you're
+replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any
+school of magic.
+
+*_Spellcasting Ability._*
+
+Intelligence is your spellcasting ability for your wizard spells, since
+you learn your spells through study and memorization. You use your
+Intelligence whenever a spell refers to your spellcasting ability. In
+addition, you use your Intelligence modifier when setting the saving
+throw DC for a wizard spell you cast and when making an attack roll with
+one.
+
+*Spell save DC* = 8 + your proficiency bonus + your Intelligence
+modifier
+
+*Spell attack modifier* = your proficiency bonus + your Intelligence
+modifier
+
+[width="100%"]
+|===
+|Level|Cantrips Known |1st |2nd |3rd |4th |5th
+|1st  |—              |—   |—   |—   |—   |—
+|2nd  |—              |—   |—   |—   |—   |—
+|3rd  |2              |3   |2   |—   |—   |—
+|4th  |2              |4   |3   |—   |—   |—
+|5th  |2              |4   |3   |—   |—   |—
+|6th  |2              |4   |3   |—   |—   |—
+|7th  |2              |5   |4   |2   |—   |—
+|8th  |2              |6   |4   |2   |—   |—
+|9th  |2              |6   |4   |2   |—   |—
+|10th |3              |7   |4   |3   |—   |—
+|11th |3              |8   |4   |3   |—   |—
+|12th |3              |8   |4   |3   |—   |—
+|13th |3              |9   |4   |3   |2   |—
+|14th |3              |10  |4   |3   |2   |—
+|15th |3              |10  |4   |3   |2   |—
+|16th |3              |11  |4   |3   |3   |—
+|17th |3              |11  |4   |3   |3   |—
+|18th |3              |11  |4   |3   |3   |—
+|19th |3              |12  |4   |3   |3   |1
+|20th |3              |13  |4   |3   |3   |1
+|===
+
+==== 3rd LEVEL: Weapon Bond
+
+At 3rd level, you learn a ritual that creates a magical bond between
+yourself and one weapon. You perform the ritual over the course of 1
+hour, which can be done during a short rest. The weapon must be within
+your reach throughout the ritual, at the conclusion of which you touch
+the weapon and forge the bond.
+
+Once you have bonded a weapon to yourself, you can't be disarmed of that
+weapon unless you are incapacitated. If it is on the same plane of
+existence, you can summon that weapon as a bonus action on your turn,
+causing it to teleport instantly to your hand.
+
+While you have your bonded weapon wield, you can use the action given by
+your Action Surge to do the Spellcasting action.
+
+You can have up to two bonded weapons, but can summon only one at a time
+with your bonus action. If you attempt to bond with a third weapon, you
+must break the bond with one of the other two.
+
+==== 7th LEVEL: War Magic
+
+Beginning at 7th level, when you use your action to cast a cantrip, you
+can make one weapon attack as a bonus action.
+
+==== 10th LEVEL: Eldritch Strike
+
+At 10th level, you learn how to make your weapon strikes undercut a
+creature's resistance to your spells. When you hit a creature with a
+weapon attack, that creature has disadvantage on the next saving throw
+it makes against a spell you cast before the end of your next turn.
+
+==== 15th LEVEL: Arcane Charge
+
+At 15th level, you gain the ability to teleport up to 30 feet to an
+unoccupied space you can see when you use your Action Surge. You can
+teleport before or after the additional action.
+
+==== 18th LEVEL: Improved War Magic
+
+Starting at 18th level, when you use your action to cast a spell, you
+can make one weapon attack as a bonus action.
+
+=== Psi Warrior
+
+Awake to the psionic power within, a Psi Warrior is a fighter who
+augments their physical might with psi-infused weapon strikes,
+telekinetic lashes, and barriers of mental force. Many githyanki train
+to become such warriors, as do some of the most disciplined high elves.
+In the world of Eberron, many young kalashtar dream of becoming Psi
+Warriors.
+
+As a Psi Warrior, you might have honed your psionic abilities through
+solo discipline, unlocked it under the tutelage of a master, or refined
+it at an academy dedicated to wielding the mind's power as both weapon
+and shield.
+
+==== 3rd LEVEL: Psionic Power
+
+You harbor a wellspring of psionic energy within yourself. This energy
+is represented by your Psionic Energy dice, which are each a d6. You
+have a number of these dice equal to twice your proficiency bonus, and
+they fuel various psionic powers you have, which are detailed below.
+
+Some of your powers expend the Psionic Energy die they use, as specified
+in a power's description, and you can't use a power if it requires you
+to use a die when your dice are all expended. You regain all your
+expended Psionic Energy dice when you finish a long rest. In addition,
+as a bonus action, you can regain one expended Psionic Energy die, but
+you can't do so again until you finish a short or long rest.
+
+When you reach certain levels in this class, the size of your Psionic
+Energy dice increases: at 5th level (d8), 11th level (d10), and 17th
+level (d12).
+
+The powers below use your Psionic Energy dice.
+
+* {blank}
++
+____
+*Protective Field.* When you or another creature you can see within 30
+feet of you takes damage, you can use your reaction to expend one
+Psionic Energy die, roll the die, and reduce the damage taken by the
+number rolled plus your Intelligence modifier (minimum reduction of 1),
+as you create a momentary shield of telekinetic force.
+____
+* {blank}
++
+____
+*Psionic Strike.* You can propel your weapons with psionic force. Once
+on each of your turns, immediately after you hit a target within 30 feet
+of you with an attack and deal damage to it with a weapon, you can
+expend one Psionic Energy die, rolling it and dealing force damage to
+the target equal to the number rolled plus your Intelligence modifier.
+____
+* {blank}
++
+____
+*Telekinetic Movement.* You can move an object or a creature with your
+mind. As an action, you target one loose object that is Large or smaller
+or one willing creature, other than yourself. If you can see the target
+and it is within 30 feet of you, you can move it up to 30 feet to an
+unoccupied space you can see. Alternatively, if it is a Tiny object, you
+can move it to or from your hand. Either way, you can move the target
+horizontally, vertically, or both. Once you take this action, you can't
+do so again until you finish a short or long rest, unless you expend a
+Psionic Energy die to take it again.
+____
+
+==== 7th LEVEL: Telekinetic Adept
+
+You have mastered new ways to use your telekinetic abilities, detailed
+below.
+
+* {blank}
++
+____
+*Psi-Powered Leap.* As a bonus action, you can propel your body with
+your mind. You gain a flying speed equal to twice your walking speed
+until the end of the current turn. Once you take this bonus action, you
+can't do so again until you finish a short or long rest, unless you
+expend a Psionic Energy die to take it again.
+____
+* {blank}
++
+____
+*Telekinetic Thrust.* When you deal damage to a target with your Psionic
+Strike, you can force the target to make a Strength saving throw against
+a DC equal to 8 + your proficiency bonus + your Intelligence modifier.
+If the save fails, you can knock the target
+https://5e.tools/conditionsdiseases.html#prone_phb[[.underline]#prone#]
+or move it up to 10 feet in any direction horizontally.
+____
+
+==== 10th LEVEL: Guarded Mind
+
+The psionic energy flowing through you has bolstered your mind. You have
+resistance to psychic damage. Moreover, if you start your turn charmed
+or frightened, you can expend a Psionic Energy die and end every effect
+on yourself subjecting you to those conditions.
+
+==== 15th LEVEL: Bulwark of Force
+
+You can shield yourself and others with telekinetic force. As a bonus
+action, you can choose creatures, which can include you, that you can
+see within 30 feet of you, up to a number of creatures equal to your
+Intelligence modifier (minimum of one creature). Each of the chosen
+creatures is protected by half cover for 1 minute or until you're
+incapacitated.
+
+Once you take this bonus action, you can't do so again until you finish
+a long rest, unless you expend a Psionic Energy die to take it again.
+
+==== 18th LEVEL: Telekinetic Master
+
+Your ability to move creatures and objects with your mind is matched by
+few. You can cast the telekinesis spell, requiring no components, and
+your spellcasting ability for the spell is Intelligence. On each of your
+turns while you concentrate on the spell, including the turn when you
+cast it, you can make one attack with a weapon as a bonus action.
+
+Once you cast the spell with this feature, you can't do so again until
+you finish a long rest, unless you expend a Psionic Energy die to cast
+it again.
+
+=== Samurai
+
+The Samurai is a fighter who draws on an implacable fighting spirit to
+overcome enemies. A Samurai's resolve is nearly unbreakable, and the
+enemies in a Samurai's path have two choices: yield or die fighting.
+
+==== 3rd Level: Bonus Proficiency
+
+When you choose this archetype at 3rd level, you gain proficiency in one
+of the following skills of your choice: History, Insight, Performance,
+or Persuasion. Alternatively, you learn one language of your choice.
+
+==== 3rd Level: Fighting Spirit
+
+Starting at 3rd level, your intensity in battle can shield you and help
+you strike true. As a bonus action on your turn, you can give yourself
+advantage on weapon attack rolls until the end of the current turn. When
+you do so, you also gain 5 temporary hit points. The number of temporary
+hit points increases when you reach certain levels in this class,
+increasing to 10 at 10th level and 15 at 15th level.
+
+You can use this feature three times, and you regain all expended uses
+of it when you finish a long rest.
+
+==== 7th Level: Elegant Courtier
+
+Starting at 7th level, your discipline and attention to detail allow you
+to excel in social situations. Whenever you make a Charisma (Persuasion)
+check, you gain a bonus to the check equal to your Wisdom modifier.
+
+Your self-control also causes you to gain proficiency in Wisdom saving
+throws. If you already have this proficiency, you instead gain
+proficiency in Intelligence or Charisma saving throws (your choice).
+
+==== 10th Level: Tireless Spirit
+
+Starting at 10th level, when you roll initiative and have no uses of
+Fighting Spirit remaining, you regain one use.
+
+==== 15th Level: Rapid Strike
+
+Starting at 15th level, you learn to trade accuracy for swift strikes.
+If you take the Attack action on your turn and have advantage on an
+attack roll against one of the targets, you can forgo the advantage for
+that roll to make an additional weapon attack against that target, as
+part of the same action. You can do so no more than once per turn.
+
+==== 18th Level: Strength before Death
+
+Starting at 18th level, your fighting spirit can delay the grasp of
+death. If you take damage that reduces you to 0 hit points and doesn't
+kill you outright, you can use your reaction to delay falling
+unconscious, and you can immediately take an extra turn, interrupting
+the current turn. While you have 0 hit points during that extra turn,
+taking damage causes death saving throw failures as normal, and three
+death saving throw failures can still kill you. When the extra turn
+ends, you fall unconscious if you still have 0 hit points.
+
+Once you use this feature, you can't use it again until you finish a
+long rest.
+

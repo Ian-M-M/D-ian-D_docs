@@ -1,0 +1,17 @@
+= Classes
+:toc:
+:toclevels: 1
+
+include::artificer.adoc[]
+include::barbarian.adoc[]
+include::bard.adoc[]
+include::cleric.adoc[]
+include::druid.adoc[]
+include::fighter.adoc[]
+include::monk.adoc[]
+include::paladin.adoc[]
+include::ranger.adoc[]
+include::rogue.adoc[]
+include::sorcerer.adoc[]
+include::warlock.adoc[]
+include::wizard.adoc[]

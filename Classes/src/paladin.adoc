@@ -1,0 +1,431 @@
+== *Paladin*
+
+[width="99%",cols="9%,7%,56%,8%,4%,4%,4%,4%,4%",options="header",]
+|===
+| | | | |*_Spell Slots per Spell Level_* | | | |
+|*_Level_* a|
+*_Prof._*
+
+*_Bonus_*
+
+|*_Features_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_*
+|*_5th_*
+
+|*1st* |*+2* |*Divine Sense, Lay on Hands* |*-* |*—* |*—* |*—* |*—* |*—*
+
+|*2nd* |*+2* |*Divine Smite, Fighting Style, Spellcasting* |*2* |*2*
+|*—* |*—* |*—* |*—*
+
+|*3rd* |*+2* |*Divine Health, Sacred Oath* |*2* |*3* |*—* |*—* |*—* |*—*
+
+|*4th* |*+2* |*Ability Score Improvement* |*2* |*3* |*—* |*—* |*—* |*—*
+
+|*5th* |*+3* |*Extra Attack* |*2* |*4* |*2* |*—* |*—* |*—*
+
+|*6th* |*+3* |*Aura of Protection* |*2* |*4* |*2* |*—* |*—* |*—*
+
+|*7th* |*+3* |*Sacred Oath feature* |*2* |*4* |*3* |*—* |*—* |*—*
+
+|*8th* |*+3* |*Ability Score Improvement* |*2* |*4* |*3* |*—* |*—* |*—*
+
+|*9th* |*+4* |*—* |*2* |*4* |*3* |*2* |*—* |*—*
+
+|*10th* |*+4* |*Aura of Courage* |*3* |*4* |*3* |*2* |*—* |*—*
+
+|*11th* |*+4* |*Improved Divine Smite* |*3* |*4* |*3* |*3* |*—* |*—*
+
+|*12th* |*+4* |*Ability Score Improvement* |*3* |*4* |*3* |*3* |*—* |*—*
+
+|*13th* |*+5* |*—* |*3* |*4* |*3* |*3* |*1* |*—*
+
+|*14th* |*+5* |*Cleansing Touch* |*4* |*4* |*3* |*3* |*1* |*—*
+
+|*15th* |*+5* |*Sacred Oath feature* |*4* |*4* |*3* |*3* |*2* |*—*
+
+|*16th* |*+5* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*2* |*—*
+
+|*17th* |*+6* |*—* |*4* |*4* |*3* |*3* |*3* |*1*
+
+|*18th* |*+6* |*Aura improvements* |*4* |*4* |*3* |*3* |*3* |*1*
+
+|*19th* |*+6* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*3* |*2*
+
+|*20th* |*+6* |*Sacred Warrior* |*4* |*4* |*3* |*3* |*3* |*2*
+|===
+
+[width="99%"]
+|===
+|
+*Hit Points*
+
+*_Hit Dice_*: 1d10
+
+*_Hit Points at 1st Level_*: 10 + your Constitution modifier
+
+*_Hit Points at Higher Levels_*: 1d10 (or 6) + your Constitution
+modifier per Paladin level after 1st
+|
+*Proficiencies*
+
+*_Armor_*: light armor, medium armor, heavy armor, shields
+
+*_Weapons_*: simple weapons, martial weapons
+
+*_Tools:_* none
+
+*_Saving Throws_*: Wisdom, Charisma
+
+*_Skills_*: Choose 2 from Athletics, Insight, Intimidation, Medicine,
+Persuasion, and Religion
+a|
+*Starting Equipment*
+
+You start with the following items, plus anything provided by your
+background.
+
+* {blank}
++
+____
+{empty}(a) a martial weapon and a shield or (b) two martial weapons
+____
+* {blank}
++
+____
+{empty}(a) five javelins or (b) any simple melee weapon
+____
+* {blank}
++
+____
+{empty}(a) a priest's pack or (b) an explorer's pack
+____
+* {blank}
++
+____
+Chain mail and a holy symbol
+____
+|===
+
+=== *Divine Sense*
+
+The presence of strong evil registers on your senses like a noxious
+odor, and powerful good rings like heavenly music in your ears. As an
+action, you can open your awareness to detect such forces. Until the end
+of your next turn, you know the location of any celestial, fiend, or
+undead within 60 feet of you that is not behind total cover. You know
+the type (celestial, fiend, or undead) of any being whose presence you
+sense, but not its identity (the vampire Count Strahd von Zarovich, for
+instance). Within the same radius, you also detect the presence of any
+place or object that has been consecrated or desecrated, as with the
+hallow spell.
+
+You can use this feature a number of times equal to 1 + your Charisma
+modifier. When you finish a long rest, you regain all expended uses.
+
+=== *Lay on Hands*
+
+Your blessed touch can heal wounds. You have a pool of healing power
+that replenishes when you take a long rest. With that pool, you can
+restore a total number of hit points equal to your paladin level × 5.
+
+As an action, you can touch a creature and draw power from the pool to
+restore a number of hit points to that creature, up to the maximum
+amount remaining in your pool.
+
+Alternatively, you can expend 5 hit points from your pool of healing to
+cure the target of one disease or neutralize one poison affecting it.
+You can cure multiple diseases and neutralize multiple poisons with a
+single use of Lay on Hands, expending hit points separately for each
+one.
+
+This feature has no effect on undead and constructs.
+
+=== 
+
+=== *Divine Smite*
+
+Starting at 2nd level, once per turn, when you hit a creature with a
+melee weapon attack, you can expend one spell slot to deal radiant
+damage to the target, in addition to the weapon's damage. The extra
+damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level
+higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the
+target is an undead or a fiend, to a maximum of 6d8.
+
+=== 
+
+=== *Fighting Style*
+
+At 2nd level, you adopt a particular style of fighting as your
+specialty. Choose one of the following options. You can't take the same
+Fighting Style option more than once, even if you get to choose again.
+
+==== *Blind Fighting*
+
+You have blindsight with a range of 10 feet. Within that range, you can
+effectively see anything that isn't behind total cover, even if you're
+blinded or in darkness. Moreover, you can see an invisible creature
+within that range, unless the creature successfully hides from you.
+
+==== *Defense*
+
+While you are wearing armor, you gain a +1 bonus to AC.
+
+==== *Dueling*
+
+When you are wielding a melee weapon in one hand and no other weapons,
+you gain a +2 bonus to damage rolls with that weapon.
+
+==== *Great Weapon Fighting*
+
+When you roll a 1 or 2 on a damage die for an attack you make with a
+melee weapon that you are wielding with two hands, you can reroll the
+die and must use the new roll, even if the new roll is a 1 or a 2. The
+weapon must have the two-handed or versatile property for you to gain
+this benefit.
+
+==== *Interception*
+
+When a creature you can see hits a target, other than you, within 5 feet
+of you with an attack, you can use your reaction to reduce the damage
+the target takes by 1d10 + your proficiency bonus (to a minimum of 0
+damage). You must be wielding a shield or a simple or martial weapon to
+use this reaction.
+
+==== *Protection*
+
+When a creature you can see attacks a target other than you that is
+within 5 feet of you, you can use your reaction to impose disadvantage
+on the attack roll. You must be wielding a shield.
+
+=== 
+
+=== *Spellcasting*
+
+==== *Cantrips*
+
+You can prepare two Cantrips, you learn one extra at 10th level and
+another at 14th level. You choose them from the Cleric Spell list.
+
+==== *Spell Slots*
+
+Your Class table shows how many spell slots you have to cast your spells
+of 1st level and higher. To cast one of these spells, you must expend a
+slot of the spell's level or higher. You regain all expended spell slots
+when you finish a long rest.
+
+==== *Preparing and Casting Spells*
+
+Whenever you finish a Long Rest, you can replace any Spell you have
+prepared for this Class with another Spell from Paladin Spell List. At
+higher levels in this Class, you can prepare more Spells. The amount of
+spells you can prepare is equal to your Charisma modifier + half your
+Paladin level, rounded down (minimum of 1). Additionally, you will
+always have the _Compelled Duel_ that won’t count to your Spells
+prepared, additionally it doesn’t require concentration.
+
+==== *Spellcasting Ability*
+
+You use Charisma as your spell casting ability
+
+____
+*_Spell save DC_* = 8 + your proficiency bonus + your Charisma modifier
+
+*_Spell attack modifier_* = your proficiency bonus + your Charisma
+modifier
+____
+
+==== *Spellcasting Focus*
+
+You can use a holy symbol as a spellcasting focus for your paladin
+spells.
+
+=== 
+
+=== *Divine Health*
+
+By 3rd level, the divine magic flowing through you makes you immune to
+disease.
+
+=== 
+
+=== *Sacred Oath*
+
+When you reach 3rd level, you swear the oath that binds you as a paladin
+forever. Up to this time you have been in a preparatory stage, committed
+to the path but not yet sworn to it. Now you choose from the list of
+available oaths.
+
+Your choice grants you features at 3rd level and again at 7th, 15th, and
+20th level. Those features include oath spells and the Channel Divinity
+feature.
+
+==== *Oath Spells*
+
+The magic of your oath gives you the following benefits:
+
+* {blank}
++
+____
+*Prepared Spells.* You always have certain spells ready; when you reach
+a Paladin level specified in the table specified by your Oath, you
+thereafter always have the listed spells prepared. These spells don’t
+count against the number of spells you can prepare, and they follow the
+rules of this class’s Spellcasting feature.
+____
+* {blank}
++
+____
+*Divine Casting*. You can cast one of your prepared spells from this
+feature without expending a Spell Slot, and you must finish a Long Rest
+before you use this benefit again.
+____
+
+==== *Channel Divinity*
+
+Your oath allows you to channel divine energy to fuel magical effects.
+Each Channel Divinity option provided by your oath explains how to use
+it.
+
+When you use your Channel Divinity, you choose which option to use. You
+must then finish a short or long rest to use your Channel Divinity
+again.
+
+Some Channel Divinity effects require saving throws. When you use such
+an effect from this class, the DC equals your paladin spell save DC.
+
+==== Channel Divinity: Harness Divine Power
+
+You can expend a use of your Channel Divinity to fuel your spells. As a
+bonus action, you touch your holy symbol, utter a prayer, and regain one
+expended spell slot, the level of which can be no higher than half your
+proficiency bonus (rounded up). The number of times you can use this
+feature is based on the level you've reached in this class: 3rd level,
+once; 7th level, twice; and 15th level, thrice. You regain all expended
+uses when you finish a long rest.
+
+=== *Ability Score Improvement*
+
+When you reach 4th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== 
+
+=== *Extra Attack*
+
+Beginning at 5th level, you can attack twice, instead of once, whenever
+you take the Attack action on your turn.
+
+=== 
+
+=== *Aura of Protection*
+
+Starting at 6th level, whenever you or a friendly creature within 10
+feet of you must make a saving throw, the creature gains a bonus to the
+saving throw equal to your Charisma modifier (with a minimum bonus of
++1). You must be conscious to grant this bonus.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+=== 
+
+=== *Sacred Oath feature*
+
+At 7th level, you gain a feature granted to you by your Sacred Oath.
+
+=== 
+
+=== *Ability Score Improvement*
+
+When you reach 8th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== 
+
+=== *Aura of Courage*
+
+Starting at 10th level, you and friendly creatures within 10 feet of you
+can't be frightened while you are conscious.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+=== 
+
+=== *Improved Divine Smite*
+
+By 11th level, you are so suffused with righteous might that all your
+melee weapon strikes carry divine power with them. Whenever you hit a
+creature with a melee weapon, the creature takes an extra 1d8 radiant
+damage.
+
+=== 
+
+=== *Ability Score Improvement*
+
+When you reach 12th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== 
+
+=== *Cleansing Touch*
+
+Beginning at 14th level, you can use your action to end one spell on
+yourself or on one willing creature that you touch.
+
+You can use this feature a number of times equal to your Charisma
+modifier (a minimum of once). You regain expended uses when you finish a
+long rest.
+
+=== 
+
+=== *Sacred Oath feature*
+
+At 15th level, you gain a feature granted to you by your Sacred Oath.
+
+=== 
+
+=== Ability Score Improvement
+
+When you reach 16th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== 
+
+=== Aura improvements
+
+At 18th level, the range of your Aura of Protection increases to 30
+feet.
+
+=== 
+
+=== *Ability Score Improvement*
+
+When you reach 19th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== 
+
+=== Sacred Warrior
+
+At 20th level, whenever you roll Initiative, you regain one use of this
+class’s Channel Divinity.
+
+include::paladin_subclass.adoc[]

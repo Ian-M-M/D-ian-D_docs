@@ -1,0 +1,507 @@
+== *Ranger*
+
+[width="100%",cols="11%,6%,54%,9%,4%,4%,4%,4%,4%",options="header",]
+|===
+| | | | |*_Spell Slots per Spell Level_* | | | |
+|*_Level_* a|
+*_Prof._*
+
+*_Bonus_*
+
+|*_Features_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_*
+|*_5th_*
+
+|*1st* |*+2* |*Favored Enemy, Favored Terrain, Hunter’s Sense* |*-* |*—*
+|*—* |*—* |*—* |*—*
+
+|*2nd* |*+2* |*Expertise, Fighting Style* |*-* |*—* |*—* |*—* |*—* |*—*
+
+|*3rd* |*+2* |*Nature Magic, Ranger Conclave, Spellcasting* |*2* |*3*
+|*—* |*—* |*—* |*—*
+
+|*4th* |*+2* |*Ability Score Improvement* |*2* |*3* |*—* |*—* |*—* |*—*
+
+|*5th* |*+3* |*Extra Attack* |*2* |*4* |*2* |*—* |*—* |*—*
+
+|*6th* |*+3* |*Greater Favored Enemy, Roving* |*2* |*4* |*2* |*—* |*—*
+|*—*
+
+|*7th* |*+3* |*Ranger Conclave feature* |*2* |*4* |*3* |*—* |*—* |*—*
+
+|*8th* |*+3* |*Ability Score Improvement* |*2* |*4* |*3* |*—* |*—* |*—*
+
+|*9th* |*+4* |*Expertise* |*2* |*4* |*3* |*2* |*—* |*—*
+
+|*10th* |*+4* |*Tireless, Favored Enemy improvement* |*3* |*4* |*3* |*2*
+|*—* |*—*
+
+|*11th* |*+4* |*Ranger Conclave feature* |*3* |*4* |*3* |*3* |*—* |*—*
+
+|*12th* |*+4* |*Ability Score Improvement* |*3* |*4* |*3* |*3* |*—* |*—*
+
+|*13th* |*+5* |*Nature's Veil* |*3* |*4* |*3* |*3* |*1* |*—*
+
+|*14th* |*+5* |*Favored Enemy improvement* |*4* |*4* |*3* |*3* |*1* |*—*
+
+|*15th* |*+5* |*Ranger Conclave feature* |*4* |*4* |*3* |*3* |*2* |*—*
+
+|*16th* |*+5* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*2* |*—*
+
+|*17th* |*+6* |*Feral Senses* |*4* |*4* |*3* |*3* |*3* |*1*
+
+|*18th* |*+6* |*Favored Enemy improvement* |*4* |*4* |*3* |*3* |*3* |*1*
+
+|*19th* |*+6* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*3* |*2*
+
+|*20th* |*+6* |*Foe Slayer* |*4* |*4* |*3* |*3* |*3* |*2*
+|===
+
+[width="99%"]
+|===
+|
+*Hit Points*
+
+*_Hit Dice_*: 1d10
+
+*_Hit Points at 1st Level_*: 10 + your Constitution modifier
+
+*_Hit Points at Higher Levels_*: 1d10 (or 6) + your Constitution
+modifier per Ranger level after 1st
+|
+*Proficiencies*
+
+*_Armor_*: light armor, medium armor, shields
+
+*_Weapons_*: simple weapons, martial weapons
+
+*_Tools:_* none
+
+*_Saving Throws_*: Strength, Dexterity
+
+*_Skills_*: Choose 3 from Animal Handling, Athletics, Insight,
+Investigation, Nature, Perception, Stealth, and Survival.
+a|
+*Starting Equipment*
+
+You start with the following items, plus anything provided by your
+background.
+
+* {blank}
++
+____
+{empty}(a) scale mail or (b) leather armor
+____
+* {blank}
++
+____
+{empty}(a) two shortswords or (b) two simple melee weapons
+____
+* {blank}
++
+____
+{empty}(a) a dungeoneer's pack or (b) an explorer's pack
+____
+* {blank}
++
+____
+A longbow and a quiver of 20 arrows
+____
+|===
+
+=== Hunter’s Sense
+
+At 1st level, when you hit with an attack you can designate it as your
+Prey, you must be able to see or hear the prey, or you must be tracking
+the prey during exploration.
+
+You gain a +2 bonus to Perception checks when you Seek your prey and to
+Survival checks when you Track your prey. You also ignore the
+disadvantage for making ranged attacks within your long range and for
+attacking at 5 ft against the prey you’re hunting. Additionally, the
+first time you hit your prey in a round, you also deal 1d8 additional
+damage.
+
+You can have only one creature designated as your prey at a time. If you
+use Hunter’s Sense against a creature when you already have a creature
+designated, the prior creature loses the designation and the new prey
+gains the designation. Your designation lasts until your next Long Rest.
+
+=== Favored Enemy 
+
+Beginning at 1st level, you have significant experience studying,
+tracking, hunting, and even talking to a certain type of enemy commonly
+encountered in the wilds.
+
+Choose a type of favored enemy: beasts, fey, *humanoids*, monstrosities,
+or undead. You gain a +2 bonus to damage rolls with weapon attacks
+against creatures of the chosen type. Additionally, if you have marked a
+creature of your favored enemy as your Prey, you have advantage
+attacking them.
+
+When you gain this feature, you also learn one language of your choice,
+typically one spoken by your favored enemy or creatures associated with
+it. However, you are free to pick any language you wish to learn.
+
+=== Favored Terrain
+
+At 1st level, you have studied a specific terrain to overcome its
+challenges. Choose aquatic, arctic, desert, forest, mountain, plains,
+sky, swamp, or underground as your favored terrain. When in that
+terrain, you gain the following benefits:
+
+* {blank}
++
+____
+You ignore difficult terrain.
+____
+* {blank}
++
+____
+You have advantage on initiative rolls.
+____
+* {blank}
++
+____
+On your first turn during combat, you have advantage on attack rolls
+against creatures that have not yet acted.
+____
+
+Additionally, you gain a second benefit, depending on your choice.
+
+* {blank}
++
+____
+*Aquatic* You gain a swim Speed equal to your Speed. If you already had
+a swim Speed, you gain +10 ft to your swim Speed.
+____
+* {blank}
++
+____
+*Arctic* You aren’t affected by extreme cold, you gain resistance to
+cold damage.
+____
+* {blank}
++
+____
+*Desert* You aren’t affected by extreme heat, you gain resistance to
+cold fire.
+____
+* {blank}
++
+____
+*Forest*, *Mountain*, or *Underground* You gain a climb Speed equal to
+your Speed. If you already had a climb Speed, you gain +10 ft to your
+climb Speed.
+____
+* {blank}
++
+____
+*Plains or Swamp* You gain +10 ft to your walking Speed.
+____
+* {blank}
++
+____
+*Sky* You gain +10 ft to your flying Speed, if you have one; otherwise,
+you gain a flying speed of 10 ft.
+____
+* {blank}
++
+____
+*Urban.* You gain proficiency in Investigation and Insight.
+____
+
+=== Expertise
+
+At 2nd level, you gain Expertise in two of your Skill Proficiencies of
+your choice.
+
+=== *Fighting Style*
+
+At 2nd level, you adopt a particular style of fighting as your
+specialty. Choose one of the following options. You can't take a
+Fighting Style option more than once, even if you later get to choose
+again.
+
+==== *Archery*
+
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+
+==== *Defense*
+
+While you are wearing armor, you gain a +1 bonus to AC.
+
+==== *Dueling*
+
+When you are wielding a melee weapon in one hand and no other weapons,
+you gain a +2 bonus to damage rolls with that weapon.
+
+==== *Thrown Weapon Fighting*
+
+You can draw a weapon that has the thrown property as part of the attack
+you make with the weapon.
+
+In addition, when you hit with a ranged attack using a thrown weapon,
+you gain a +2 bonus to the damage roll.
+
+==== *Two-Weapon Fighting*
+
+When you engage in two-weapon fighting, you can add your ability
+modifier to the damage of the second attack.
+
+=== Nature Magic
+
+At third level, you can focus your awareness through the
+interconnections of nature: you learn additional spells when you reach
+certain levels in this class if you don't already know them, as shown in
+the Nature Magic Spells table. These spells don't count against the
+number of ranger spells you know.
+
+Nature Magic Spells
+
+[width="100%",cols="18%,82%",options="header",]
+|===
+|*Ranger Level* |*Spell*
+|3rd |Speak with animals
+|5th |Beast sense
+|9th |Speak with plants
+|13th |Locate creature
+|17th |Commune with nature
+|===
+
+You can cast each of these spells once without expending a spell slot.
+Once you cast a spell in this way, you can't do so again until you
+finish a long rest.
+
+=== Spellcasting
+
+By the time you reach 3rd level, you have learned to use the magical
+essence of nature to cast spells, much as a druid does. See chapter 10
+for the general rules of spellcasting and chapter 11 for the ranger
+spell list.
+
+==== *Cantrips*
+
+You can prepare two Cantrips (you learn one extra at 10th level) ; those
+cantrips must be from the Druid spell list.
+
+==== *Spell Slots*
+
+The Ranger table shows how many spell slots you have to cast your ranger
+spells of 1st level and higher. To cast one of these spells, you must
+expend a slot of the spell's level or higher. You regain all expended
+spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell animal friendship and have
+a 1st-level and a 2nd-level spell slot available, you can cast animal
+friendship using either slot.
+
+==== *Preparing and Casting Spells*
+
+Any Spell you prepare for this Class must be a Druid or Ranger Spell.
+Whenever you finish a Long Rest, you can commune with nature and replace
+any Spell you have prepared for this Class with another Druid or Ranger
+Spell. At higher levels in this Class, you can prepare more Spells. The
+amount of spells you can prepare is equal to your Wisdom modifier + half
+of your Ranger level, rounded down (minimum of 1). Additionally, you
+always have the Hunter’s Mark spell prepared and it doesn’t count
+against your spells prepared.
+
+==== *Spellcasting Ability*
+
+Wisdom is your Spellcasting Ability for your Ranger Spells.
+
+____
+*Spell save DC* = 8 + your proficiency bonus + your Wisdom modifier +
+*Spell attack modifier* = your proficiency bonus + your Wisdom modifier
+____
+
+==== *Spellcasting Focus*
+
+You can use a Druidic Focus as a Spellcasting Focus for the Spells you
+prepare for this Class.
+
+=== *Ranger* Conclave
+
+At 3rd level, you choose an archetype that you strive to emulate from
+the list of available archetypes. Your choice grants features at 3rd
+level, and again at 7th, 11th, and 15th level.
+
+==== *Channel Nature*
+
+Your ranger archetype allows you to channel nature's energy to fuel
+magical effects. Each Channel Nature option provided by your Conclave
+explains how to use it.
+
+When you use your Channel Nature, you choose which option to use. You
+must then finish a short or long rest to use your Channel Nature again.
+
+Some Channel Nature effects require saving throws. When you use such an
+effect from this class, the DC equals your ranger spell save DC.
+
+===== Channel Nature: Invoke Spirit
+
+When you gain your Conclave, you have forged a special bond with a
+spirit, that give you your Ranger Conclave traits.
+
+You can expend a use of your Channel Nature to invoice your spirit. You
+magically summon a creature which is related to your Conclave. The
+spirit is friendly to you and your companions and obeys your commands.
+Choose its stat block—Beast of the Land, Beast of the Sea, or Beast of
+the Sky—which uses your proficiency bonus (PB) in several places. You
+also determine the form of the spirit, choosing a kind appropriate for
+the stat block. Whatever kind you choose, the spirit bears primal
+markings, indicating its mystical origin.
+
+In combat, the spirit acts during your turn. It can move and use its
+reaction on its own, but the only action it takes is the Dodge action,
+unless you take a bonus action on your turn to command it to take
+another action. That action can be one in its stat block or some other
+action. You can also sacrifice one of your attacks when you take the
+Attack action to command the beast to take the Attack action. If you are
+incapacitated, the beast can take any action of its choice, not just
+Dodge.
+
+If the spirit has died within the last hour, you can use your action to
+touch it and expend a spell slot of 1st level or higher. The spirit
+returns to life after 1 minute with all its hit points restored.
+
+When you finish a long rest, you can summon the spirit without using
+your Channel Nature. The spirit appears in an unoccupied space within 5
+feet of you, and you choose its stat block and appearance. If you
+already have the spirits from this feature, it vanishes when the new
+spirit appears. The spirit also vanishes if you die
+
+At 11th level, your spirit gains Multiattack and its attacks counts as
+magical.
+
+=== *Ability Score Improvement*
+
+When you reach 4th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Extra Attack*
+
+Beginning at 5th level, you can attack twice, instead of once, whenever
+you take the Attack action on your turn.
+
+=== Greater Favored Enemy
+
+At 6th level, you are ready to hunt even deadlier game. Choose a type of
+greater favored enemy: aberrations, celestials, constructs, dragons,
+elementals, fiends, or giants. You gain all the benefits against this
+chosen enemy that you normally gain against your favored enemy,
+including an additional language. Your bonus to damage rolls against all
+your favored enemies increases to +4.
+
+Additionally, you have advantage on saving throws against the spells and
+abilities used by a greater favored enemy.
+
+=== *Roving*
+
+Beginning at 6th level, your walking speed increases by 5, and you gain
+a climbing speed and a swimming speed equal to your walking speed.
+
+=== *Ranger* Conclave *feature*
+
+At 7th level, you gain a feature granted to you by your Ranger
+Archetype.
+
+=== *Ability Score Improvement*
+
+When you reach 8th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Expertise*
+
+At 9th level, you gain Expertise in two of your Skill Proficiencies of
+your choice.
+
+=== *Tireless*
+
+At 10th level, as a bonus action, you can give yourself a number of
+temporary hit points equal to 1d8 + your Wisdom modifier (minimum of 1
+temporary hit point). You can use this action a number of times equal to
+your proficiency bonus, and you regain all expended uses when you finish
+a long rest.
+
+In addition, whenever you finish a short rest, your exhaustion level, if
+any, is decreased by 1.
+
+=== Favored Enemy improvement
+
+At 10th level, the damage of your Hunter’s Mark spell becomes 1d8.
+
+=== *Ranger* Conclave *feature*
+
+At 11th level, you gain a feature granted to you by your Ranger
+Archetype.
+
+=== *Ability Score Improvement*
+
+When you reach 12th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Nature's Veil*
+
+At 13th level, you invoke spirits of nature to magically hide yourself
+from view. As a Bonus Action you become Invisible until the end of your
+next turn. You can use this trait a number of times equals to your
+proficiency bonus.
+
+=== *Favored Enemy Improvement*
+
+At 14th level, if you have marked your Prey, your attacks are critical
+against that creature on a 19 or 20.
+
+=== *Ranger* Conclave *feature*
+
+At 15th level, you gain a feature granted to you by your Ranger
+Archetype.
+
+=== *Ability Score Improvement*
+
+When you reach 16th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Feral Senses*
+
+At 17th level, your connection to the forces of nature grants you
+Blindsight with a range of 30 feet.
+
+=== *Favored Enemy Improvement*
+
+At 18th level, you add your Wisdom modifier to the damage dealt to your
+Prey.
+
+=== *Ability Score Improvement*
+
+When you reach 19th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this
+feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+=== *Foe Slayer*
+
+At 20th level, you become an unparalleled hunter of your enemies. You
+can have up to three creatures marked as your Prey, additionally you
+gain the benefits of the Hunter’s Mark Spell against your Preys
+
+include::ranger_subclass.adoc[]
