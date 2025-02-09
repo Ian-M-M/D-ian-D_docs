@@ -1,3 +1,4 @@
 = Lineages
+:toc:
 
 include::./aasimar.adoc[]

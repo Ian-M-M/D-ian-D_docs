@@ -1,0 +1,38 @@
+== Anaheran
+
+*Creature Type:* Humanoid (Celestial)
+
+*Size:* Medium
+
+*Speed:* 30 ft., fly while Guardian's Form is active you have 30 ft.
+
+*Age:* Mature at 20 and usualy live up to 110
+
+'''
+
+*Darkvision.* You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+
+*Celestial Resistance.* You have resistance to necrotic damage and radiant damage.
+
+*Ward Connection.* You are connected to another mortal from birth. This mortal is your ward, and the link between you helps you to protect and watch over them by giving you information on your ward:
+
+* You know the general direction to the location of your ward, but not how far away they are from you.
+* You know the general emotional state of your ward.
+* You know if your ward is in life-threatening danger.
+* While you are within 30 feet of your ward, your ward rolls all death saving throws with advantage.
+* Your life is intrinsically tied to that of your ward. If your ward dies, you die with them. If your ward dies and is later revived through any means including magic, you are not automatically revived with them. You cannot be revived if your ward is dead, but if you are revived while your ward is alive, you immediately regain the effects of Ward Connection upon your revival.
+
+*Guardian’s Blessing.* As a bonus action, you can touch a creature and shroud them in your divine energy. The creature regains the maximum number of hit points possible from the next healing it receives. For example, instead of a healing spell restoring 2d6 hit points to the creature, it restores 12 hit points. Once you use this trait, you can’t use it again until you finish a short rest.
+
+*Guardian Form.* Starting at 3rd level, you can use your bonus action to unleash the celestial energy within yourself, transforming into an angelic form and gaining the benefits of your divine ancestry. You grow wings, giving you a flying speed equal to your walking speed.
+Once on each of your turns, you can choose either to deal extra radiant damage to one target when you deal damage to it with an attack or a spell, or to heal a creature within 30 feet of you at the end of your turn. The extra damage or hit points healed equals your proficiency bonus.
+Your transformation lasts for 1 minute or until you end it as a bonus action. Once you use this trait, you can’t use it again until you finish a long rest.
+
+*Languague.* You can speak, read, and write Common and Celestial.
+
+'''
+
+*Height.* 4'8" + 2d10.
+
+*Weight.* 110 + (2d10 * 2d4) lb.
+

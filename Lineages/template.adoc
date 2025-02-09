@@ -1,0 +1,22 @@
+== Name
+
+*Creature Type:* Humanoid (Type)
+
+*Size:* Medium
+
+*Speed:* 30 ft.
+
+*Age:* Mature at - and usualy live up to -
+
+'''
+
+*Darkvision.* You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+
+*Languague.* You can speak, read, and write Common.
+
+'''
+
+*Height.* 4'8" + 2d10.
+
+*Weight.* 110 + (2d10 * 2d4) lb.
+

@@ -30,7 +30,7 @@
 ** You can add your proficiency bonus to all Intelligence checks (skills included).
 ** You can use this trait a number of times equals to your proficiency bonus.
 
-*Languague.* You can speak, read, and write Common and Celestial.
+*Languague.* You can speak, read, and write Common.
 
 '''
 
