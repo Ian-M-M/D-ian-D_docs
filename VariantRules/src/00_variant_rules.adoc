@@ -1,0 +1,5 @@
+= Variant Rules
+:table-caption!:
+
+include::./downtimes.adoc[]
+
