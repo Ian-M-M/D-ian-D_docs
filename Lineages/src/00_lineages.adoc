@@ -1,4 +1,11 @@
 = Lineages
 :toc:
 
-include::./aasimar.adoc[]
+include::./Aasimar.adoc[]
+include::./Anaheran.adoc[]
+include::./Changeling.adoc[]
+include::./Dhampir.adoc[]
+include::./Dragonborn.adoc[]
+include::./Dwarf.adoc[]
+include::./Elf.adoc[]
+include::./Enkoh.adoc[]

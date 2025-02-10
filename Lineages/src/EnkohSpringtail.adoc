@@ -1,36 +1,26 @@
-== Aasimar
+=== Enkoh (Springtail)
 
-*Creature Type:* Humanoid (Aasimar)
+*Creature Type:* Humanoid (Yokai)
 
 *Size:* Medium
 
-*Speed:* 30 ft.
+*Speed:* 35 ft and climb equals to your walking speed.
 
-*Age:* Mature at 20 and usualy live up to 110
+*Age:* Mature at 15 and usualy live up to 700
 
 '''
 
-*Darkvision.* You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+*Languages.* You can speak, read, and write Common and one other language that you and your GM agree is appropriate for your character.
 
-*Celestial Lineague.* At 3rd the god’s alignment that bless your lineage give you one of the following traits:
+*Speed.* Your walking speed is 35 feet, and you have a climbing speed equal to your walking speed. In addition, climbing on a creature larger than you doesn’t count as difficult terrain for you.
 
-* Good Alignment.
-** You gain resistance to radiant damage.
-** Angelical Protection. As a bonus action you talk to a one creature that can hear you that is up to 15 ft from you (including yourself) the target gains 1d6 temporary hit points, the roll increases to 2d6 at 5th level and 3d6 at 11th level. You can use this trait a number of times equals to half your proficiency bonus.
-* Evil Alignment.
-** You gain resistance to necrotic damage.
-** Necrotic Shroud. As a bonus action you can force creatures other than your allies within 10 ft of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you for a number or rounds equal to your proficiency bonus. You can use this trait a number of times equals to half your proficiency bonus.
-* Chaotic Alignment.
-** You gain resistance to force damage.
-** Chaotic Energy. As a bonus action you can imbue one attack of your next spell attack to deal extra 1d6 force damage, the damage increase to 2d6 at 7th level and 3d6 at 11th level. You can use this trait a number of times equals to half your proficiency bonus.
-* Lawful Alignment.
-** You gain resistance to psychic damage.
-** Divine Mind. As a bonus action you can give yourself the following benefits during the next minute:
-* Advantage on Intelligence and Wisdom Saving throws.
-** You can add your proficiency bonus to all Intelligence checks (skills included).
-** You can use this trait a number of times equals to your proficiency bonus.
+*Beast Wardens.* You have advantage on ability checks to tame or influence Beasts.
 
-*Languague.* You can speak, read, and write Common.
+*Skillfull.* You gain proficiency in your choice of two of the following skills: Acrobatics, Animal Handling, Nature, Performance, or Survival.
+
+*Springing Leap.* You can calculate your jump distance using your Dexterity. When you do, your long jump covers a number of feet equal to your Dexterity score with or without a running start, and your high jump equals 3 + your Dexterity modifier (minimum of 0 feet) with or without a running start. Either way, each foot you clear on the jump costs a foot of movement
+
+*Sturdy Tail.* Your tail can support your weight and balance. When you make an ability check or saving throw to avoid being forcibly moved, you can use your reaction to curl your tail around an object within 5 feet of you that is attached to the ground or another sturdy surface. If you do so, you have advantage on that check or save.
 
 '''
 
