@@ -127,7 +127,7 @@ of your choice
 
 *_Skills_*: Choose 2 from Arcana, History, Investigation, Medicine,
 Nature, Perception, and Sleight of Hand.
-|
+a|
 *Starting Equipment*
 
 You start with the following items, plus anything provided by your
@@ -153,7 +153,6 @@ ____
 ____
 {empty}thieves' tools and a dungeoneer's pack.
 ____
-
 |===
 
 === *Optional Rule: Firearm Proficiency*
