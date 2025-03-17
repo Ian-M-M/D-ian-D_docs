@@ -1,0 +1,453 @@
+= Kingmaker
+:toc:
+
+== Creating a Kingdom
+
+A kingdom has four ability scores, each will start at 10 points improving or worsening depending on the player´s choice.
+
+=== Ability Scores
+
+==== Culture
+
+Your kingdom´s culture reflects your citizens interests in art, science, philosophy, what they value and deem it is necessary to teach.
+
+==== Economy
+
+This score shows the the day to day work your citizens do and their interest for building, commerce and industry.
+
+==== Loyalty
+
+loyalty is a measure of the spirit and collective willpower from your citizens, how much they trust you, how they will respond to your decrees and how much they support you.
+
+==== Stability
+
+It is the base for your nations health, this includes your infraestructure, general wellbeing and how well your kingdom is mantained and protected.
+
+=== Choosing a Charter
+Starting a kingdom is a perilous journey which could go terribly wrong. Accepting a lord´s help in order to get an easier start is always an option, but it comes with resposability to a lord, uncertainty of your position and a debt to be paid in some occasions, or you could go on your own and try tour luck and be at the wims of good or bad fortune.
+
+On this part the players must choose one of the charters, each will give a boost to an ability score and a flaw to another, except the last one. Just because you have choosen a certain charter doesnt mean your kingdom is locked to a certain playstyle or flavor, as your settlement improves it will become more powerfull, as your story develops only you decide whick route your kingdom will take.
+
+==== Conquest
+A territory has been conquered and you have been granted that territory to pacify it or control it, you have the military backing of a country and could ask for troops from your lord at a cost. Your citizens are more loyal but the looming threat of violence will make sure they are never fully comfortables.
+
+* *Ability Boost:* Loyalty and a free ability boost.
+* *Ability Flaw:* Culture.
+* *Consequences:* Your lands arent enterely yours, this territory was granted with a mission in mind, this means your lord could ask you:
+** Your troops, leaving your territory defenceless.
+** To pacify with force the land.
+** To leave your land to lead an army on another land, leaving your territory leaderless.
+
+==== Expansion
+A territory has been given to you near a settled land with the expectation of being a good ally. Your patrons support can guarantee your security and wellbeing but the state of your ally can make your fortune fluctuate.
+
+* *Ability Boost:* Culture and a free ability boost.
+* *Ability Flaw:* Stability.
+* *Consequences:* You have been appointed a direct vassal of your lord, this means you could be asked to:
+** Repel enemy skirmishes to your lords lands.
+** Have your support be cut.
+** Be assimilated directly into your lords control.
+
+==== Grant
+Your patron has given you a large amount of funding and resources but with the expectations of giving their citizens work and becoming their ally, you have the money and resources but your citizens arent enterely totally loyal to you.
+
+* *Ability Boost:* Economy and a free ability boost.
+* *Ability Flaw:* Loyalty.
+* *Consequences:* You are indebted to your patron and rule over his citizens, in all but name you are a vassal which means he can:
+** Ask you for tribute.
+** Try to acquire direct control over your land.
+** Cut your funding.
+
+==== Open
+With this option you can directly claim land without restrictions or direct support. You are on your own and must take precautions with every entity which would have your settlement destroyed or subjugated.
+
+* *Ability Boost:* A free ability boost.
+* *Ability Flaw:* None.
+* *Consequences:* Choosing this path means you have no friends which means everyone is a potential enemy or competitor who can take over your territory, this means certain situations can occur such as:
+** A kingdom may want you to submit to them or surrender your land.
+** Becoming allies with someone will make their enemies become yours.
+** Obtaining resources may be harder due to not having support.
+
+=== Choosing a Heartland
+When you settle your kingdom it will occupy a single hex, the terrain of that hex will become its heartland and will provide an ability boost depending of the terrain.
+
+Once you have settled you cant change your initial hex so choose properly before settling. If a hex has more than one terrain you will choose the benefits of only one of the two.
+
+==== Forest or Swamp
+ 
+* *Ability Boost:* Culture.
+
+==== Hill or Plain
+ 
+* *Ability Boost:* Loyalty.
+
+==== Lake or River
+ 
+* *Ability Boost:* Economy.
+
+==== mountains or Ruins
+ 
+* *Ability Boost:* Stability.
+
+=== Choosing a Goverment
+Choosing a goverment will give your kingdom a boost to their ability score and proficiency to checks involving one of those abilities.
+
+==== Despostism
+Your kingdoms rule lies with one person whose authority is absolute, he may have advisors but the final choice is always theirs.
+
+* *Ability Boost:* Stability, Economy and a free ability boost.
+
+==== Feudalism
+A royal bloodline holds the throne but real power is distributed among their vassals.
+
+* *Ability Boost:* Stability, Culture and a free ability boost.
+
+==== Oligarchy
+The kingdoms decisions are taken by a council of the lands most influential leaders.
+
+* *Ability Boost:* Loyalty, Economy and a free ability boost.
+
+==== Republic
+Your citizens choose their representatives who meet in parlament to make decisions.
+
+* *Ability Boost:* Stability, Loyalty and a free ability boost.
+
+==== Thaumocracy
+The kingdom is governed by the most veteran magicians, this type of goverment can adopt different forms depending on the type of magic school they prefer.
+
+* *Ability Boost:* Economy, Culture and a free ability boost.
+
+==== Yeomanry
+Your nation is decentralized and relies on local leaders
+and citizens to handle government issues, sending
+representatives to each other as needed to deal with issues
+that concern more than one locality.
+
+* *Ability Boost:* Culture, Loyalty and a free ability boost.
+
+==== Changing Goverment
+Once you have chosen a type of goverment it cant be change unless the DM allows it. It should be noted that a change in govermemt should be accompanied by big events and lead to a quest.
+
+=== Finalize Ability Scores
+Once the players have chosen a heartland and goverment they must choose two different abilities to receive an additional boost, then account for all boost and flaws and record the final ability score.
+
+=== Choose Leaders
+Once your kingdom has been created the next step is to assing leadership positions to a PC or NPC, there are in total 8 leadership positions which have to be filled and each leader must spend at least a week of downtime every month to attend their responsabilities. If a character doesnt attend their duties it will incur a penalty.
+
+At the beginning of the kingdoms turn the player can elect two positions to receive a boost, during that month all checks related to that position obtain a *+1*, this increases to *+2* at level *8* and *+3* at level *16*.
+
+==== Ruler
+The ruler performs the kingdoms most important
+ceremonies, is the kingdoms chief diplomatic officer, serves
+as the signatory for all laws affecting the entire kingdom,
+pardons criminals when appropriate, and is responsible
+for appointing characters to all other high positions in the
+kingdoms government.
+
+* *Key Ability:* Loyalty.
+* *Penalties*
+** *-1* to all checks.
+** Gain *1* unrest at the start of the turn.
+** The kingdoms control DC is reduced by *2*.
+
+==== Counselor
+The Counselor is a liaison between government and citizens.
+They study issues with academic analysis but also interpret
+the desires of the citizenry and present proclamations to
+the people in understandable ways. They also serve as an
+advisor to the other leaders, particularly to the Ruler.
+
+* *Key Ability:* Culture.
+* *Penalties*
+** *-1* to all culture based checks.
+
+==== General
+The General leads the kingdoms military, heading its
+armies and managing subordinate military commanders.
+The General is responsible for looking after the needs of
+the kingdoms military and directing them in times of war.
+
+* *Key Ability:* Stability.
+* *Penalties*
+** *-4* to all stability based checks.
+
+==== Emisary
+The Emissary keeps state secrets, oversees clandestine
+intrigues, and deals with criminal elements within the
+kingdom. They manage foreign policy and interactions
+with other kingdoms, as well as the interactions
+of political organizations and power brokers at
+home. Whether or not your emissary is a public
+figure or someone who manipulates events
+behind the scenes, their role in the kingdom
+remains the same.
+
+* *Key Ability:* Loyalty.
+* *Penalties*
+** *-1* to all Loyalty based checks.
+
+==== Magister
+The Magister is in charge of all things
+magical in the kingdom, attending to how
+the supernatural affects ordinary citizens.
+They promote higher learning in the
+arts of magic, whether arcane, divine,
+occult, or primal. They oversee any
+aspects of governmental bureaucracy
+in which magic can be of service to the
+kingdoms needs and interests.
+
+* *Key Ability:* Culture.
+* *Penalties*
+** *-4* to all culture based checks.
+
+==== Treasurer
+The Treasurer monitors the kingdoms funds and the
+state of business and industry, as well as the citizens
+confidence in the economy and the growth of the nations
+manufacturing capacity. They work to ensure a fair market
+for all, investigate those who take advantage of the system,
+and handle taxation issues.
+
+* *Key Ability:* Economy.
+* *Penalties*
+** *-1* to all economy based checks.
+
+==== Viceroy
+The Viceroy plans and implements the kingdoms expansion
+and development, both in its territories and its settlements.
+They manage the infrastructure of the nation, overseeing
+major capital improvements and growing the networks that
+connect the hinterlands with the cities at the nations heart,
+helping keep the kingdom moving and growing.
+
+* *Key Ability:* Economy.
+* *Penalties*
+** *-1* to all stability based checks.
+
+==== Warden
+The Warden monitors the safety, security, and overall
+health of the kingdom, its lands, and its borders. They
+manage scouts and patrols in the countryside, respond
+to local threats and menaces as needed, and oversee the
+kingdoms overall defense and health.
+
+* *Key Ability:* Stability.
+* *Penalties*
+** *-4* to all stability based checks.
+
+== Levelling a Kingdom
+As your kingdom earns XP it will level up, tehe kingdoms maximum level will be the current party level.
+
+.Kingdom Advancement
+[cols="3", options="header"]
+|===
+| Level | Control DC | Features
+
+| 1  | 14  | Charter, government, heartland, initial proficiencies
+| 2  | 15  | -
+| 3  | 16  | -
+| 4  | 18  | Expansion expert, fine living, Proficiency Bonus(Trained)
+| 5  | 20  | Ability boosts, ruin resistance
+| 6  | 22  | -
+| 7  | 23  | -
+| 8  | 24  | Experienced leadership +2, ruin resistance
+| 9  | 26  | Expansion expert (Claim Hex 3 times/turn), Proficiency Bonus(Expert)
+| 10 | 27  | Ability boosts, life of luxury
+| 11 | 28  | Ruin resistance
+| 12 | 30  | -
+| 13 | 31  | -
+| 14 | 32  | Ruin resistance, Proficiency Bonus(Master)
+| 15 | 34  | Ability boosts
+| 16 | 35  | Experienced leadership +3
+| 17 | 36  | Ruin resistance
+| 18 | 38  | -
+| 19 | 39  | Proficiency Bonus(Legendary)
+| 20 | 40  | Ability boosts, envy of the world, ruin resistance
+|===
+
+=== Control DC
+The larger a kingdom grows, the harder it is to maintain control. The base control is defined by the kingdom's level (see table on page 9).
+
+=== Proficiency Bonus
+The kindom´s proficiency rises adding a bonus to checks during iits turn according to the following table.
+
+.Kindom´s Proficiency Bonus
+[cols="2", options="header"]
+|===
+| Rank | Proficiency Bonus
+
+| *Untrained* | 0
+| *Trained* |  Kingdom´s level + 2
+| *Expert* |  Kingdom´s level + 4
+| *Master* |  Kingdom´s level + 6
+| *Legendary* |  Kingdom´s level + 8
+|===
+
+=== Favored Land
+The core of your kingdom becomes your preferred terrain by default, reducing material costs for constructing buildings by 15%.
+
+=== Settlement Construction 3rd Level
+The total construction space of your tiles increases by 1. This increase happens again at level 5, level 8, level 11, level 15, and level 19.
+
+=== Skill Increase 3rd Level
+At level 3 and every two levels thereafter, you can increase the rank of one skill. At level 7, you can improve a skill to master where you are already an expert. At level 15, you can upgrade a skill to legendary.
+
+=== Expansion Expert 4th Level
+You gain a +2 bonus on checks to claim a hex and can attempt to claim a hex twice in one turn. At level 9, you can attempt it up to three times.
+
+=== Fine Living
+You gain a +2 bonus on all checks to create or upgrade buildings.
+
+=== Skill Increase 5th Level
+Starting at level 5 and every five levels thereafter, you can increase two kingdom skills by +2 if the skill is below 18 and by +1 if it is 18 or higher.
+
+=== Ruin Resistance
+
+
+=== Experienced Leadership 8th Level
+Invested roles grant a +2 bonus on checks associated with the role's key skill. This increases to +3 at level 16.
+
+=== Life of Luxury 10th Level
+You gain a +4 bonus on all checks to create or upgrade buildings.
+
+=== Civic Planning 12th Level
+During the civic activities phase, a settlement can attempt two civic activities instead of one. The second activity occurs after all settlements have completed their first civic activity.
+
+=== Envy of the World 20th Level
+
+== Construction
+At the beggining of the kingdoms turn the players may take a number of actions one of those is to erect buildings in a chosen hex, a building will require a number of materials, gold and time to build, once built the building will produce an output of goods, servicies or materials each month. All buildings also require a certain amount of gold to be maintained, in case the maintenance cost cant be payed the building will stop working.
+
+=== Materials
+As stated before, each building will require any number of the following materials:
+
+* *Food*
+* *Wood*
+* *Minerals*
+* *Stone*
+
+Each material can be obtained by different methods (Buildungs, Commerce, Diplomacy...). Wood, minerals and stone are materials needed to construct, repair or improve buildings while food is needed to maintain your kingdoms population.
+
+.Population Feeding Cost
+....
+Feeding Cost = Nº of citizens * 2
+....
+
+If at the start of the kingdoms turn the food reserves dont reach the specified feeding cost the kingdom will gain *+1* unrest, for each turn that the feeding cost isnt met the unrest will increase consecutively for each turn.
+
+=== Buildings
+The following table show every possible base building the players can construct, each will have a cost in materials, gold, maintenance, output and upgrades, each building can be upgraded up to *3* times and each occupies a building slot. Every hex starts with a base *3* building slots, additional slots can be earned by levelling your kindom.
+
+.Buildings Table
+[cols="6", options="header"]
+|===
+| Building | Gold | Materials | Maintenance | Output | Upgrades
+
+| *Academy* |  |  |  |  | 
+| *Bank* |  |  |  |  | 
+| *Barracks* |  |  |  |  | 
+| *Brewery* |  |  |  |  | 
+| *Bridge* |  |  |  |  | 
+| *Castle* |  |  |  |  | 
+| *Cementery* |  |  |  |  | 
+| *General Store*|  |  |  |  | 
+| *Granary* |  |  |  |  | 
+| *Hospital* |  |  |  |  | 
+| *Library* |  |  |  |  | 
+| *Tavern* |  |  |  |  | 
+| *Magic Shop* |  |  |  |  | 
+| *Marketplace* |  |  |  |  | 
+| *Roads* |  |  |  |  | 
+| *Sewege System* |  |  |  |  | 
+| *University* |  |  |  |  | 
+| *Walls* |  |  |  |  | 
+| *Port*  |  |  |  |  | 
+| *Farms* |  |  |  |  |
+| *Residences* |  |  |  |  |  
+|===
+
+== Actions
+At the beginning of each month the kingdom´s turn starts, during that month each leader will have to spend at least a week of downtime to attend their duties. During that time the players may choose to do up tp *3* primary actions on different hexes.
+
+=== Claim Hex
+In order for the players to claim a hex they must have:
+
+* Done reconnaissance of the hex previously.
+* Clear the hex from any possible menace.
+
+=== Construct a Building
+The following conditions must be met to start the construcction of the building:
+
+* Have the hex claimed.
+* Have a slot for the building in the hex.
+* Have the necessary materials and gold.
+* Pass an Stability check.
+
+=== Upgrade Buildings
+A building may be upgraded if the following conditions are met:
+
+* Have the base building built.
+* Have the necessary materials and gold.
+
+=== Diplomacy
+The players can try to contact and establish alliances, treaties and ties to other kingdoms, villages or towns if:
+
+* Have a way of travelling to their target.
+* Pay the costs of travelling.
+* Pass a culture check.
+
+=== Calculating DC
+The difficulty of each check can be established in two ways:
+
+.Basic
+....
+Check DC = Control DC + Kindom´s Level
+....
+
+.Variable
+....
+The DM establishes a difficulty.
+....
+
+The formulas to obtain a check´s results are:
+
+.Total Result
+....
+Result = D20 + Ability Modifier
+....
+
+.Ability Modifier
+....
+Ability Modifier = Key Ability Modifier + Kingdom´s Proficiency Bonus + Any Other Bonus
+....
+
+== Unrest
+Unrest is a measure of how much your citizens despise you, at the begining of each turn if certain needs arent met by the players your kingdom will gain unrest stacking similarly to exhaustion.
+
+.Unrest Level
+[cols="2", options="header"]
+|===
+| Unrest Level | Penalties
+
+| *1* |  
+| *2* |  
+| *3* |  
+| *4* |  
+| *5* |  
+| *6* |  
+| *7* |  
+| *8* |  
+| *9* |  
+| *10* |  
+| *11* |  
+| *12* |  
+| *13* |  
+| *14* |  
+| *15* |  
+| *16* |  
+| *17* |  
+| *18* |  
+| *19* |  
+| *20* |  
+|===
