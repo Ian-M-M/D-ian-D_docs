@@ -126,7 +126,8 @@ that concern more than one locality.
 * *Ability Boost:* Culture, Loyalty and a free ability boost.
 
 ==== Changing Goverment
-Once you have chosen a type of goverment it cant be change unless the DM allows it. It should be noted that a change in govermemt should be accompanied by big events and lead to a quest.
+Once you have chosen a type of goverment it can't be change unless the DM allows it. It should be noted that a change in govermemt should be accompanied by big events and lead to a quest.
+
 
 === Finalize Ability Scores
 Once the players have chosen a heartland and goverment they must choose two different abilities to receive an additional boost, then account for all boost and flaws and record the final ability score.
