@@ -85,7 +85,7 @@ Once you have settled you can't change your initial hex so choose properly befor
  
 * *Ability Boost:* Economy.
 
-==== mountains or Ruins
+==== Mountains or Ruins
  
 * *Ability Boost:* Stability.
 
