@@ -271,7 +271,7 @@ As your kingdom earns XP it will level up, tehe kingdoms maximum level will be t
 The larger a kingdom grows, the harder it is to maintain control. The base control is defined by the kingdom's level (see table on page 9).
 
 === Proficiency Bonus
-The kindom´s proficiency rises adding a bonus to checks during iits turn according to the following table.
+The kindom´s proficiency rises adding a bonus to checks during it's turn according to the following table.
 
 .Kindom´s Proficiency Bonus
 [cols="2", options="header"]
