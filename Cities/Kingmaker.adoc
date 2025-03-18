@@ -71,7 +71,7 @@ With this option you can directly claim land without restrictions or direct supp
 === Choosing a Heartland
 When you settle your kingdom it will occupy a single hex, the terrain of that hex will become its heartland and will provide an ability boost depending of the terrain.
 
-Once you have settled you cant change your initial hex so choose properly before settling. If a hex has more than one terrain you will choose the benefits of only one of the two.
+Once you have settled you can't change your initial hex so choose properly before settling. If a hex has more than one terrain you will choose the benefits of only one of the two.
 
 ==== Forest or Swamp
  
