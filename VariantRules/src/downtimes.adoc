@@ -65,6 +65,8 @@ Some elements of a rival's plans might involve events in the world that aren't u
 
 Downtime activities are tasks that usually take a workweek (5 days) or longer to perform. These tasks can include buying or creating magic items, pulling off crimes, and working at a job. A character selects a downtime activity from among those available and pays the cost of that activity in time and money. You, as DM, then follow the rules for the activity to resolve it, informing the player of the results and any complications that ensue.
 
+Additionally, instead of spending a workweek you can spend non consecutive days and count them as a workweek, once you get a number equal to that the workweek.
+
 Consider handling downtime away from the game table. For example, you could have the players pick their downtime activities at the end of a session, and then communicate about them by email or text, until you next see them in person.
 
 ==== Resolving Activities
@@ -80,6 +82,9 @@ The days of an activity don't need to be consecutive; you can spread them over a
 The description of each activity includes a discussion of complications you can throw at the characters. The consequences of a complication might spawn entire adventures, introduce NPCs to vex the party, or give the characters headaches or advantages in any number of other ways.
 
 Each of these sections has a table that offers possible complications. You can roll to determine a complication randomly, pick one from the table, or devise one of your own, and then share it with the player.
+
+==== Variant Check
+Sometimes the downtimes requires checks that doesn't fits the parties's abilities, for those cases, the DM can provide an aditional list with another set of checks that fits the downtime. For that the number of checks required must be the same and the special check must be respected (such as the third check in Pit Fighting). 
 
 ==== Example Downtime Activities
 
