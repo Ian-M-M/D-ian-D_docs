@@ -69,7 +69,7 @@ With this option you can directly claim land without restrictions or direct supp
 ** Obtaining resources may be harder due to not having support.
 
 === Choosing a Heartland
-When you settle your kingdom it will occupy a single hex, the terrain of that hex will become its heartland and will provide an ability boost depending of the terrain.
+When you settle your kingdom it will occupy a single hex, the terrain of that hex will become its heartland and will provide an ability boost depending of the terrain, additionaly each type of terrain comes with a maximun capacity of buildings slots as well as population capacity it can hold, this threshold can be increased later.
 
 Once you have settled you can't change your initial hex so choose properly before settling. If a hex has more than one terrain you will choose the benefits of only one of the two.
 
@@ -88,6 +88,21 @@ Once you have settled you can't change your initial hex so choose properly befor
 ==== Mountains or Ruins
  
 * *Ability Boost:* Stability.
+
+.Terrain Building Slots 
+[cols="3", options="header"]
+|===
+| Terrain  | Building Slots | Base Population Capacity
+
+| Forest  | 3 | 30
+| Swamp  | 2| 20
+| Hill  | 4 | 40
+| Plain  | 5| 50
+| Lake  | 2| 30
+| River  | 3 | 40
+| Mountains  | 3 | 10
+| Ruins  | 4 | 20
+|===
 
 === Choosing a Goverment
 Choosing a goverment will give your kingdom a boost to their ability score and proficiency to checks involving one of those abilities.
@@ -248,21 +263,21 @@ As your kingdom earns XP it will level up, tehe kingdoms maximum level will be t
 | 1  | 14  | Charter, government, heartland, initial proficiencies
 | 2  | 15  | Material production
 | 3  | 16  | Resource production
-| 4  | 18  | Expansion expert, fine living, Proficiency Bonus(Trained)
+| 4  | 18  | Expansion expert, Fine living, Proficiency Bonus(Trained)
 | 5  | 20  | Ability boosts, Ruin resistance
 | 6  | 22  | Resource production
 | 7  | 23  | Material producition
 | 8  | 24  | Experienced leadership +2
 | 9  | 26  | Expansion expert (Claim Hex 3 times/turn), Proficiency Bonus(Expert)
 | 10 | 27  | Ability boosts, Life of luxury, Ruin resistance
-| 11 | 28  | -
+| 11 | 28  | Fine living
 | 12 | 30  | Resource production
 | 13 | 31  | Material producition
 | 14 | 32  | Ruin resistance, Proficiency Bonus(Master)
 | 15 | 34  | Ability boosts, Ruin resistance
 | 16 | 35  | Experienced leadership +3
 | 17 | 36  | Ruin resistance, Resource production
-| 18 | 38  | Material producition
+| 18 | 38  | Material producition, Fine living
 | 19 | 39  | Proficiency Bonus(Legendary)
 | 20 | 40  | Ability boosts, envy of the world, Ruin resistance
 |===
@@ -325,13 +340,13 @@ At level 3 and every two levels thereafter, you can increase the rank of one ski
 === Expansion Expert 4th Level
 You gain a +2 bonus on checks to claim a hex and can attempt to claim a hex twice in one turn. At level 9, you can attempt it up to three times.
 
-=== Fine Living
-You gain a +2 bonus on all checks to create or upgrade buildings.
+=== Fine Living 4th Level
+As your kingdom recruits talent and expands it is able to put that talent to work improving its infraestructure, starting at level 4 your hexes gain 2 additional building slots. This increases by 2 at levels 11 and 18.
 
 === Skill Increase 5th Level
 Starting at level 5 and every five levels thereafter, you can increase two kingdom skills by +2 if the skill is below 18 and by +1 if it is 18 or higher.
 
-=== Ruin Resistance
+=== Ruin Resistance 5th Level
 Starting at level 5 your kingdom´s ability to resist certain natural phenomena increases granting a +2 bonus on saving throws against natural disasters, this bonus increases by 2 at levels 10, 15 and 20.
 
 === Experienced Leadership 8th Level
@@ -366,35 +381,77 @@ Feeding Cost = Nº of citizens * 2
 If at the start of the kingdoms turn the food reserves dont reach the specified feeding cost the kingdom will gain *+1* unrest, for each turn that the feeding cost isnt met the unrest will increase consecutively for each turn.
 
 === Buildings
-The following table show every possible base building the players can construct, each will have a cost in materials, gold, maintenance, output and upgrades, each building can be upgraded up to *3* times and each occupies a building slot. Every hex starts with a base *3* building slots, additional slots can be earned by levelling your kindom.
-//TODO: Terminar de adaptar los edificios, colocar costes de construcción(materiales+oro), coste de mantenimiento, output y coste de mejoras(materiales+oro).
-.Buildings Table
-[cols="6", options="header"]
-|===
-| Building | Gold | Materials | Maintenance | Output | Upgrades
+The following table show every possible base building the players can construct, each will have a cost in materials, gold, maintenance, output and upgrades, each building can be upgraded up to *3* times and each occupies a building slot. Every hex starts with a base building slots depending on your hex terrain, additional slots can be earned by levelling your kindom.
 
-| *Academy* |  |  |  |  | 
-| *Bank* |  |  |  |  | 
-| *Barracks* |  |  |  |  | 
-| *Brewery* |  |  |  |  | 
-| *Bridge* |  |  |  |  | 
-| *Castle* |  |  |  |  | 
-| *Cementery* |  |  |  |  | 
-| *General Store*|  |  |  |  | 
-| *Granary* |  |  |  |  | 
-| *Hospital* |  |  |  |  | 
-| *Library* |  |  |  |  | 
-| *Tavern* |  |  |  |  | 
-| *Magic Shop* |  |  |  |  | 
-| *Marketplace* |  |  |  |  | 
-| *Roads* |  |  |  |  | 
-| *Sewege System* |  |  |  |  | 
-| *University* |  |  |  |  | 
-| *Walls* |  |  |  |  | 
-| *Port*  |  |  |  |  | 
-| *Farms* |  |  |  |  |
-| *Residences* |  |  |  |  |  
+.Buildings Table
+[cols="8", options="header"]
 |===
+| Building | Gold | Wood | Stone | Minerals | Maintenance | Output | Construction Time (turns)
+
+| *Academy* | 500 | 100 | 100 | 0 | 2 | +2 to all checks | 5
+| *Bank* | 800 | 50 | 100 | 200 |  5 | 20 gold/turn  | 8
+| *Barracks* | 600| 100 | 50 | 50 | 3 | +2 to all general checks | 6
+| *Brewery* | 400 | 200 | 50 | 0 | 2 | +5 gold and food/turn | 3
+| *Bridge* | 700 | 50 | 300 | 0 | 3 | +15 gold/turn | 4
+| *Castle* | 1000 | 200 | 500 | 300 | 10 | +1 action per turn | 15
+| *Cementery* | 200 | 0 | 100 | 0 | 1 | +2 to saving throws against disasters | 2
+| *General Store*| 400 | 150 | 50 | 150 | 3 | 10 gold/turn and common potions | 2
+| *Granary* | 300 | 200 | 50 | 0 | 2 | +10 food/turn and +2 to negative natural events| 3
+| *Hospital* | 800 | 200 | 250 | 150 | 7 |+5 to saving throws from negative events | 4
+| *Library* | 300 | 150 | 50 | 50 | 2 | +2 to all magister checks | 3
+| *Tavern* | 600 | 200 | 100 | 50 | 1 | +5 gold/turn and +2 to all emisary checks | 6
+| *Magic Shop* | 700 | 100 | 150 | 150 | 6 | common objects and spell materials | 7
+| *Marketplace* | 500 | 150 | 50 | 100 | 4 | +15 gold/turn | 6
+| *Mines* | 300 | 200 | 0 | 0 | 5 | +15 minerals and stone/turn | 5
+| *Roads* | 500 | 50 | 200 | 100 | 5 | +10 gold/turn and +2 to all diplomacy checks | 5
+| *Sewege System* | 600 | 0 | 150 | 100 | 5 | +3 to negative events saving throws | 6
+| *University* | 800 | 150 | 300 | 200 | 7 | +3 to all intelligence checks | 9
+| *Walls* | 1000 | 300 | 150 | 200 | 10 | +3 to all checks and saves | 15
+| *Port*  | 400 | 150 | 150 | 100 | 3 | +10 gold/turn| 6
+| *Farms* | 200 | 100 | 100 | 0 | 2 | +15 food/turn| 3
+| *Residences* | 400 | 150 | 100 | 50 | 5 | +25 spaces for population | 5
+|===
+
+As specified before, each building may be upgraded up to 3 times, each time the cost of materials is and of gold is doubled and the construction time is tripled from the previos level. After completion the building will gain the following benefits:
+//TODO: Terminar de adaptar las mejoras de edificos, colocar ventajas para cada mejora basandose en los output base.
+.Buildings Upgrade Table
+[cols="4", options="header"]
+|===
+| Building | Upgrade I | Upgrade II | Upgrade III 
+
+| *Academy* |  |  |
+| *Bank* |  |  |
+| *Barracks* | |  |
+| *Brewery* |  |  |
+| *Bridge* |  |  |
+| *Castle* |  |  |
+| *Cementery* |  |  |
+| *General Store*|  |  |
+| *Granary* |  |  |
+| *Hospital* |  |  |
+| *Library* |  |  |
+| *Tavern* |  |  |
+| *Magic Shop* |  |  |
+| *Marketplace* |  |  |
+| *Mines* |  |  |
+| *Roads* |  |  |
+| *Sewege System* |  |  |
+| *University* |  |  |
+| *Walls* |  |  |
+| *Port*  |  |  |
+| *Farms* |  |  |
+| *Residences* |  |  |
+|===
+
+== Kingdom´s Turn
+At the beggining of each month the players who are part of the kingdom´s leadership need to take at least a week of downtime to attend to their responsabilities. During that downtime apart from their respective work they also need to gather and decide which will be the route the country will take this month.
+A kigdom´s turn is divided into 3 phases:
+
+* *Maintinance Phase:* The total maintinance from the kingdom is tallied and payed, any penalties taken will be applied and any lingering effects from the past turn vanish if they are resolved.
+
+* *Activities Phase:* The players take a maximum total of 3 actions in any of their kingdom´s hexes this actions will be listed below.
+
+* *Event Phase:* The DM rolls a die to check if positive or negative events occur.
 
 == Actions
 At the beginning of each month the kingdom´s turn starts, during that month each leader will have to spend at least a week of downtime to attend their duties. During that time the players may choose to do up tp *3* primary actions on different hexes.
@@ -425,6 +482,15 @@ The players can try to contact and establish alliances, treaties and ties to oth
 * Have a way of travelling to their target.
 * Pay the costs of travelling.
 * Pass a culture check.
+
+=== Stabilizing the Ream
+If the player´s kingdom has acquired any level of unrest they may use their whole turn to stabilize their kingdom and avoid any further unrest. This action can be of use to the DM if they wish to impart a quest to fix the kingdoms problems, unrest could be also gained as a form of initiating a quest.
+
+=== Focus a Hex
+If a hex is in the process of constructing any building the players may use two actions to reduce the construction time of the bulding in that hex. This action con only be done once every turn and on a single hex.
+
+=== Reorganize Leadership
+If the players decide they prefer to take a more direct approach to ruling or prefer to leave this tasks to an NPC they may take an action to change the leadership roles.
 
 === Calculating DC
 The difficulty of each check can be established in two ways:
