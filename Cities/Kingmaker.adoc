@@ -239,32 +239,32 @@ kingdoms overall defense and health.
 
 == Levelling a Kingdom
 As your kingdom earns XP it will level up, tehe kingdoms maximum level will be the current party level.
-//TODO: Terminar de adaptar las features por nivel.
+
 .Kingdom Advancement
 [cols="3", options="header"]
 |===
 | Level | Control DC | Features
 
 | 1  | 14  | Charter, government, heartland, initial proficiencies
-| 2  | 15  | -
-| 3  | 16  | -
+| 2  | 15  | Material production
+| 3  | 16  | Resource production
 | 4  | 18  | Expansion expert, fine living, Proficiency Bonus(Trained)
-| 5  | 20  | Ability boosts, ruin resistance
-| 6  | 22  | -
-| 7  | 23  | -
-| 8  | 24  | Experienced leadership +2, ruin resistance
+| 5  | 20  | Ability boosts, Ruin resistance
+| 6  | 22  | Resource production
+| 7  | 23  | Material producition
+| 8  | 24  | Experienced leadership +2
 | 9  | 26  | Expansion expert (Claim Hex 3 times/turn), Proficiency Bonus(Expert)
-| 10 | 27  | Ability boosts, life of luxury
-| 11 | 28  | Ruin resistance
-| 12 | 30  | -
-| 13 | 31  | -
+| 10 | 27  | Ability boosts, Life of luxury, Ruin resistance
+| 11 | 28  | -
+| 12 | 30  | Resource production
+| 13 | 31  | Material producition
 | 14 | 32  | Ruin resistance, Proficiency Bonus(Master)
-| 15 | 34  | Ability boosts
+| 15 | 34  | Ability boosts, Ruin resistance
 | 16 | 35  | Experienced leadership +3
-| 17 | 36  | Ruin resistance
-| 18 | 38  | -
+| 17 | 36  | Ruin resistance, Resource production
+| 18 | 38  | Material producition
 | 19 | 39  | Proficiency Bonus(Legendary)
-| 20 | 40  | Ability boosts, envy of the world, ruin resistance
+| 20 | 40  | Ability boosts, envy of the world, Ruin resistance
 |===
 
 === Control DC
@@ -288,8 +288,36 @@ The kindom´s proficiency rises adding a bonus to checks during it's turn accord
 === Favored Land
 The core of your kingdom becomes your preferred terrain by default, reducing material costs for constructing buildings by 15%.
 
+=== Material Production 2nd Level
+Starting at level 2 your kingdom will start generating a base set of necessary materials for its survival, at the end of the month during the start of your kingdom´s turn you will receive 3 of wood, stone, minerals and food and an additional 1d4 of one type of material. This ability upgrades at levels 7, 13 and 18 as seen in the table below.
+
+.Kindom´s Material Production
+[cols="3", options="header"]
+|===
+| Level | Production | Bonus Die
+
+| *2* | 3 | 1d4
+| *7* |  5 | 1d6
+| *13* |  10 | 1d8
+| *18* |  15 | 1d10
+|===
+
 === Settlement Construction 3rd Level
 The total construction space of your tiles increases by 1. This increase happens again at level 5, level 8, level 11, level 15, and level 19.
+
+=== Resource Production 3rd Level
+At level 3 your kingdom´s growth starts to attract merchants and traders who seek to trade with your people offering certain resources which aren´t available in your lands. At this level you may encounter common objects and materials for spell from levels 1 and 2 in your markets. This ability upgrades at levels 6, 12 and 17 as seen in the next table.
+
+.Kindom´s Resource Production
+[cols="3", options="header"]
+|===
+| Level | Object rarity | Spell materials
+
+| *3* | common | levels 1 and 2
+| *6* |  uncommon | levels 3 and 4
+| *12* |  rare | levels 5 and 6
+| *17* |  very rare | levels 7 and 8
+|===
 
 === Skill Increase 3rd Level
 At level 3 and every two levels thereafter, you can increase the rank of one skill. At level 7, you can improve a skill to master where you are already an expert. At level 15, you can upgrade a skill to legendary.
@@ -304,7 +332,7 @@ You gain a +2 bonus on all checks to create or upgrade buildings.
 Starting at level 5 and every five levels thereafter, you can increase two kingdom skills by +2 if the skill is below 18 and by +1 if it is 18 or higher.
 
 === Ruin Resistance
-//TODO: Añadir mecánica a Ruin Resistance.
+Starting at level 5 your kingdom´s ability to resist certain natural phenomena increases granting a +2 bonus on saving throws against natural disasters, this bonus increases by 2 at levels 10, 15 and 20.
 
 === Experienced Leadership 8th Level
 Invested roles grant a +2 bonus on checks associated with the role's key skill. This increases to +3 at level 16.
@@ -425,30 +453,28 @@ Ability Modifier = Key Ability Modifier + Kingdom´s Proficiency Bonus + Any Oth
 
 == Unrest
 Unrest is a measure of how much your citizens despise you, at the begining of each turn if certain needs arent met by the players your kingdom will gain unrest stacking similarly to exhaustion.
-//TODO: Añadir consecuencias dependiendo del nivel de unrest similar a la nueca mecánica de exhaustion.
+The player´s kingdom gains unrest if one of the following conditions aren´t met:
+
+* All leadership positions aren´t occupied for one turn or a leader doesn´t take the downtime neccesary for their tasks.
+* The players aren´t able to pay the kingdom´s maintenance costs.
+* The players aren´t able to acquire the neccesary food quantity to feed their population.
+
 .Unrest Level
 [cols="2", options="header"]
 |===
 | Unrest Level | Penalties
 
-| *1* |  
-| *2* |  
-| *3* |  
-| *4* |  
-| *5* |  
-| *6* |  
-| *7* |  
-| *8* |  
-| *9* |  
-| *10* |  
-| *11* |  
-| *12* |  
-| *13* |  
-| *14* |  
-| *15* |  
-| *16* |  
-| *17* |  
-| *18* |  
-| *19* |  
-| *20* |  
+| *1* |  -1 to all checks.
+| *2* |  -1 to all saving throws.
+| *3* |  All maintinance costs for buildings rise 20%.
+| *4* |  All costs to build or upgrade buildings rise 20%.
+| *5* |  All building outputs decrease by 50%.
+| *6* |  You may no longer throw the extra die for resources.
+| *7* |  During your kingdom´s turn you may only perform one action.
+| *8* |  The kingdom´s buildings stop their outputs.
+| *9* |  The kingdom´s other hexes may revolt and secede from your kingdom.
+| *10* |  Your citizens revolt and overthrow you. 
 |===
+
+In order to loose unrest the players must spend a turn stabilizing their kingdom, during that turn no other 
+action can be performed. 
