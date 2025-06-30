@@ -22,21 +22,21 @@ Your character's *background* provides a glimpse into their past and grants prof
 
 link:https://d-ian-d.ian-m-m.com/backgrounds.html#acolyte_phb[Choose your background →]
 
-==== Ability Score Improvements
+=== Ability Score Improvements
 Assign your background’s ability score improvements. You may choose one of the following distributions:
  +2 to one ability score and +1 to another, or
  +1 to three different ability scores.
 
-==== Skill Proficiencies
+=== Skill Proficiencies
 Select two skills in which your character is proficient. These represent areas where your character has received training or has natural aptitude.
 
-==== Tool Proficiency
+=== Tool Proficiency
 Choose one type of tool. Your character gains proficiency with this tool, allowing them to use it effectively.
 
-==== Language
+=== Language
 Select one additional language. Your character gains proficiency in this language, allowing them to read, write, and speak it fluently.
 
-==== Feat
+=== Feat
 You may select one feat at 1st level, provided it meets the following criteria:
 - It does not grant any ability score increases.
 - You meet all prerequisites for the feat.
