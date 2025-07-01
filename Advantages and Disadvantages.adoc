@@ -1,0 +1,190 @@
+= Ventajas y Desventajas
+Revisión de creación de persona para rebalancear o mejorarlas
+
+Ian Marrero y Héctor Henríquez  
+October 7, 2023
+
+== CREATION POINTS (CP)
+
+El paso final antes de que un jugador complete un personaje es asignar *Creation Points* (CP) en *Advantages* y *Disadvantages*. Al igual que cada criatura que puebla el mundo, los personajes tienen varias idiosincrasias que no se reflejan únicamente en sus hojas de personaje. Estas características están inherentemente ligadas a la esencia o naturaleza de un individuo. No se aprenden ni mejoran; los personajes nacen con ellas o nunca las tienen.
+
+Cada personaje puede adquirir *Advantages* y *Disadvantages* de las listas siguientes. Cada una otorga beneficios o inconvenientes que se describen a continuación. Los jugadores pueden gastar hasta *1 CP* en las *Advantages* que elijan y consideren más apropiadas. El costo de cada *Advantage* indica cuántos CP debe gastar el jugador para obtenerla. Algunas tienen coste variable, lo que significa que otorgan mayores beneficios según los CP gastados.
+
+Las *Disadvantages* funcionan de forma similar, pero en lugar de costar CP, otorgan CP que el jugador puede usar en otras *Advantages*. Así, los beneficios y los inconvenientes se equilibran: cuanto más ventajas tengas, mayores serán tus problemas.
+
+Los jugadores pueden elegir hasta dos *Disadvantages* para un personaje, aunque no están obligados a tomar ninguna.
+
+A menos que se indique lo contrario, cada *Advantage* o *Disadvantage* solo puede tomarse una vez.
+
+La cantidad de CP inicial la determina el GM; una cantidad general sugerida es 3.
+
+== ADVANTAGES
+
+=== Exceptional Physical Endurance
+*Advantage no repetible*  
+Reduce 1 tipo de daño (corte, perforación o contusión) igual a tu nivel de personaje.  
+*Coste: 2 CP*
+
+=== Exceptional Magic Resistance
+*Advantage no repetible*  
+Reduce el daño de hechizos una cantidad igual a tu nivel.  
+*Coste: 2 CP*
+
+=== Starting Wealth
+*Advantage no repetible*  
+*Efecto:* Obtienes 300gp. Más CP aumentan el monto a 1200gp (2 CP) y 5000gp (3 CP).  
+*Coste: 1, 2 o 3 CP*
+
+=== Animal Affinity
+*Advantage no repetible*  
+*Efecto:* Competencia en Animal Handling. Puedes lanzar *Speak with Animals* a voluntad.  
+*Coste: 1 CP*
+
+=== Charm
+*Advantage no repetible*  
+*Efecto:* Competencia en Persuasion. Puedes lanzar *Charm Person* 1 vez por Long Rest.  
+*Coste: 2 CP*
+
+=== Good Luck
+*Advantage no repetible*  
+*Efecto:* 1 vez por Long Rest, añade tu bonificador de competencia a una tirada fallida.  
+*Coste: 2 CP*
+
+=== Aptitude in a Subject
+*Advantage repetible*  
+*Efecto:* Competencia y pericia en una habilidad a tu elección.  
+*Coste: 1 CP*
+
+=== Acute Senses
+*Advantage no repetible*  
+*Efecto:* 1 vez por día puedes tirar Perception con ventaja y añadir competencia.  
+*Coste: 1 CP*
+
+=== Quick Reflexes
+*Advantage no repetible*  
+*Efecto:* Bonificador a la iniciativa: +1 (1 CP), +3 (2 CP), +5 (3 CP).  
+*Coste: 1, 2 o 3 CP*
+
+=== Immunity to Fatigue
+*Advantage no repetible*  
+*Efecto:* Al finalizar un Long Rest reduces 2 niveles de Exhaustion en vez de 1.  
+*Coste: 1 CP*
+
+=== Natural Armour
+*Advantage no repetible*  
+*Efecto:* Bono a la AC sin armadura igual a los CP gastados.  
+*Coste: 1, 2 o 3 CP*
+
+=== Artifact
+*Advantage repetible*  
+*Efecto:* Obtienes un arma mágica aprobada por el GM. 1 CP (común), 2 (infrecuente), 4 (rara), 5 (muy rara).  
+*Coste: 1, 2, 4 o 5 CP*
+
+=== Martial Master
+*Advantage no repetible*  
+*Efecto:* Bono a daño de golpe sin armas igual a los CP gastados.  
+*Coste: 1, 2 o 3 CP*
+
+=== Indefatigable
+*Advantage no repetible*  
+*Efecto:* Ignoras niveles de Exhaustion igual a los CP gastados.  
+*Coste: 1, 2 o 3 CP*
+
+=== Spiritiual Aid
+*Advantage no repetible*  
+*Efecto:* Obtienes un espíritu aliado (usa Sidekick lanzador), con vínculo telepático.  
+*Coste: 4 CP*
+
+=== Extreme Concentration
+*Solo lanzadores de conjuros*  
+*Efecto:* 1 vez por Long Rest, añade tu bonificador de competencia a una tirada de Concentration.  
+*Coste: 1 CP*
+
+=== Blindsense
+*Advantage no repetible*  
+*Efecto:* Si puedes oír, detectas criaturas/objetos ocultos/invisibles en 30 pies.  
+*Coste: 2 CP*
+
+=== Elemental Resistance
+*Advantage repetible*  
+*Efecto:* Resistencia a uno de los siguientes tipos: ácido, frío, fuego o relámpago.  
+*Coste: 3 CP*
+
+== DISADVANTAGES
+
+=== Slow Healing
+*Efecto:* Al tirar dados de golpe, tira dos veces y escoge el menor.  
+*Beneficio: 1 CP*
+
+=== Myopia
+*Efecto:* -5 a Percepción (y Pasiva), tiradas con Desventaja. Con gafas: -2 y sin desventaja.  
+*Beneficio: 1 CP*
+
+=== Easy Possession
+*Efecto:* Tiradas de salvación contra encantamiento con Desventaja (aunque tengas ventaja).  
+*Beneficio: 1 CP*
+
+=== Vulnerability to Magic
+*Efecto:* Recibes daño adicional igual a tu nivel (una vez por conjuro).  
+*Beneficio: 2 CP*
+
+=== Vulnerability to Elements
+*Efecto:* Vulnerabilidad a ácido, fuego, frío, relámpago o trueno (elige uno).  
+*Beneficio: 2 CP*
+
+=== Physical Weakness
+*Efecto:* Recibes daño adicional (corte, perforación, contusión) igual a tu nivel.  
+*Beneficio: 2 CP*
+
+=== Unpleasant Appearance
+*Efecto:* Reducción de 5 puntos a tu Charisma.  
+*Beneficio: 2 CP*
+
+=== Unfortunate
+*Efecto:* 1 vez por sesión, el GM puede hacerte fallar automáticamente una tirada.  
+*Beneficio: 3 CP*
+
+=== Serious Illness
+*Efecto:* Enfermedad degenerativa determinada por el GM, potencialmente mortal.  
+*Beneficio: 2 CP*
+
+=== Severe Allergy
+*Efecto:* Mientras estés en contacto con el alérgeno, todas tus tiradas son con Desventaja.  
+*Beneficio: 1 CP*
+
+=== Severe Phobia
+*Efecto:* Adquieres el estado *frightened* ante el objeto de tu fobia.  
+*Beneficio: 1 CP*
+
+=== Slow Reflexes
+*Efecto:* Penalización de -3 a la iniciativa.  
+*Beneficio: 1 CP*
+
+=== Blind
+*Efecto:* No puedes ver ni usar habilidades que requieran visión.  
+*Beneficio: 2 CP*
+
+=== Deaf
+*Efecto:* No puedes oír ni usar habilidades que requieran audición.  
+*Beneficio: 2 CP*
+
+=== Mute
+*Efecto:* No puedes hablar ni lanzar hechizos que requieran componentes verbales.  
+*Beneficio: 2 CP*
+
+=== Addiction or Serious Vice
+*Efecto:* Si no satisfaces tu adicción, ganas un nivel de *Nervous* por día. Cada nivel: -1 a todas las tiradas de habilidad.  
+*Beneficio: 1 CP*
+
+=== Exhausted
+*Efecto:* Penalización de -2 por cada nivel de Exhaustion (en vez de -1).  
+*Beneficio: 1 CP*
+
+=== No Concentration
+*Solo lanzadores de conjuros*  
+*Efecto:* No puedes mantener concentración en conjuros.  
+*Beneficio: 2 CP*
+
+=== Ineptitude in a Subject
+*Efecto:* Elige entre Inteligencia, Sabiduría o Carisma; tienes Desventaja en todas las tiradas relacionadas.  
+*Beneficio: 1 CP*
