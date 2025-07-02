@@ -1,4 +1,4 @@
-= Rules from My Homebrew
+= Variant Rule Set
 :toc:
 :toc-title: Homebrew Rules Index
 :toclevels: 3
