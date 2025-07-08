@@ -404,7 +404,8 @@ The following table show every possible base building the players can construct,
 | *Mines* | 300 | 200 | 0 | 0 | 5 | +15 minerals and stone/turn | 5
 | *Port*  | 400 | 150 | 150 | 100 | 3 | +10 gold/turn| 6
 | *Residences* | 400 | 150 | 100 | 50 | 5 | +25 spaces for population | 5
-| *Roads* | 500 | 50 | 200 | 100 | 5 | +10 gold/turn and +2 to all diplomacy checks | 5
+| *Roads* | 500 | 50 | 200 | 150 | 5 | +15 wood/turn | 5
+| *Sawmill* | 400 | 50 | 200 | 100 | 5 | +10 gold/turn and +2 to all diplomacy checks | 5
 | *Sewege System* | 600 | 0 | 150 | 100 | 5 | +3 to negative events saving throws | 6
 | *University* | 800 | 150 | 300 | 200 | 7 | +3 to all intelligence checks | 9
 | *Walls* | 1000 | 300 | 150 | 200 | 10 | +3 to all checks and saves | 15
@@ -445,6 +446,7 @@ Building Level N Construction Time = Building Level(N-1) Construction Time * 3
 | *Port*  | +20 gold/turn | +30 gold/turn | +40 gold/turn
 | *Residences* | +50 spaces for population | +75 spaces for population | +100 spaces for population
 | *Roads* | +20 gold/turn and +4 to all diplomacy checks | +30 gold/turn and +6 to all diplomacy checks | +40 gold/turn and +10 to all diplomacy checks
+| *Sawmill* | +30 wood/turn |+45 wood/turn  |+60 wood/turn
 | *Sewege System* | +6 to negative events saving throws |+9 to negative events saving throws  |+10 to negative events saving throws
 | *University* | +6 to all intelligence checks | +9 to all intelligence checks | +12 to all intelligence checks
 | *Walls* | +6 to all checks and saves | +9 to all checks and saves | +12 to all checks and saves
