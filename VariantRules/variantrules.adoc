@@ -1,0 +1,254 @@
+= Variant Rules
+:table-caption!:
+
+== Downtimes
+
+It's possible for the characters to start a campaign at 1st level, dive into an epic story, and reach 10th level and beyond in a short amount of game time. Although that pace works fine for many campaigns, some DMs prefer a campaign story with pauses built into it—times when adventurers are not going on adventures. The downtime rules given in this section can be used as alternatives to the approach in the Player's Handbook and the Dungeon Master's Guide, or you can use the material here to inspire the creation of your own options.
+
+By engaging the characters in downtime activities that take weeks or even months to complete, you can give your campaign a longer time line—one in which events in the world play out over years. Wars begin and end, tyrants come and go, and royal lines rise and fall over the course of the story that you and the characters tell.
+
+When you want to spend your non adventuring time doing an specific downtime, instead of spending a workweek you can spend non consecutive days and count them as a workweek, once you get a number equal to that the workweek.
+
+Downtime rules also provide ways for characters to spend—or be relieved of—the monetary treasure they amass on their adventures.
+
+The system presented here consists of two elements. First, it introduces the concept of rivals. Second, it details a number of downtime activities that characters can undertake.
+
+=== Rivals
+
+Rivals are NPCs who oppose the characters and make their presence felt whenever the characters are engaging in downtime. A rival might be a villain you have featured in past adventures or plan to use in the future. Rivals can also include good or neutral folk who are at odds with the characters, whether because they have opposing goals or they simply dislike one another. The cultist of Orcus whose plans the characters have foiled, the ambitious merchant prince who wants to rule the city with an iron fist, and the nosy high priest of Helm who is convinced the characters are up to no good are all examples of rivals.
+
+A rival's agenda changes over time. Though the characters engage in downtime only between adventures, their rivals rarely rest, continuing to spin plots and work against the characters even when the characters are off doing something else.
+
+Creating a Rival
+In essence, a rival is a somewhat specialized NPC. You can use chapter 4 of the Dungeon Master's Guide to build a new NPC for this purpose, or pick one from your current cast of supporting characters and embellish that NPC as described below.
+
+It's possible for the characters to have two or three rivals at a time, each with a separate agenda. At least one should be a villain, but the others might be neutral or good; conflicts with those rivals might be social or political, rather than manifesting as direct attacks.
+
+The best rivals have a connection with their adversaries on a personal level. Find links in the characters' backstories or the events of recent adventures that explain what sparked the rival's actions. The best trouble to put the characters in is trouble they created for themselves.
+
+.Rival
+[cols="2*", options="header"]
+|================================================================================================
+| d20 | Rival
+| 1   | Tax collector who is convinced the characters are dodging fees
+| 2   | Politician who is concerned that the characters are causing more trouble than they solve
+| 3   | High priest who worries the characters are diminishing the temple's prestige
+| 4   | Wizard who blames the characters for some recent troubles
+| 5   | Rival adventuring party
+| 6   | Bard who loves a scandal enough to spark one
+| 7   | Childhood rival or member of a rival clan
+| 8   | Scorned sibling or parent
+| 9   | Merchant who blames the characters for any business woes
+| 10  | Newcomer out to make a mark on the world
+| 11  | Sibling or ally of defeated enemy
+| 12  | Official seeking to restore a tarnished reputation
+| 13  | Deadly foe disguised as a social rival
+| 14  | Fiend seeking to tempt the characters to evil
+| 15  | Spurned romantic interest
+| 16  | Political opportunist seeking a scapegoat
+| 17  | Traitorous noble looking to foment a revolution
+| 18  | Would-be tyrant who brooks no opposition
+| 19  | Exiled noble looking for revenge
+| 20  | Corrupt official worried that recent misdeeds will be revealed
+|================================================================================================
+
+To add the right amount of detail to a rival you want to create, give some thought to what that NPC is trying to accomplish and what resources and methods the rival can bring to bear against the characters.
+
+*Goals.* An effective rival has a clear reason for interfering with the characters' lives. Think about what the rival wants, how and why the characters stand in the way, and how the conflict could be resolved. Ideally, a rival's goal directly involves the characters or something they care about.
+
+*Assets.* Think about the resources the rival can marshal. Does the character have enough money to pay bribes or to hire a small gang of mercenaries? Does the rival hold sway over any guilds, temples, or other groups? Make a list of the rival's assets, and consider how they can be used.
+
+*Plans.* The foundation of a rival's presence in the campaign is the actions the rival takes or the events that occur as a result of that character's goals. Each time you resolve one or more workweeks of downtime, pick one of the ways a rival's plans might be advanced and introduce it into play.
+
+Think about how a rival might operate in order to bring specific plans to fruition, and jot down three or four kinds of actions the rival might undertake. Some of these might be versions of the downtime activities described later in this section, but these are more often efforts that are specific to the rival.
+
+A rival's action might be a direct attack, such as an assassination attempt, that you play out during a session. Or it might be a background activity that you describe as altering the campaign in some way. For example, a rival who wants to increase the prestige of the temple of a war god might hold a festival with drink, food, and gladiatorial games. Even if the characters aren't directly involved, the event becomes the talk of the town.
+
+Some elements of a rival's plans might involve events in the world that aren't under the rival's control. Whether such an event can be easily anticipated or not, the rival's plans might include contingencies for taking advantage of such happenings.
+
+=== Downtime Activities
+
+Downtime activities are tasks that usually take a workweek (5 days) or longer to perform. These tasks can include buying or creating magic items, pulling off crimes, and working at a job. A character selects a downtime activity from among those available and pays the cost of that activity in time and money. You, as DM, then follow the rules for the activity to resolve it, informing the player of the results and any complications that ensue.
+
+Consider handling downtime away from the game table. For example, you could have the players pick their downtime activities at the end of a session, and then communicate about them by email or text, until you next see them in person.
+
+==== Resolving Activities
+
+The description of each activity tells you how to resolve it. Many activities require an ability check, so be sure to note the character's relevant ability modifiers. Follow the steps in the activity, and determine the results.
+
+Most downtime activities require a workweek (5 days) to complete. Some activities require days, weeks (7 days), or months (30 days). A character must spend at least 8 hours of each day engaged in the downtime activity for that day to count toward the activity's completion.
+
+The days of an activity don't need to be consecutive; you can spread them over a longer period of time than is required for the activity. But that period of time should be no more than twice as long as the required time; otherwise you should introduce extra complications (see below) and possibly double the activity's costs to represent the inefficiency of the character's progress.
+
+==== Complications
+
+The description of each activity includes a discussion of complications you can throw at the characters. The consequences of a complication might spawn entire adventures, introduce NPCs to vex the party, or give the characters headaches or advantages in any number of other ways.
+
+Each of these sections has a table that offers possible complications. You can roll to determine a complication randomly, pick one from the table, or devise one of your own, and then share it with the player.
+
+==== Example Downtime Activities
+
+The following activities are suitable for any character who can afford to pursue them. As DM, you have the final say on which activities are available to the characters. The activities you allow might depend on the nature of the area where the characters are located. For example, you might disallow the creation of magic items or decide that the characters are in a town that is too isolated from major markets for them to buy such items.
+
+See the following entries for details:
+
+=== Downtime Activity: Buying a Magic Item
+
+Purchasing a magic item requires time and money to seek out and contact people willing to sell items. Even then, there is no guarantee a seller will have the items a character desires.
+
+==== Resources
+Finding magic items to purchase requires at least one workweek of effort and 100 gp in expenses. Spending more time and money increases your chance of finding a high-quality item.
+
+==== Resolution
+A character seeking to buy a magic item makes a Charisma (Persuasion) check to determine the quality of the seller found. The character gains a +1 bonus on the check for every workweek beyond the first that is spent seeking a seller and a +1 bonus for every additional 100 gp spent on the search, up to a maximum bonus of +10. The monetary cost includes a wealthy lifestyle, for a buyer must impress potential business partners.
+
+As shown on the Buying Magic Items table, the total of the check dictates which table in the Dungeon Master's Guide to roll on to determine which items are on the market. Or you can roll for items from any table associated with a lower total on the Buying Magic Items table. As a further option to reflect the availability of items in your campaign, you can apply a -10 penalty for low magic campaigns or a +10 bonus for high magic campaigns. Furthermore, you can double magic item costs in low magic campaigns.
+
+Using the Magic Item Price table, you then assign prices to the available items, based on their rarity. Halve the price of any consumable item, such as a potion or a scroll, when using the table to determine an asking price.
+
+You have final say in determining which items are for sale and their final price, no matter what the tables say.
+
+If the characters seek a specific magic item, first decide if it's an item you want to allow in your game. If so, include the desired item among the items for sale on a check total of 10 or higher if the item is common, 15 or higher if it is uncommon, 20 or higher if it is rare, 25 or higher if it is very rare, and 30 or higher if it is legendary.
+
+Buying Magic Items
+
+.Magic Item Price
+[cols="2*", options="header"]
+|=====================================================
+| Check Total | Items Acquired
+| 1–5         | Roll 1d6 times on Magic Item Table A.
+| 6–10        | Roll 1d4 times on Magic Item Table B.
+| 11–15       | Roll 1d4 times on Magic Item Table C.
+| 16–20       | Roll 1d4 times on Magic Item Table D.
+| 21–25       | Roll 1d4 times on Magic Item Table E.
+| 26–30       | Roll 1d4 times on Magic Item Table F.
+| 31–35       | Roll 1d4 times on Magic Item Table G.
+| 36–40       | Roll 1d4 times on Magic Item Table H.
+| 41+         | Roll 1d4 times on Magic Item Table I.
+|=====================================================
+
+.Magic Item Price
+[cols="2*", options="header"]
+|===================================================
+| Rarity    | Asking Price!footnote:id[Halved for a consumable item like a potion or scroll]
+| Common    | (1d6 + 1) × 10 gp
+| Uncommon  | 1d6 × 100 gp
+| Rare      | 2d10 × 1,000 gp
+| Very rare | (1d4 + 1) × 10,000 gp
+| Legendary | 2d6 × 25,000 gp
+| 31–35     | Roll 1d4 times on Magic Item Table G.
+| 36–40     | Roll 1d4 times on Magic Item Table H.
+| 41+       | Roll 1d4 times on Magic Item Table I.
+|===================================================
+
+==== Complications
+The magic item trade is fraught with peril. The large sums of money involved and the power offered by magic items attract thieves, con artists, and other villains. If you want to make things more interesting for the characters, roll on the Magic Item Purchase Complications table or invent your own complication.
+
+.Magic Item Purchase Complications
+[cols="2*", options="header"]
+|========================================================================================================
+| d12 | Complication
+| 1   | The item is a fake, planted by an enemy.footnote:rival_involve[Might involve a rival]
+| 2   | The item is stolen by the party's enemies. footnote:rival_involve[Might involve a rival]
+| 3   | The item is cursed by a god.
+| 4   | The item's original owner will kill to reclaim it; the party's enemies spread news of its sale.footnote:rival_involve[Might involve a rival]
+| 5   | The item is at the center of a dark prophecy.
+| 6   | The seller is murdered before the sale.footnote:rival_involve[Might involve a rival]
+| 7   | The seller is a devil looking to make a bargain.
+| 8   | The item is the key to freeing an evil entity.
+| 9   | A third party bids on the item, doubling its price.footnote:rival_involve[Might involve a rival]
+| 10  | The item is an enslaved, intelligent entity.
+| 11  | The item is tied to a cult.
+| 12  | The party's enemies spread rumors that the item is an artifact of evil.footnote:rival_involve[Might involve a rival]
+|========================================================================================================
+
+=== Downtime Activity: Carousing
+
+Carousing is a default downtime activity for many characters. Between adventures, who doesn't want to relax with a few drinks and a group of friends at a tavern?
+
+==== Resources
+
+Carousing covers a workweek of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with the lower class for 10 gp to cover expenses, or 50 gp for the middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
+
+A character with the noble background can mingle with the upper class, but other characters can do so only if you judge that the character has made sufficient contacts. Alternatively, a character might use a disguise kit and the Deception skill to pass as a noble visiting from a distant city.
+
+==== Resolution
+
+After a workweek of carousing, a character stands to make contacts within the selected social class. The character makes a Charisma (Persuasion) check using the Carousing table.
+
+.Carousing
+[cols="2*", options="header"]
+|========================================================
+| Check Total | Result
+| 1–5         | Character has made a hostile contact.
+| 6–10        | Character has made no new contacts.
+| 11–15       | Character has made an allied contact.
+| 16–20       | Character has made two allied contacts.
+| 21+         | Character has made three allied contacts.
+|========================================================
+
+Contacts are NPCs who now share a bond with the character. Each one either owes the character a favor or has some reason to bear a grudge. A hostile contact works against the character, placing obstacles but stopping short of committing a crime or a violent act. Allied contacts are friends who will render aid to the character, but not at the risk of their lives.
+
+Lower-class contacts include criminals, laborers, mercenaries, the town guard, and any other folk who normally frequent the cheapest taverns in town.
+
+Middle-class contacts include guild members, spellcasters, town officials, and other folk who frequent well-kept establishments.
+
+Upper-class contacts are nobles and their personal servants. Carousing with such folk covers formal banquets, state dinners, and the like.
+
+Once a contact has helped or hindered a character, the character needs to carouse again to get back into the NPC's good graces. A contact provides help once, not help for life. The contact remains friendly, which can influence roleplaying and how the characters interact with them, but doesn't come with a guarantee of help.
+
+You can assign specific NPCs as contacts. You might decide that the barkeep at the Wretched Gorgon and a guard stationed at the western gate are the character's allied contacts. Assigning specific NPCs gives the players concrete options. It brings the campaign to life and seeds the area with NPCs that the characters care about. On the other hand, it can prove difficult to track and might render a contact useless if that character doesn't come into play.
+
+Alternatively, you can allow the player to make an NPC into a contact on the spot, after carousing. When the characters are in the area in which they caroused, a player can expend an allied contact and designate an NPC they meet as a contact, assuming the NPC is of the correct social class based on how the character caroused. The player should provide a reasonable explanation for this relationship and work it into the game.
+
+Using a mix of the two approaches is a good idea, since it gives you the added depth of specific contacts while giving players the freedom to ensure that the contacts they accumulate are useful.
+
+The same process can apply to hostile contacts. You can give the characters a specific NPC they should avoid, or you might introduce one at an inopportune or dramatic moment.
+
+At any time, a character can have a maximum number of unspecified allied contacts equal to 1 + the character's Charisma modifier (minimum of 1). Specific, named contacts don't count toward this limit—only ones that can be used at any time to declare an NPC as a contact.
+
+==== Complications
+
+Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, and building a bad reputation around town. As a rule of thumb, a character has a 10 percent chance of triggering a complication for each workweek of carousing.
+
+.Lower-Class Carousing Complications
+[cols="2*", options="header"]
+|==================================================================================================================================
+| d8 | Complication
+| 1  | A pickpocket lifts 1d10 × 5 gp from you.footnote:rival_involve[Might involve a rival]
+| 2  | A bar brawl leaves you with a scar.footnote:rival_involve[Might involve a rival]
+| 3  | You have fuzzy memories of doing something very, very illegal, but can't remember exactly what.
+| 4  | You are banned from a tavern after some obnoxious behavior.footnote:rival_involve[Might involve a rival]
+| 5  | After a few drinks, you swore in the town square to pursue a dangerous quest.
+| 6  | Surprise! You're married.
+| 7  | Streaking naked through the streets seemed like a great idea at the time.
+| 8  | Everyone is calling you by some weird, embarrassing nickname, like Puddle Drinker or Bench Slayer, and no one will say why.*
+|==================================================================================================================================
+*Might involve a rival
+
+.Middle-Class Carousing Complications
+[cols="2*", options="header"]
+|==========================================================================================================================
+| d8 | Complication
+| 1  | You accidentally insulted a guild master, and only a public apology will let you do business with the guild again.footnote:rival_involve[Might involve a rival]
+| 2  | You swore to complete some quest on behalf of a temple or a guild.
+| 3  | A social gaffe has made you the talk of the town.footnote:rival_involve[Might involve a rival]
+| 4  | A particularly obnoxious person has taken an intense romantic interest in you.footnote:rival_involve[Might involve a rival]
+| 5  | You have made a foe out of a local spellcaster.footnote:rival_involve[Might involve a rival]
+| 6  | You have been recruited to help run a local festival, play, or similar event.
+| 7  | You made a drunken toast that scandalized the locals.
+| 8  | You spent an additional 100 gp trying to impress people.
+|==========================================================================================================================
+.Upper-Class Carousing Complications
+[cols="2*", options="header"]
+|=================================================================================================================================
+| d8 | Complication
+| 1  | A pushy noble family wants to marry off one of their scions to you.footnote:rival_involve[Might involve a rival]
+| 2  | You tripped and fell during a dance, and people can't stop talking about it.
+| 3  | You have agreed to take on a noble's debts.
+| 4  | You have been challenged to a joust by a knight.footnote:rival_involve[Might involve a rival]
+| 5  | You have made a foe out of a local noble.footnote:rival_involve[Might involve a rival]
+| 6  | A boring noble insists you visit each day and listen to long, tedious theories of magic.
+| 7  | You have become the target of a variety of embarrassing rumors.footnote:rival_involve[Might involve a rival]
+| 8  | You spent an additional 500 gp trying to impress people.
+|=================================================================================================================================
