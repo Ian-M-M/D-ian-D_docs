@@ -166,14 +166,26 @@ when you finish a long rest.
 
 ==== *Preparing and Casting Spells*
 
-Whenever you finish a Long Rest, you can replace any Spell you have
-prepared for this Class with another Spell from your Class Spell List.
+You have access to the Art spell list. Whenever you finish a Long Rest, 
+you can replace any Spell you have prepared for this Spell list with 
+another Spell from that Spell list.
+
 At higher levels in this Class, you can prepare more Spells. The amount
 of spells you can prepare is equal to your Charisma modifier + your bard
 level (minimum of 1).
 
 The amount of spells that you are able to prepare for each level is
 determined by the amount of spell slots that you have for each level.
+
+==== *Preparing and Casting Spells from other spell list*
+
+As a bard, your knowledge of other source of magic is limited, coming from
+this you are able to cast them but with some limitations. This spells count 
+as bard spell for you, so they follow the same rules as a regular bard spell.
+
+The amount of spells from other spell list that you can prepare for each level
+is determined by the amount of spell slots that you have for each level halved
+(rounded down).
 
 ==== *Spellcasting Ability*
 
