@@ -3,71 +3,27 @@
 [width="99%",cols="10%,6%,41%,7%,4%,4%,4%,4%,4%,4%,4%,4%,4%",options="header",]
 |===
 | | | | |*_Spell Slots per Spell Level_* | | | | | | | |
-|*_Level_* a|
-*_Prof._*
-
-*_Bonus_*
-
-|*_Features_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_*
-|*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
-
-|*1st* |*+2* |*Bardic Inspiration, Spellcasting* |*2* |*2* |*—* |*—*
-|*—* |*—* |*—* |*—* |*—* |*—*
-
-|*2nd* |*+2* |*Jack of All Trades, Song of Rest (d6)* |*2* |*3* |*—*
-|*—* |*—* |*—* |*—* |*—* |*—* |*—*
-
-|*3rd* |*+2* |*Bard College, Expertise, Magical Inspiration* |*2* |*4*
-|*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
-
-|*4th* |*+2* |*Ability Score Improvement* |*3* |*4* |*3* |*—* |*—* |*—*
-|*—* |*—* |*—* |*—*
-
-|*5th* |*+3* |*Bardic Inspiration (d8), Font of Inspiration* |*3* |*4*
-|*3* |*2* |*—* |*—* |*—* |*—* |*—* |*—*
-
-|*6th* |*+3* |*Countercharm, Bard College feature* |*3* |*4* |*3* |*3*
-|*—* |*—* |*—* |*—* |*—* |*—*
-
-|*7th* |*+3* |*—* |*3* |*4* |*3* |*3* |*1* |*—* |*—* |*—* |*—* |*—*
-
-|*8th* |*+3* |*Ability Score Improvement* |*3* |*4* |*3* |*3* |*2* |*—*
-|*—* |*—* |*—* |*—*
-
-|*9th* |*+4* |*Song of Rest (d8)* |*3* |*4* |*3* |*3* |*3* |*1* |*—*
-|*—* |*—* |*—*
-
-|*10th* |*+4* |*Bardic Inspiration (d10),Expertise,Magical Secrets* |*4*
-|*4* |*3* |*3* |*3* |*2* |*—* |*—* |*—* |*—*
-
-|*11th* |*+4* |*—* |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*—* |*—* |*—*
-
-|*12th* |*+4* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*3* |*2*
-|*1* |*—* |*—* |*—*
-
-|*13th* |*+5* |*Song of Rest (d10)* |*4* |*4* |*3* |*3* |*3* |*2* |*1*
-|*1* |*—* |*—*
-
-|*14th* |*+5* |*Magical Secrets,Bard College feature* |*4* |*4* |*3*
-|*3* |*3* |*2* |*1* |*1* |*—* |*—*
-
-|*15th* |*+5* |*Bardic Inspiration (d12)* |*4* |*4* |*3* |*3* |*3* |*2*
-|*1* |*1* |*1* |*—*
-
-|*16th* |*+5* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*3* |*2*
-|*1* |*1* |*1* |*—*
-
-|*17th* |*+6* |*Song of Rest (d12)* |*4* |*4* |*3* |*3* |*3* |*2* |*1*
-|*1* |*1* |*1*
-
-|*18th* |*+6* |*Magical Secrets* |*4* |*4* |*3* |*3* |*3* |*3* |*1* |*1*
-|*1* |*1*
-
-|*19th* |*+6* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*3* |*3*
-|*2* |*1* |*1* |*1*
-
-|*20th* |*+6* |*Superior Inspiration* |*4* |*4* |*3* |*3* |*3* |*3* |*2*
-|*2* |*1* |*1*
+|*_Level_* a| *_Prof. Bonus_* |*_Features_*                                         |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
+|*1st*      |*+2*             |*Bardic Inspiration, Spellcasting*                   |*2* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*2nd*      |*+2*             |*Jack of All Trades, Song of Rest (d6)*              |*2* |*3* |*—* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*3rd*      |*+2*             |*Bard College, Expertise, Magical Inspiration*       |*2* |*4* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*4th*      |*+2*             |*Feat*                                               |*3* |*4* |*3* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*5th*      |*+3*             |*Bardic Inspiration (d8), Font of Inspiration*       |*3* |*4* |*3* |*2* |*—* |*—* |*—* |*—* |*—* |*—*
+|*6th*      |*+3*             |*Countercharm, Bard College feature*                 |*3* |*4* |*3* |*3* |*—* |*—* |*—* |*—* |*—* |*—*
+|*7th*      |*+3*             |*—*                                                  |*3* |*4* |*3* |*3* |*1* |*—* |*—* |*—* |*—* |*—* 
+|*8th*      |*+3*             |*Feat*                                               |*3* |*4* |*3* |*3* |*2* |*—* |*—* |*—* |*—* |*—*
+|*9th*      |*+4*             |*Song of Rest (d8)*                                  |*3* |*4* |*3* |*3* |*3* |*1* |*—* |*—* |*—* |*—*
+|*10th*     |*+4*             |*Bardic Inspiration (d10),Expertise,Magical Secrets* |*4* |*4* |*3* |*3* |*3* |*2* |*—* |*—* |*—* |*—*
+|*11th*     |*+4*             |*—*                                                  |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*—* |*—* |*—* 
+|*12th*     |*+4*             |*Feat*                                               |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*—* |*—* |*—*
+|*13th*     |*+5*             |*Song of Rest (d10)*                                 |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*—* |*—*
+|*14th*     |*+5*             |*Magical Secrets,Bard College feature*               |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*—* |*—*
+|*15th*     |*+5*             |*Bardic Inspiration (d12)*                           |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*—*
+|*16th*     |*+5*             |*Feat*                                               |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*—*
+|*17th*     |*+6*             |*Song of Rest (d12)*                                 |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*1*
+|*18th*     |*+6*             |*Magical Secrets*                                    |*4* |*4* |*3* |*3* |*3* |*3* |*1* |*1* |*1* |*1*
+|*19th*     |*+6*             |*Feat*                                               |*4* |*4* |*3* |*3* |*3* |*3* |*2* |*1* |*1* |*1*
+|*20th*     |*+6*             |*Superior Inspiration*                               |*4* |*4* |*3* |*3* |*3* |*3* |*2* |*2* |*1* |*1*
 |===
 
 [width="99%"]
@@ -298,7 +254,7 @@ can hear you, hits a creature with an attack or heals a creature, you
 can expend one use of your bardic inspiration to deal extra damage or
 healing equal to a roll of your bardic inspiration die.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -336,7 +292,7 @@ end it (no action required).
 
 At 6th level, you gain a feature from your Bard College.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -373,7 +329,7 @@ number in the Spells Known column of the Bard table.
 You learn two additional spells from any classes at 14th level and again
 at 18th level.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 12th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -404,7 +360,7 @@ At 14th level, you gain a feature from your Bard College.
 
 At 15th level, your Bardic Inspiration die changes to a d12.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -427,7 +383,7 @@ on the Bard table, or a cantrip.
 The chosen spells count as bard spells for you and are included in the
 amount of spells that you can prepare for this class.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
