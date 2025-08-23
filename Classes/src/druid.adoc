@@ -3,74 +3,27 @@
 [width="99%",cols="14%,7%,25%,9%,10%,8%,3%,3%,3%,3%,3%,3%,3%,3%,3%",options="header",]
 |===
 | | | | | | |*_Spell Slots per Spell Level_* | | | | | | | |
-|*_Level_* |*_Prof . Bonus_* |*_Features_* |*_Channel Nature_* a|
-*_Animalistic_*
-
-*_Invocations_*
-
-|*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_*
-|*_6th_* |*_7th_* |*_8th_* |*_9th_*
-
-|*1st* |*+2* |*Animalistic Invocations, Channel Nature, Druidic,
-Spellcasting* |*2* |*1* |*2* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
-|*—*
-
-|*2nd* |*+2* |*Nature’s Aid, Druid Circle* |*2* |*1* |*2* |*3* |*—* |*—*
-|*—* |*—* |*—* |*—* |*—* |*—*
-
-|*3rd* |*+2* |*—* |*2* |*1* |*2* |*4* |*2* |*—* |*—* |*—* |*—* |*—* |*—*
-|*—*
-
-|*4th* |*+2* |*Ability Score Improvement* |*2* |*2* |*3* |*4* |*3* |*—*
-|*—* |*—* |*—* |*—* |*—* |*—*
-
-|*5th* |*+3* |*Might of the Land* |*3* |*2* |*3* |*4* |*3* |*2* |*—*
-|*—* |*—* |*—* |*—* |*—*
-
-|*6th* |*+3* |*Druid Circle feature* |*3* |*2* |*3* |*4* |*3* |*3* |*—*
-|*—* |*—* |*—* |*—* |*—*
-
-|*7th* |*+3* |*Aquatic Form* |*3* |*2* |*3* |*4* |*3* |*3* |*1* |*—*
-|*—* |*—* |*—* |*—*
-
-|*8th* |*+3* |*Ability Score Improvement* |*3* |*3* |*3* |*4* |*3* |*3*
-|*2* |*—* |*—* |*—* |*—* |*—*
-
-|*9th* |*+4* |*Aerial Form* |*4* |*3* |*3* |*4* |*3* |*3* |*3* |*1* |*—*
-|*—* |*—* |*—*
-
-|*10th* |*+4* |*Druid Circle feature* |*4* |*3* |*4* |*4* |*3* |*3* |*3*
-|*2* |*—* |*—* |*—* |*—*
-
-|*11th* |*+4* |*Tiny Critter* |*4* |*3* |*4* |*4* |*3* |*3* |*3* |*2*
-|*1* |*—* |*—* |*—*
-
-|*12th* |*+4* |*Ability Score Improvement* |*4* |*4* |*4* |*4* |*3* |*3*
-|*3* |*2* |*1* |*—* |*—* |*—*
-
-|*13th* |*+5* |*Alternating Forms* |*4* |*4* |*4* |*4* |*3* |*3* |*3*
-|*2* |*1* |*1* |*—* |*—*
-
-|*14th* |*+5* |*Druid Circle feature* |*4* |*4* |*4* |*4* |*3* |*3* |*3*
-|*2* |*1* |*1* |*—* |*—*
-
-|*15th* |*+5* |*Wild Resurgence* |*4* |*4* |*4* |*4* |*3* |*3* |*3* |*2*
-|*1* |*1* |*1* |*—*
-
-|*16th* |*+5* |*Ability Score Improvement* |*4* |*5* |*4* |*4* |*3* |*3*
-|*3* |*2* |*1* |*1* |*1* |*—*
-
-|*17th* |*+6* |*Timeless Body* |*4* |*5* |*4* |*4* |*3* |*3* |*3* |*2*
-|*1* |*1* |*1* |*1*
-
-|*18th* |*+6* |*Beast Spells* |*4* |*5* |*4* |*4* |*3* |*3* |*3* |*3*
-|*1* |*1* |*1* |*1*
-
-|*19th* |*+6* |*Ability Score Improvement* |*4* |*5* |*4* |*4* |*3* |*3*
-|*3* |*3* |*2* |*1* |*1* |*1*
-
-|*20th* |*+6* |*Archdruid* |*Unlimited* |*5* |*4* |*4* |*3* |*3* |*3*
-|*3* |*2* |*2* |*1* |*1*
+|*_Level_* |*_Prof . Bonus_* |*_Features_* |*_Channel Nature_* a| *_Animalistic Invocations_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
+|*1st*  |*+2* |*Animalistic Invocations, Channel Nature, Druidic, Spellcasting* |*2*         |*1* |*2* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*2nd*  |*+2* |*Nature’s Aid, Druid Circle*                                     |*2*         |*1* |*2* |*3* |*—* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*3rd*  |*+2* |*—*                                                              |*2*         |*1* |*2* |*4* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*4th*  |*+2* |*Feat*                                                           |*2*         |*2* |*3* |*4* |*3* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*5th*  |*+3* |*Might of the Land*                                              |*3*         |*2* |*3* |*4* |*3* |*2* |*—* |*—* |*—* |*—* |*—* |*—*
+|*6th*  |*+3* |*Druid Circle feature*                                           |*3*         |*2* |*3* |*4* |*3* |*3* |*—* |*—* |*—* |*—* |*—* |*—*
+|*7th*  |*+3* |*Aquatic Form*                                                   |*3*         |*2* |*3* |*4* |*3* |*3* |*1* |*—* |*—* |*—* |*—* |*—*
+|*8th*  |*+3* |*Feat*                                                           |*3*         |*3* |*3* |*4* |*3* |*3* |*2* |*—* |*—* |*—* |*—* |*—*
+|*9th*  |*+4* |*Aerial Form*                                                    |*4*         |*3* |*3* |*4* |*3* |*3* |*3* |*1* |*—* |*—* |*—* |*—*
+|*10th* |*+4* |*Druid Circle feature*                                           |*4*         |*3* |*4* |*4* |*3* |*3* |*3* |*2* |*—* |*—* |*—* |*—*
+|*11th* |*+4* |*Tiny Critter*                                                   |*4*         |*3* |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*—* |*—* |*—*
+|*12th* |*+4* |*Feat*                                                           |*4*         |*4* |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*—* |*—* |*—*
+|*13th* |*+5* |*Alternating Forms*                                              |*4*         |*4* |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*—* |*—*
+|*14th* |*+5* |*Druid Circle feature*                                           |*4*         |*4* |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*—* |*—*
+|*15th* |*+5* |*Wild Resurgence*                                                |*4*         |*4* |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*—*
+|*16th* |*+5* |*Feat*                                                           |*4*         |*5* |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*—*
+|*17th* |*+6* |*Timeless Body*                                                  |*4*         |*5* |*4* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*1*
+|*18th* |*+6* |*Beast Spells*                                                   |*4*         |*5* |*4* |*4* |*3* |*3* |*3* |*3* |*1* |*1* |*1* |*1*
+|*19th* |*+6* |*Feat*                                                           |*4*         |*5* |*4* |*4* |*3* |*3* |*3* |*3* |*2* |*1* |*1* |*1*
+|*20th* |*+6* |*Archdruid*                                                      |*Unlimited* |*5* |*4* |*4* |*3* |*3* |*3* |*3* |*2* |*2* |*1* |*1*
 |===
 
 [width="99%",cols="20%,16%,16%,16%,16%,16%",options="header",]
@@ -257,7 +210,7 @@ At 2nd level, you choose to identify with a circle of druids from the
 list of available circles. Your choice grants you features at 2nd level
 and again at 6th, 10th, and 14th level.
 
-=== Ability Score Improvement
+=== Feat
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -282,7 +235,7 @@ At 7th level, you learn a new form for your *Wild Shape:* Animal of the
 Sea, which is described in the “Wild Shapes” section later in this
 class’s description.
 
-=== Ability Score Improvement
+=== Feat
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -308,7 +261,7 @@ transform into a *Wild Shape* form, you can make it Tiny. If you do so,
 you can stay in that form no longer than 10 minutes, and the damage you
 deal in that form is halved.
 
-=== Ability Score Improvement
+=== Feat
 
 When you reach 12h level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -335,7 +288,7 @@ At 15th level, when you use your Wild Shape, primal magic radiates from
 you, allowing you to use Healing Blossoms as part of the same use of
 Channel Nature.
 
-=== Ability Score Improvement
+=== Feat
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -357,7 +310,7 @@ shape you assume using Wild Shape. You can perform the somatic and
 verbal components of a druid spell while in a beast shape, but you
 aren't able to provide material components.
 
-=== Ability Score Improvement
+=== Feat
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
