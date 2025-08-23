@@ -2,52 +2,27 @@
 
 [width="100%",cols="8%,7%,85%",options="header",]
 |===
-|*_Level_* a|
-*_Prof._*
-
-*_Bonus_*
-
-|*_Features_*
-|*1st* |*+2* |*Fighting Style, Second Wind, Weapon Mastery*
-
-|*2nd* |*+2* |*Action Surge, Battle Maneuvers (1d6)*
-
-|*3rd* |*+2* |*Martial Archetype*
-
-|*4th* |*+2* |*Ability Score Improvement*
-
-|*5th* |*+3* |*Ability Score Improvement, Extra Attack*
-
-|*6th* |*+3* |*Improved Maneuver (1d8)*
-
-|*7th* |*+3* |*Martial Archetype feature, Weapon Expert*
-
-|*8th* |*+3* |*Ability Score Improvement*
-
-|*9th* |*+4* |*Indomitable*
-
-|*10th* |*+4* |*Martial Archetype feature*
-
-|*11th* |*+4* |*Extra Attack (2)*
-
-|*12th* |*+4* |*Ability Score Improvement*
-
-|*13th* |*+5* |*Indomitable (two uses), Weapon Adept*
-
-|*14th* |*+5* |*Improved Maneuver (1d10)*
-
-|*15th* |*+5* |*Ability Score Improvement, Martial Archetype feature*
-
-|*16th* |*+5* |*Ability Score Improvement*
-
-|*17th* |*+6* |*Action Surge (two uses), Indomitable (three uses),
-Unconquerable*
-
-|*18th* |*+6* |*Martial Archetype feature*
-
-|*19th* |*+6* |*Ability Score Improvement*
-
-|*20th* |*+6* |*Extra Attack (3)*
+|*_Level_* a| *_Prof. Bonus_* |*_Features_*
+|*1st*      |*+2*             |*Fighting Style, Second Wind, Weapon Mastery*
+|*2nd*      |*+2*             |*Action Surge, Battle Maneuvers (1d6)*
+|*3rd*      |*+2*             |*Martial Archetype*
+|*4th*      |*+2*             |*Feat*
+|*5th*      |*+3*             |*Fighting Feat, Extra Attack*
+|*6th*      |*+3*             |*Improved Maneuver (1d8)*
+|*7th*      |*+3*             |*Martial Archetype feature, Weapon Expert*
+|*8th*      |*+3*             |*Feat*
+|*9th*      |*+4*             |*Indomitable*
+|*10th*     |*+4*             |*Martial Archetype feature*
+|*11th*     |*+4*             |*Extra Attack (2)*
+|*12th*     |*+4*             |*Feat*
+|*13th*     |*+5*             |*Indomitable (two uses), Weapon Adept*
+|*14th*     |*+5*             |*Improved Maneuver (1d10)*
+|*15th*     |*+5*             |*Fighting Feat, Martial Archetype feature*
+|*16th*     |*+5*             |*Feat*
+|*17th*     |*+6*             |*Action Surge (two uses), Indomitable (three uses), Unconquerable*
+|*18th*     |*+6*             |*Martial Archetype feature*
+|*19th*     |*+6*             |*Feat*
+|*20th*     |*+6*             |*Extra Attack (3)*
 |===
 
 [width="99%"]
@@ -245,7 +220,7 @@ strive to emulate in your combat styles and techniques. The archetype
 you choose grants you features at 3rd level and again at 7th, 10th,
 15th, and 18th level.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -254,14 +229,15 @@ feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
-=== Ability Score Improvement
+=== Fighting Feat
 
-When you reach 5th level, you can increase one ability score of your
-choice by 2, or you can increase two ability scores of your choice by 1.
-As normal, you can't increase an ability score above 20 using this
-feature.
+When you reach 5th level, you can choose one of the following options:
 
-If your DM allows the use of feats, you may instead take a feat.
+- Increase one ability score of your choice by 2, or you can increase 
+two ability scores of your choice by 1. 
+- Choose a Feat.
+- Choose a Fighting Style.
+- Choose a Battle Maneuver.
 
 === *Extra Attack*
 
@@ -291,7 +267,7 @@ Push property.
 This property change applies only for you, not for others, and the
 change ends for you when you finish your next Long Rest.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -319,7 +295,7 @@ At 10th level, you gain a feature granted by your Martial Archetype.
 At 11th level, you can attack three times whenever you take the Attack
 action on your turn.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 12th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -349,20 +325,21 @@ which of those properties to use against the target.
 
 At 14th level, your maneuver dice become d10s.
 
-=== *Ability Score Improvement*
+=== *Fighting Feat*
 
-When you reach 15th level, you can increase one ability score of your
-choice by 2, or you can increase two ability scores of your choice by 1.
-As normal, you can't increase an ability score above 20 using this
-feature.
+When you reach 15th level, you can choose one of the following options:
 
-If your DM allows the use of feats, you may instead take a feat.
+- Increase one ability score of your choice by 2, or you can increase 
+two ability scores of your choice by 1. 
+- Choose a Feat.
+- Choose a Fighting Style.
+- Choose a Battle Maneuver.
 
 === *Martial Archetype feature*
 
 At 15th level, you gain a feature granted by your Martial Archetype.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -391,7 +368,7 @@ of your Second Wind, which also heals you.
 
 At 18th level, you gain a feature granted by your Martial Archetype.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
