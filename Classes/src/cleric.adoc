@@ -3,69 +3,27 @@
 [width="99%",cols="12%,6%,37%,8%,4%,5%,4%,4%,4%,4%,4%,4%,4%",options="header",]
 |===
 | | | | |*_Spell Slots per Spell Level_* | | | | | | | |
-|*_Level_* a|
-*_Prof._*
-
-*_Bonus_*
-
-|*_Features_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_*
-|*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
-
-|*1st* |*+2* |*Spellcasting, Divine Domain* |*3* |*2* |*—* |*—* |*—*
-|*—* |*—* |*—* |*—* |*—*
-
-|*2nd* |*+2* |*Channel Divinity (1/rest), Channel Divinity: Harness
-Divine Power, Divine Domain feature* |*3* |*3* |*—* |*—* |*—* |*—* |*—*
-|*—* |*—* |*—*
-
-|*3rd* |*+2* |*—* |*3* |*4* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
-
-|*4th* |*+2* |*Ability Score Improvement* |*4* |*4* |*3* |*—* |*—* |*—*
-|*—* |*—* |*—* |*—*
-
-|*5th* |*+3* |*Destroy Undead (CR 1/2)* |*4* |*4* |*3* |*2* |*—* |*—*
-|*—* |*—* |*—* |*—*
-
-|*6th* |*+3* |*Channel Divinity (2/rest), Divine Domain feature* |*4*
-|*4* |*3* |*3* |*—* |*—* |*—* |*—* |*—* |*—*
-
-|*7th* |*+3* |*—* |*4* |*4* |*3* |*3* |*1* |*—* |*—* |*—* |*—* |*—*
-
-|*8th* |*+3* |*Ability Score Improvement, Destroy Undead (CR 1), Divine
-Domain feature* |*4* |*4* |*3* |*3* |*2* |*—* |*—* |*—* |*—* |*—*
-
-|*9th* |*+4* |*—* |*4* |*4* |*3* |*3* |*3* |*1* |*—* |*—* |*—* |*—*
-
-|*10th* |*+4* |*Divine Intervention* |*5* |*4* |*3* |*3* |*3* |*2* |*—*
-|*—* |*—* |*—*
-
-|*11th* |*+4* |*Destroy Undead (CR 2)* |*5* |*4* |*3* |*3* |*3* |*2*
-|*1* |*—* |*—* |*—*
-
-|*12th* |*+4* |*Ability Score Improvement* |*5* |*4* |*3* |*3* |*3* |*2*
-|*1* |*—* |*—* |*—*
-
-|*13th* |*+5* |*—* |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*—* |*—*
-
-|*14th* |*+5* |*Destroy Undead (CR 3)* |*5* |*4* |*3* |*3* |*3* |*2*
-|*1* |*1* |*—* |*—*
-
-|*15th* |*+5* |*—* |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*—*
-
-|*16th* |*+5* |*Ability Score Improvement* |*5* |*4* |*3* |*3* |*3* |*2*
-|*1* |*1* |*1* |*—*
-
-|*17th* |*+6* |*Destroy Undead (CR 4), Divine Domain feature* |*5* |*4*
-|*3* |*3* |*3* |*2* |*1* |*1* |*1* |*1*
-
-|*18th* |*+6* |*Channel Divinity (3/rest)* |*5* |*4* |*3* |*3* |*3* |*3*
-|*1* |*1* |*1* |*1*
-
-|*19th* |*+6* |*Ability Score Improvement* |*5* |*4* |*3* |*3* |*3* |*3*
-|*2* |*1* |*1* |*1*
-
-|*20th* |*+6* |*Divine Intervention Improvement* |*5* |*4* |*3* |*3*
-|*3* |*3* |*2* |*2* |*1* |*1*
+|*_Level_* a| *_Prof. Bonus_* |*_Features_*                                         |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
+|*1st*      |*+2*             |*Spellcasting, Divine Domain*                        |*3* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*2nd*      |*+2*             |*Channel Divinity (1/rest), Channel Divinity: Harness Divine Power, Divine Domain feature* |*3* |*3* |*—* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*3rd*      |*+2*             |*—*                                                  |*3* |*4* |*2* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*4th*      |*+2*             |*Feat*                                               |*4* |*4* |*3* |*—* |*—* |*—* |*—* |*—* |*—* |*—*
+|*5th*      |*+3*             |*Destroy Undead (CR 1/2)*                            |*4* |*4* |*3* |*2* |*—* |*—* |*—* |*—* |*—* |*—* 
+|*6th*      |*+3*             |*Channel Divinity (2/rest), Divine Domain feature*   |*4* |*4* |*3* |*3* |*—* |*—* |*—* |*—* |*—* |*—*
+|*7th*      |*+3*             |*—*                                                  |*4* |*4* |*3* |*3* |*1* |*—* |*—* |*—* |*—* |*—* 
+|*8th*      |*+3*             |*Feat, Destroy Undead (CR 1), Divine Domain feature* |*4* |*4* |*3* |*3* |*2* |*—* |*—* |*—* |*—* |*—*
+|*9th*      |*+4*             |*—*                                                  |*4* |*4* |*3* |*3* |*3* |*1* |*—* |*—* |*—* |*—* 
+|*10th*     |*+4*             |*Divine Intervention*                                |*5* |*4* |*3* |*3* |*3* |*2* |*—* |*—* |*—* |*—*
+|*11th*     |*+4*             |*Destroy Undead (CR 2)*                              |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*—* |*—* |*—*
+|*12th*     |*+4*             |*Feat*                                               |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*—* |*—* |*—*
+|*13th*     |*+5*             |*—*                                                  |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*—* |*—* 
+|*14th*     |*+5*             |*Destroy Undead (CR 3)*                              |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*—* |*—*
+|*15th*     |*+5*             |*—*                                                  |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*—* 
+|*16th*     |*+5*             |*Feat*                                               |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*—*
+|*17th*     |*+6*             |*Destroy Undead (CR 4), Divine Domain feature*       |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*1*
+|*18th*     |*+6*             |*Channel Divinity (3/rest)*                          |*5* |*4* |*3* |*3* |*3* |*3* |*1* |*1* |*1* |*1*
+|*19th*     |*+6*             |*Feat*                                               |*5* |*4* |*3* |*3* |*3* |*3* |*2* |*1* |*1* |*1*
+|*20th*     |*+6*             |*Divine Intervention Improvement*                    |*5* |*4* |*3* |*3* |*3* |*3* |*2* |*2* |*1* |*1*
 |===
 
 [width="99%"]
@@ -244,7 +202,7 @@ uses when you finish a long rest.
 
 At 2nd level, you gain a feature from your Divine Domain.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -268,7 +226,7 @@ rests.
 
 At 6th level, you gain a feature from your Divine Domain.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -309,7 +267,7 @@ Starting at 11th level, when an undead of CR 2 or lower fails its saving
 throw against your Turn Undead feature, the creature is instantly
 destroyed.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 12th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -324,7 +282,7 @@ Starting at 14th level, when an undead of CR 3 or lower fails its saving
 throw against your Turn Undead feature, the creature is instantly
 destroyed.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -348,7 +306,7 @@ At 17th level, you gain a feature from your Divine Domain.
 Beginning at 18th level, you can use your Channel Divinity three times
 between rests.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
