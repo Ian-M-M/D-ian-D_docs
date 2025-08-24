@@ -117,11 +117,15 @@ This feature has no effect on undead and constructs.
 === *Divine Smite*
 
 Starting at 2nd level, once per turn, when you hit a creature with a
-melee weapon attack, you can expend one spell slot to deal radiant
-damage to the target, in addition to the weapon's damage. The extra
-damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level
-higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the
-target is an undead or a fiend, to a maximum of 6d8.
+melee weapon attack, you can deal extra radiant damage to the target,
+in addition to the weapon's damage. The extra damage is a Xd8, where X
+is 1 + the level of the higher spell level that you can cast.
+
+The damage increases by 1d8 if the target is an undead or a fiend, 
+to a maximum of 6d8.
+
+You can use this trait a number of times equals to your proficiency bonus.
+All the expended uses are recharged after a Long Rest.
 
 === 
 
