@@ -2,32 +2,27 @@
 
 [width="100%",cols="8%,6%,75%,11%",options="header",]
 |===
-|*_Level_* a|
-*_Prof._*
-
-*_Bonus_*
-
-|*_Features_* |*_Sneak Attack_*
-|*1st* |*+2* |*Expertise, Sneak Attack, Thieves' Cant* |*1d6*
-|*2nd* |*+2* |*Cunning Action* |*1d6*
-|*3rd* |*+2* |*Roguish Archetype, Steady Aim* |*2d6*
-|*4th* |*+2* |*Ability Score Improvement* |*2d6*
-|*5th* |*+3* |*Uncanny Dodge* |*3d6*
-|*6th* |*+3* |*Expertise* |*3d6*
-|*7th* |*+3* |*Evasion* |*4d6*
-|*8th* |*+3* |*Ability Score Improvement* |*4d6*
-|*9th* |*+4* |*Roguish Archetype feature* |*5d6*
-|*10th* |*+4* |*Ability Score Improvement* |*5d6*
-|*11th* |*+4* |*Reliable Talent* |*6d6*
-|*12th* |*+4* |*Ability Score Improvement* |*6d6*
-|*13th* |*+5* |*Roguish Archetype feature* |*7d6*
-|*14th* |*+5* |*Blindsense* |*7d6*
-|*15th* |*+5* |*Slippery Mind* |*8d6*
-|*16th* |*+5* |*Ability Score Improvement* |*8d6*
-|*17th* |*+6* |*Roguish Archetype feature* |*9d6*
-|*18th* |*+6* |*Elusive* |*9d6*
-|*19th* |*+6* |*Ability Score Improvement* |*10d6*
-|*20th* |*+6* |*Stroke of Luck* |*10d6*
+|*_Level_* a| *_Prof. Bonus_* |*_Features_*                             |*_Sneak Attack_*
+|*1st*      |*+2*             |*Expertise, Sneak Attack, Thieves' Cant* |*1d6*
+|*2nd*      |*+2*             |*Cunning Action*                         |*1d6*
+|*3rd*      |*+2*             |*Roguish Archetype, Steady Aim*          |*2d6*
+|*4th*      |*+2*             |*Feat*                                   |*2d6*
+|*5th*      |*+3*             |*Uncanny Dodge*                          |*3d6*
+|*6th*      |*+3*             |*Expertise*                              |*3d6*
+|*7th*      |*+3*             |*Evasion*                                |*4d6*
+|*8th*      |*+3*             |*Feat*                                   |*4d6*
+|*9th*      |*+4*             |*Roguish Archetype feature*              |*5d6*
+|*10th*     |*+4*             |*Feat*                                   |*5d6*
+|*11th*     |*+4*             |*Reliable Talent*                        |*6d6*
+|*12th*     |*+4*             |*Feat*                                   |*6d6*
+|*13th*     |*+5*             |*Roguish Archetype feature*              |*7d6*
+|*14th*     |*+5*             |*Blindsense*                             |*7d6*
+|*15th*     |*+5*             |*Slippery Mind*                          |*8d6*
+|*16th*     |*+5*             |*Feat*                                   |*8d6*
+|*17th*     |*+6*             |*Roguish Archetype feature*              |*9d6*
+|*18th*     |*+6*             |*Elusive*                                |*9d6*
+|*19th*     |*+6*             |*Feat*                                   |*10d6*
+|*20th*     |*+6*             |*Stroke of Luck*                         |*10d6*
 |===
 
 [width="99%"]
@@ -154,7 +149,7 @@ is 0 until the end of the current turn.
 
 === 
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -192,7 +187,7 @@ succeed on the saving throw, and only half damage if you fail.
 
 === 
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -209,7 +204,7 @@ At 9th level, you gain a feature granted by your Roguish Archetype.
 
 === 
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 10th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -228,7 +223,7 @@ proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 === 
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 12th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -259,7 +254,7 @@ proficiency in Wisdom saving throws.
 
 === 
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -284,7 +279,7 @@ while you aren't incapacitated.
 
 === 
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
