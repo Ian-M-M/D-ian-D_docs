@@ -4,7 +4,7 @@
 |===
 | | | | |*_Spell Slots per Spell Level_* | | | | | | | |
 |*_Level_* a| *_Prof. Bonus_*|*_Features_*                        |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
-|*1st*      |*+2*            |*Spellcasting*                      |*3*                |*2*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*1st*      |*+2*            |*Spellcasting, School Speciality*   |*3*                |*2*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
 |*2nd*      |*+2*            |*Arcane Recovery, Cantrip Formulas* |*3*                |*3*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
 |*3rd*      |*+2*            |*Arcane Tradition*                  |*3*                |*4*     |*2*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
 |*4th*      |*+2*            |*Feat*                              |*4*                |*4*     |*3*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
@@ -205,6 +205,14 @@ bound gilt-edged tome you found in an ancient library, or even a loose
 collection of notes scrounged together after you lost your previous
 spellbook in a mishap.
 
+=== School Speciality
+
+At 1st level, you have practice one school as your speciality. You can
+choose one school of magic and gain the following feature related to that
+school:
+- The gold and time you must spend to copy a spell from your chosen school
+into your spellbook is halved.
+
 === Arcane Recovery
 
 At 2nd level, you have learned to regain some of your magical energy by
@@ -245,14 +253,8 @@ If your DM allows the use of feats, you may instead take a feat.
 === School Savant
 
 At 5th level, you choose a school of magic, and you gain the following
-traits:
+trait:
 
-* {blank}
-+
-____
-The gold and time you must spend to copy a spell from your chosen school
-into your spellbook is halved.
-____
 * {blank}
 +
 ____
