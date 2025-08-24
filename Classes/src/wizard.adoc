@@ -3,68 +3,27 @@
 [width="100%",cols="13%,6%,37%,8%,4%,4%,4%,4%,4%,4%,4%,4%,4%",options="header",]
 |===
 | | | | |*_Spell Slots per Spell Level_* | | | | | | | |
-|*_Level_* a|
-*_Prof._*
-
-*_Bonus_*
-
-|*_Features_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_*
-|*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
-
-|*1st* |*+2* |*Spellcasting* |*3* |*2* |*—* |*—* |*—* |*—* |*—* |*—*
-|*—* |*—*
-
-|*2nd* |*+2* |*Arcane Recovery, Cantrip Formulas* |*3* |*3* |*—* |*—*
-|*—* |*—* |*—* |*—* |*—* |*—*
-
-|*3rd* |*+2* |*Arcane Tradition* |*3* |*4* |*2* |*—* |*—* |*—* |*—* |*—*
-|*—* |*—*
-
-|*4th* |*+2* |*Ability Score Improvement* |*4* |*4* |*3* |*—* |*—* |*—*
-|*—* |*—* |*—* |*—*
-
-|*5th* |*+3* |*School Savant* |*4* |*4* |*3* |*2* |*—* |*—* |*—* |*—*
-|*—* |*—*
-
-|*6th* |*+3* |*Arcane Tradition feature* |*4* |*4* |*3* |*3* |*—* |*—*
-|*—* |*—* |*—* |*—*
-
-|*7th* |*+3* |*—* |*4* |*4* |*3* |*3* |*1* |*—* |*—* |*—* |*—* |*—*
-
-|*8th* |*+3* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*2* |*—*
-|*—* |*—* |*—* |*—*
-
-|*9th* |*+4* |*—* |*4* |*4* |*3* |*3* |*3* |*1* |*—* |*—* |*—* |*—*
-
-|*10th* |*+4* |*Arcane Tradition feature* |*5* |*4* |*3* |*3* |*3* |*2*
-|*—* |*—* |*—* |*—*
-
-|*11th* |*+4* |*School Mastery* |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*—*
-|*—* |*—*
-
-|*12th* |*+4* |*Ability Score Improvement* |*5* |*4* |*3* |*3* |*3* |*2*
-|*1* |*—* |*—* |*—*
-
-|*13th* |*+5* |*—* |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*—* |*—*
-
-|*14th* |*+5* |*Arcane Tradition feature* |*5* |*4* |*3* |*3* |*3* |*2*
-|*1* |*1* |*—* |*—*
-
-|*15th* |*+5* |*—* |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*—*
-
-|*16th* |*+5* |*Ability Score Improvement* |*5* |*4* |*3* |*3* |*3* |*2*
-|*1* |*1* |*1* |*—*
-
-|*17th* |*+6* |*—* |*5* |*4* |*3* |*3* |*3* |*2* |*1* |*1* |*1* |*1*
-
-|*18th* |*+6* |*Spell Mastery* |*5* |*4* |*3* |*3* |*3* |*3* |*1* |*1*
-|*1* |*1*
-
-|*19th* |*+6* |*Ability Score Improvement* |*5* |*4* |*3* |*3* |*3* |*3*
-|*2* |*1* |*1* |*1*
-
-|*20th* |*+6* |*Create Spell* |*5* |*4* |*3* |*3* |*3* |*3* |*2* |*2*
-|*1* |*1*
+|*_Level_* a| *_Prof. Bonus_*|*_Features_*                        |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_* |*_6th_* |*_7th_* |*_8th_* |*_9th_*
+|*1st*      |*+2*            |*Spellcasting*                      |*3*                |*2*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*2nd*      |*+2*            |*Arcane Recovery, Cantrip Formulas* |*3*                |*3*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*3rd*      |*+2*            |*Arcane Tradition*                  |*3*                |*4*     |*2*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*4th*      |*+2*            |*Feat*                              |*4*                |*4*     |*3*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*5th*      |*+3*            |*School Savant*                     |*4*                |*4*     |*3*     |*2*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*6th*      |*+3*            |*Arcane Tradition feature*          |*4*                |*4*     |*3*     |*3*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*7th*      |*+3*            |*—*                                 |*4*                |*4*     |*3*     |*3*     |*1*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*8th*      |*+3*            |*Feat*                              |*4*                |*4*     |*3*     |*3*     |*2*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*9th*      |*+4*            |*—*                                 |*4*                |*4*     |*3*     |*3*     |*3*     |*1*     |*—*     |*—*     |*—*     |*—*
+|*10th*     |*+4*            |*Arcane Tradition feature*          |*5*                |*4*     |*3*     |*3*     |*3*     |*2*     |*—*     |*—*     |*—*     |*—*
+|*11th*     |*+4*            |*School Mastery*                    |*5*                |*4*     |*3*     |*3*     |*3*     |*2*     |*1*     |*—*     |*—*     |*—*
+|*12th*     |*+4*            |*Feat*                              |*5*                |*4*     |*3*     |*3*     |*3*     |*2*     |*1*     |*—*     |*—*     |*—*
+|*13th*     |*+5*            |*—*                                 |*5*                |*4*     |*3*     |*3*     |*3*     |*2*     |*1*     |*1*     |*—*     |*—*
+|*14th*     |*+5*            |*Arcane Tradition feature*          |*5*                |*4*     |*3*     |*3*     |*3*     |*2*     |*1*     |*1*     |*—*     |*—*
+|*15th*     |*+5*            |*—*                                 |*5*                |*4*     |*3*     |*3*     |*3*     |*2*     |*1*     |*1*     |*1*     |*—*
+|*16th*     |*+5*            |*Feat*                              |*5*                |*4*     |*3*     |*3*     |*3*     |*2*     |*1*     |*1*     |*1*     |*—*
+|*17th*     |*+6*            |*—*                                 |*5*                |*4*     |*3*     |*3*     |*3*     |*2*     |*1*     |*1*     |*1*     |*1*
+|*18th*     |*+6*            |*Spell Mastery*                     |*5*                |*4*     |*3*     |*3*     |*3*     |*3*     |*1*     |*1*     |*1*     |*1*
+|*19th*     |*+6*            |*Feat*                              |*5*                |*4*     |*3*     |*3*     |*3*     |*3*     |*2*     |*1*     |*1*     |*1*
+|*20th*     |*+6*            |*Create Spell*                      |*5*                |*4*     |*3*     |*3*     |*3*     |*3*     |*2*     |*2*     |*1*     |*1*
 |===
 
 [width="99%"]
@@ -274,7 +233,7 @@ When you reach 3nd level, you choose an arcane tradition from the list
 of available traditions, shaping your practice of magic. Your choice
 grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -308,7 +267,7 @@ magic.
 
 At 6th level, you gain a feature granted by your Arcane Tradition.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -475,7 +434,7 @@ change the effect of your stone if the stone is on your person.
 If you create a new transmuter's stone, the previous one ceases to
 function
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 12th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -488,7 +447,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 At 14th level, you gain a feature granted by your Arcane Tradition.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -509,7 +468,7 @@ you must expend a spell slot as normal.
 By spending 8 hours in study, you can exchange one or both of the spells
 you chose for different spells of the same levels.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
