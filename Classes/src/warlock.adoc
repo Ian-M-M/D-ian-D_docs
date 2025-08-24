@@ -2,53 +2,27 @@
 
 [width="99%",cols="8%,6%,48%,8%,7%,7%,6%,10%",options="header",]
 |===
-|*_Level_* a|
-*_Prof._*
-
-*_Bonus_*
-
-|*_Features_* |*_Cantrips Known_* |*_Spells Known_* |*_Spell Slots_*
-|*_Slot Level_* |*_Invocations Known_*
-|*1st* |*+2* |*Pact Boon, Pact Magic* |*2* |*2* |*1* |*1st* |*—*
-
-|*2nd* |*+2* |*Eldritch Invocations* |*2* |*3* |*1* |*1st* |*2*
-
-|*3rd* |*+2* |*Otherworldly Patron* |*2* |*4* |*1* |*2nd* |*2*
-
-|*4th* |*+2* |*Ability Score Improvement, Eldritch Versatility* |*3*
-|*5* |*1* |*2nd* |*2*
-
-|*5th* |*+3* |*—* |*3* |*6* |*2* |*3rd* |*3*
-
-|*6th* |*+3* |*Otherworldly Patron feature* |*3* |*7* |*2* |*3rd* |*3*
-
-|*7th* |*+3* |*—* |*3* |*8* |*2* |*4th* |*4*
-
-|*8th* |*+3* |*Ability Score Improvement* |*3* |*9* |*2* |*4th* |*4*
-
-|*9th* |*+4* |*—* |*3* |*10* |*3* |*5th* |*5*
-
-|*10th* |*+4* |*Otherworldly Patron feature* |*4* |*10* |*3* |*5th* |*5*
-
-|*11th* |*+4* |*Mystic Arcanum (6th level)* |*4* |*11* |*3* |*5th* |*5*
-
-|*12th* |*+4* |*Ability Score Improvement* |*4* |*11* |*3* |*5th* |*6*
-
-|*13th* |*+5* |*Mystic Arcanum (7th level)* |*4* |*12* |*4* |*5th* |*6*
-
-|*14th* |*+5* |*Otherworldly Patron feature* |*4* |*12* |*4* |*5th* |*6*
-
-|*15th* |*+5* |*Mystic Arcanum (8th level)* |*4* |*13* |*4* |*5th* |*7*
-
-|*16th* |*+5* |*Ability Score Improvement* |*4* |*13* |*4* |*5th* |*7*
-
-|*17th* |*+6* |*Mystic Arcanum (9th level)* |*4* |*14* |*4* |*5th* |*7*
-
-|*18th* |*+6* |*—* |*4* |*14* |*4* |*5th* |*8*
-
-|*19th* |*+6* |*Ability Score Improvement* |*4* |*15* |*4* |*5th* |*8*
-
-|*20th* |*+6* |*Eldritch Master* |*4* |*15* |*4* |*5th* |*8*
+|*_Level_* a| *_Prof. Bonus_* |*_Features_*                  |*_Cantrips Known_* |*_Spells Known_* |*_Spell Slots_* |*_Slot Level_* |*_Invocations Known_*
+|*1st*      |*+2*             |*Pact Boon, Pact Magic*       |*2*                |*2*              |*1*             |*1st*          |*—*
+|*2nd*      |*+2*             |*Eldritch Invocations*        |*2*                |*3*              |*1*             |*1st*          |*2*
+|*3rd*      |*+2*             |*Otherworldly Patron*         |*2*                |*4*              |*1*             |*2nd*          |*2*
+|*4th*      |*+2*             |*Feat, Eldritch Versatility*  |*3*                |*5*              |*1*             |*2nd*          |*2*
+|*5th*      |*+3*             |*—*                           |*3*                |*6*              |*2*             |*3rd*          |*3*
+|*6th*      |*+3*             |*Otherworldly Patron feature* |*3*                |*7*              |*2*             |*3rd*          |*3*
+|*7th*      |*+3*             |*—*                           |*3*                |*8*              |*2*             |*4th*          |*4*
+|*8th*      |*+3*             |*Feat*                        |*3*                |*9*              |*2*             |*4th*          |*4*
+|*9th*      |*+4*             |*—*                           |*3*                |*10*             |*3*             |*5th*          |*5*
+|*10th*     |*+4*             |*Otherworldly Patron feature* |*4*                |*10*             |*3*             |*5th*          |*5*
+|*11th*     |*+4*             |*Mystic Arcanum (6th level)*  |*4*                |*11*             |*3*             |*5th*          |*5*
+|*12th*     |*+4*             |*Feat*                        |*4*                |*11*             |*3*             |*5th*          |*6*
+|*13th*     |*+5*             |*Mystic Arcanum (7th level)*  |*4*                |*12*             |*4*             |*5th*          |*6*
+|*14th*     |*+5*             |*Otherworldly Patron feature* |*4*                |*12*             |*4*             |*5th*          |*6*
+|*15th*     |*+5*             |*Mystic Arcanum (8th level)*  |*4*                |*13*             |*4*             |*5th*          |*7*
+|*16th*     |*+5*             |*Feat*                        |*4*                |*13*             |*4*             |*5th*          |*7*
+|*17th*     |*+6*             |*Mystic Arcanum (9th level)*  |*4*                |*14*             |*4*             |*5th*          |*7*
+|*18th*     |*+6*             |*—*                           |*4*                |*14*             |*4*             |*5th*          |*8*
+|*19th*     |*+6*             |*Feat*                        |*4*                |*15*             |*4*             |*5th*          |*8*
+|*20th*     |*+6*             |*Eldritch Master*             |*4*                |*15*             |*4*             |*5th*          |*8*
 |===
 
 [width="99%"]
@@ -385,7 +359,7 @@ At 3rd level, you have struck a bargain with an otherworldly being
 chosen from the list of available patrons. Your choice grants you
 features at 1st level and again at 6th, 10th, and 14th level.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -429,7 +403,7 @@ which you qualify.
 
 At 6th level, you gain a feature granted by your Otherworldly Patron.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -456,7 +430,7 @@ be cast in this way: one 7th-level spell at 13th level, one 8th-level
 spell at 15th level, and one 9th-level spell at 17th level. You regain
 all uses of your Mystic Arcanum when you finish a long rest.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 12th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -487,7 +461,7 @@ arcanum.
 You can cast your arcanum spell once without expending a spell slot. You
 must finish a long rest before you can do so again.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -505,7 +479,7 @@ arcanum.
 You can cast your arcanum spell once without expending a spell slot. You
 must finish a long rest before you can do so again.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
