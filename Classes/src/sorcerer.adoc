@@ -2,59 +2,27 @@
 
 [width="100%",cols="8%,6%,61%,8%,7%,10%",options="header",]
 |===
-|*_Level_* |*_Prof. Bonus_* |*_Features_* a|
-*_Cantrips_*
-
-*_Known_*
-
-|*_Spell Points_* a|
-*_Max._*
-
-*_Spell Level_*
-
-|*1st* |*+2* |*Spellcasting, Sorcerous Origin* |*4* |*4* |*1st*
-
-|*2nd* |*+2* |*Metamagic* |*4* |*6* |*1st*
-
-|*3rd* |*+2* |*Magical Guidance* |*4* |*14* |*2nd*
-
-|*4th* |*+2* |*Ability Score Improvement* |*5* |*17* |*2nd*
-
-|*5th* |*+3* |*Sorcerous Restoration (1d6), Sorcerous Vitality* |*5*
-|*27* |*3rd*
-
-|*6th* |*+3* |*Sorcerous Origin feature* |*5* |*32* |*3rd*
-
-|*7th* |*+3* |*Arcane Eruption, Metamagic* |*5* |*38* |*4th*
-
-|*8th* |*+3* |*Ability Score Improvement* |*5* |*44* |*4th*
-
-|*9th* |*+4* |*Arcane Secrets, Sorcerous Vitality Improvement* |*5*
-|*57* |*5th*
-
-|*10th* |*+4* |*Sorcery Incarnate* |*6* |*64* |*5th*
-
-|*11th* |*+4* |*Metamagic, Sorcerous Restoration Improvement (1d12)*
-|*6* |*73* |*6th*
-
-|*12th* |*+4* |*Ability Score Improvement* |*6* |*73* |*6th*
-
-|*13th* |*+5* |*Arcane Secrets* |*6* |*83* |*7th*
-
-|*14th* |*+5* |*Sorcerous Origin feature* |*6* |*83* |*7th*
-
-|*15th* |*+5* |*Arcane Secrets, Metamagic* |*6* |*94* |*8th*
-
-|*16th* |*+5* |*Ability Score Improvement* |*6* |*94* |*8th*
-
-|*17th* |*+6* |*Sorcerous Restoration Improvement (2d12)* |*6* |*107*
-|*9th*
-
-|*18th* |*+6* |*Metamagic* |*6* |*114* |*9th*
-
-|*19th* |*+6* |*Ability Score Improvement* |*6* |*123* |*9th*
-
-|*20th* |*+6* |*Arcone Apotheosis* |*6* |*133* |*9th*
+|*_Level_* |*_Prof. Bonus_* |*_Features_* a                                        | *_Cantrips Known_* |*_Spell Points_* a| *_Max. Spell Level_*
+|*1st*     |*+2*            |*Spellcasting, Sorcerous Origin*                      |*4* |*4* |*1st*
+|*2nd*     |*+2*            |*Metamagic*                                           |*4* |*6* |*1st*
+|*3rd*     |*+2*            |*Magical Guidance*                                    |*4* |*14* |*2nd*
+|*4th*     |*+2*            |*Feat*                                                |*5* |*17* |*2nd*
+|*5th*     |*+3*            |*Sorcerous Restoration (1d6), Sorcerous Vitality*     |*5* |*27* |*3rd*
+|*6th*     |*+3*            |*Sorcerous Origin feature*                            |*5* |*32* |*3rd*
+|*7th*     |*+3*            |*Arcane Eruption, Metamagic*                          |*5* |*38* |*4th*
+|*8th*     |*+3*            |*Feat*                                                |*5* |*44* |*4th*
+|*9th*     |*+4*            |*Arcane Secrets, Sorcerous Vitality Improvement*      |*5* |*57* |*5th*
+|*10th*    |*+4*            |*Sorcery Incarnate*                                   |*6* |*64* |*5th*
+|*11th*    |*+4*            |*Metamagic, Sorcerous Restoration Improvement (1d12)* |*6* |*73* |*6th*
+|*12th*    |*+4*            |*Feat*                                                |*6* |*73* |*6th* 
+|*13th*    |*+5*            |*Arcane Secrets*                                      |*6* |*83* |*7th*
+|*14th*    |*+5*            |*Sorcerous Origin feature*                            |*6* |*83* |*7th*
+|*15th*    |*+5*            |*Arcane Secrets, Metamagic*                           |*6* |*94* |*8th*
+|*16th*    |*+5*            |*Feat*                                                |*6* |*94* |*8th*
+|*17th*    |*+6*            |*Sorcerous Restoration Improvement (2d12)*            |*6* |*107* |*9th*
+|*18th*    |*+6*            |*Metamagic*                                           |*6* |*114* |*9th*
+|*19th*    |*+6*            |*Feat*                                                |*6* |*123* |*9th*
+|*20th*    |*+6*            |*Arcone Apotheosis*                                   |*6* |*133* |*9th*
 |===
 
 [width="99%"]
@@ -307,7 +275,7 @@ you can reroll the d20, and you must use the new roll, potentially
 turning the failure into a success. This trait can be used a number of
 time equal to your Charisma modifier.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -347,7 +315,7 @@ for your number of spells prepared for this class.
 At 7th level, you learn the following metamagic options: Quickened
 Spell, Careful Spell and Extended Spell.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -405,7 +373,7 @@ At 11th level, instead of regaining 1d6 spell points plus your
 proficiency bonus you regain 1d12 spell points plus your proficiency
 bonus.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 12th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -435,7 +403,7 @@ and Necromancy.
 At 15th level, you learn the following metamagic options: Empowered
 Spell and Seeking Spell.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -454,7 +422,7 @@ bonus you regain 2d12 spell points plus your proficiency bonus.
 At 18th level, you learn the following metamagic options:
 AutonomousSpell.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
