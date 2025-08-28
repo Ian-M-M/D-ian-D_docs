@@ -4,72 +4,27 @@
 [width="99%",cols="11%,6%,39%,9%,7%,8%,4%,4%,4%,4%,4%",options="header",]
 |===
 | | | | | | |*_Spell Slots per Spell Level_* | | | |
-|*_Level_* a|
-*_Prof._*
-
-*_Bonus_*
-
-|*_Features_* |*_Infusions Known_* |*_Infused Items_* |*_Cantrips
-Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_*
-
-|*1st* |*+2* |*Optional Rule: Firearm Proficiency, Magical Tinkering,
-Spellcasting* |*—* |*—* |*2* |*2* |*—* |*—* |*—* |*—*
-
-|*2nd* |*+2* |*Infuse Item* |*4* |*2* |*2* |*2* |*—* |*—* |*—* |*—*
-
-|*3rd* |*+2* |
-*Artificer Specialist,*
-
-*The Right Tool for the Job*
-
-|*4* |*2* |*2* |*3* |*—* |*—* |*—* |*—*
-
-|*4th* |*+2* |*Ability Score Improvement* |*4* |*2* |*2* |*3* |*—* |*—*
-|*—* |*—*
-
-|*5th* |*+3* |*Artificer Specialist Feature* |*4* |*2* |*2* |*4* |*2*
-|*—* |*—* |*—*
-
-|*6th* |*+3* |*Tool Expertise* |*6* |*3* |*2* |*4* |*2* |*—* |*—* |*—*
-
-|*7th* |*+3* |*Flash of Genius* |*6* |*3* |*2* |*4* |*3* |*—* |*—* |*—*
-
-|*8th* |*+3* |*Ability Score Improvement* |*6* |*3* |*2* |*4* |*3* |*—*
-|*—* |*—*
-
-|*9th* |*+4* |*Artificer Specialist Feature* |*6* |*3* |*2* |*4* |*3*
-|*2* |*—* |*—*
-
-|*10th* |*+4* |*Magic Item Adept* |*8* |*4* |*3* |*4* |*3* |*2* |*—*
-|*—*
-
-|*11th* |*+4* |*Spell-Storing Item* |*8* |*4* |*3* |*4* |*3* |*3* |*—*
-|*—*
-
-|*12th* |*+4* |*Ability Score Improvement* |*8* |*4* |*3* |*4* |*3* |*3*
-|*—* |*—*
-
-|*13th* |*+5* |*—* |*8* |*4* |*3* |*4* |*3* |*3* |*1* |*—*
-
-|*14th* |*+5* |*Magic Item Savant* |*10* |*5* |*4* |*4* |*3* |*3* |*1*
-|*—*
-
-|*15th* |*+5* |*Artificer Specialist Feature* |*10* |*5* |*4* |*4* |*3*
-|*3* |*2* |*—*
-
-|*16th* |*+5* |*Ability Score Improvement* |*10* |*5* |*4* |*4* |*3*
-|*3* |*2* |*—*
-
-|*17th* |*+6* |*—* |*10* |*5* |*4* |*4* |*3* |*3* |*3* |*1*
-
-|*18th* |*+6* |*Magic Item Master* |*12* |*6* |*4* |*4* |*3* |*3* |*3*
-|*1*
-
-|*19th* |*+6* |*Ability Score Improvement* |*12* |*6* |*4* |*4* |*3*
-|*3* |*3* |*2*
-
-|*20th* |*+6* |*Soul of Artifice* |*12* |*6* |*4* |*4* |*3* |*3* |*3*
-|*2*
+|*_Level_* a|*_Prof. Bonus_*|*_Features_*                                                             |*_Infusions Known_* |*_Infused Items_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_*
+|*1st*      |*+2*           |*Optional Rule: Firearm Proficiency, Magical Tinkering, Spellcasting*    |*—* |*—* |*2* |*2* |*—* |*—* |*—* |*—*
+|*2nd*      |*+2*           |*Infuse Item*                                                            |*4* |*2* |*2* |*2* |*—* |*—* |*—* |*—*
+|*3rd*      |*+2*           |*Artificer Specialist,The Right Tool for the Job*                        |*4* |*2* |*2* |*3* |*—* |*—* |*—* |*—*
+|*4th*      |*+2*           |*Feat*                                                                   |*4* |*2* |*2* |*3* |*—* |*—* |*—* |*—*
+|*5th*      |*+3*           |*Artificer Specialist Feature*                                           |*4* |*2* |*2* |*4* |*2* |*—* |*—* |*—*
+|*6th*      |*+3*           |*Tool Expertise*                                                         |*6* |*3* |*2* |*4* |*2* |*—* |*—* |*—* 
+|*7th*      |*+3*           |*Flash of Genius*                                                        |*6* |*3* |*2* |*4* |*3* |*—* |*—* |*—*
+|*8th*      |*+3*           |*Feat*                                                                   |*6* |*3* |*2* |*4* |*3* |*—* |*—* |*—*
+|*9th*      |*+4*           |*Artificer Specialist Feature*                                           |*6* |*3* |*2* |*4* |*3* |*2* |*—* |*—*
+|*10th*     |*+4*           |*Magic Item Adept*                                                       |*8* |*4* |*3* |*4* |*3* |*2* |*—* |*—*
+|*11th*     |*+4*           |*Spell-Storing Item*                                                     |*8* |*4* |*3* |*4* |*3* |*3* |*—* |*—*
+|*12th*     |*+4*           |*Feat*                                                                   |*8* |*4* |*3* |*4* |*3* |*3* |*—* |*—*
+|*13th*     |*+5*           |*—*                                                                      |*8* |*4* |*3* |*4* |*3* |*3* |*1* |*—*
+|*14th*     |*+5*           |*Magic Item Savant*                                                      |*10* |*5* |*4* |*4* |*3* |*3* |*1* |*—*
+|*15th*     |*+5*           |*Artificer Specialist Feature*                                           |*10* |*5* |*4* |*4* |*3* |*3* |*2* |*—*
+|*16th*     |*+5*           |*Feat*                                                                   |*10* |*5* |*4* |*4* |*3* |*3* |*2* |*—*
+|*17th*     |*+6*           |*—*                                                                      |*10* |*5* |*4* |*4* |*3* |*3* |*3* |*1*
+|*18th*     |*+6*           |*Magic Item Master*                                                      |*12* |*6* |*4* |*4* |*3* |*3* |*3* |*1*
+|*19th*     |*+6*           |*Feat*                                                                   |*12* |*6* |*4* |*4* |*3* |*3* |*3* |*2*
+|*20th*     |*+6*           |*Soul of Artifice*                                                       |*12* |*6* |*4* |*4* |*3* |*3* |*3* |*2*
 |===
 
 === *Spells Added to the Artificer Spell List*
@@ -327,7 +282,7 @@ creation requires 1 hour of uninterrupted work, which can coincide with
 a short or long rest. Though the product of magic, the tools are
 nonmagical, and they vanish when you use this feature again.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -357,7 +312,7 @@ You can use this feature a number of times equal to your Intelligence
 modifier (minimum of once). You regain all expended uses when you finish
 a long rest.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -397,7 +352,7 @@ stays in the object until it's been used a number of times equal to
 twice your Intelligence modifier (minimum of twice) or until you use
 this feature again to store a spell in an object.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 12th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -420,7 +375,7 @@ or using a magic item.
 At 15th level, you gain a feature granted by your Artificer Specialist
 choice.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -433,7 +388,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 18th level, you can attune to up to six magic items at once.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
