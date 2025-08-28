@@ -3,57 +3,27 @@
 [width="100%",cols="11%,6%,54%,9%,4%,4%,4%,4%,4%",options="header",]
 |===
 | | | | |*_Spell Slots per Spell Level_* | | | |
-|*_Level_* a|
-*_Prof._*
-
-*_Bonus_*
-
-|*_Features_* |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_*
-|*_5th_*
-
-|*1st* |*+2* |*Favored Enemy, Favored Terrain, Hunter’s Sense* |*-* |*—*
-|*—* |*—* |*—* |*—*
-
-|*2nd* |*+2* |*Expertise, Fighting Style* |*-* |*—* |*—* |*—* |*—* |*—*
-
-|*3rd* |*+2* |*Nature Magic, Ranger Conclave, Spellcasting* |*2* |*3*
-|*—* |*—* |*—* |*—*
-
-|*4th* |*+2* |*Ability Score Improvement* |*2* |*3* |*—* |*—* |*—* |*—*
-
-|*5th* |*+3* |*Extra Attack* |*2* |*4* |*2* |*—* |*—* |*—*
-
-|*6th* |*+3* |*Greater Favored Enemy, Roving* |*2* |*4* |*2* |*—* |*—*
-|*—*
-
-|*7th* |*+3* |*Ranger Conclave feature* |*2* |*4* |*3* |*—* |*—* |*—*
-
-|*8th* |*+3* |*Ability Score Improvement* |*2* |*4* |*3* |*—* |*—* |*—*
-
-|*9th* |*+4* |*Expertise* |*2* |*4* |*3* |*2* |*—* |*—*
-
-|*10th* |*+4* |*Tireless, Favored Enemy improvement* |*3* |*4* |*3* |*2*
-|*—* |*—*
-
-|*11th* |*+4* |*Ranger Conclave feature* |*3* |*4* |*3* |*3* |*—* |*—*
-
-|*12th* |*+4* |*Ability Score Improvement* |*3* |*4* |*3* |*3* |*—* |*—*
-
-|*13th* |*+5* |*Nature's Veil* |*3* |*4* |*3* |*3* |*1* |*—*
-
-|*14th* |*+5* |*Favored Enemy improvement* |*4* |*4* |*3* |*3* |*1* |*—*
-
-|*15th* |*+5* |*Ranger Conclave feature* |*4* |*4* |*3* |*3* |*2* |*—*
-
-|*16th* |*+5* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*2* |*—*
-
-|*17th* |*+6* |*Feral Senses* |*4* |*4* |*3* |*3* |*3* |*1*
-
-|*18th* |*+6* |*Favored Enemy improvement* |*4* |*4* |*3* |*3* |*3* |*1*
-
-|*19th* |*+6* |*Ability Score Improvement* |*4* |*4* |*3* |*3* |*3* |*2*
-
-|*20th* |*+6* |*Foe Slayer* |*4* |*4* |*3* |*3* |*3* |*2*
+|*_Level_* a|*_Prof. Bonus_* |*_Features_*                                     |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_*
+|*1st*      |*+2*            |*Favored Enemy, Favored Terrain, Hunter’s Sense* |*-* |*—* |*—* |*—* |*—* |*—*
+|*2nd*      |*+2*            |*Expertise, Fighting Style*                      |*-* |*—* |*—* |*—* |*—* |*—*
+|*3rd*      |*+2*            |*Nature Magic, Ranger Conclave, Spellcasting*    |*2* |*3* |*—* |*—* |*—* |*—*
+|*4th*      |*+2*            |*Feat*                                           |*2* |*3* |*—* |*—* |*—* |*—*
+|*5th*      |*+3*            |*Extra Attack*                                   |*2* |*4* |*2* |*—* |*—* |*—* 
+|*6th*      |*+3*            |*Greater Favored Enemy, Roving*                  |*2* |*4* |*2* |*—* |*—* |*—*
+|*7th*      |*+3*            |*Ranger Conclave feature*                        |*2* |*4* |*3* |*—* |*—* |*—*
+|*8th*      |*+3*            |*Feat*                                           |*2* |*4* |*3* |*—* |*—* |*—*
+|*9th*      |*+4*            |*Expertise*                                      |*2* |*4* |*3* |*2* |*—* |*—*
+|*10th*     |*+4*            |*Tireless, Favored Enemy improvement*            |*3* |*4* |*3* |*2* |*—* |*—*
+|*11th*     |*+4*            |*Ranger Conclave feature*                        |*3* |*4* |*3* |*3* |*—* |*—*
+|*12th*     |*+4*            |*Feat*                                           |*3* |*4* |*3* |*3* |*—* |*—*
+|*13th*     |*+5*            |*Nature's Veil*                                  |*3* |*4* |*3* |*3* |*1* |*—*
+|*14th*     |*+5*            |*Favored Enemy improvement*                      |*4* |*4* |*3* |*3* |*1* |*—*
+|*15th*     |*+5*            |*Ranger Conclave feature*                        |*4* |*4* |*3* |*3* |*2* |*—*
+|*16th*     |*+5*            |*Feat*                                           |*4* |*4* |*3* |*3* |*2* |*—*
+|*17th*     |*+6*            |*Feral Senses*                                   |*4* |*4* |*3* |*3* |*3* |*1*
+|*18th*     |*+6*            |*Favored Enemy improvement*                      |*4* |*4* |*3* |*3* |*3* |*1*
+|*19th*     |*+6*            |*Feat*                                           |*4* |*4* |*3* |*3* |*3* |*2*
+|*20th*     |*+6*            |*Foe Slayer*                                     |*4* |*4* |*3* |*3* |*3* |*2*
 |===
 
 [width="99%"]
@@ -374,7 +344,7 @@ spirit appears. The spirit also vanishes if you die
 At 11th level, your spirit gains Multiattack and its attacks counts as
 magical.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 4th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -410,7 +380,7 @@ a climbing speed and a swimming speed equal to your walking speed.
 At 7th level, you gain a feature granted to you by your Ranger
 Archetype.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 8th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -444,7 +414,7 @@ At 10th level, the damage of your Hunter’s Mark spell becomes 1d8.
 At 11th level, you gain a feature granted to you by your Ranger
 Archetype.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 12th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -470,7 +440,7 @@ against that creature on a 19 or 20.
 At 15th level, you gain a feature granted to you by your Ranger
 Archetype.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 16th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
@@ -489,7 +459,7 @@ Blindsight with a range of 30 feet.
 At 18th level, you add your Wisdom modifier to the damage dealt to your
 Prey.
 
-=== *Ability Score Improvement*
+=== *Feat*
 
 When you reach 19th level, you can increase one ability score of your
 choice by 2, or you can increase two ability scores of your choice by 1.
