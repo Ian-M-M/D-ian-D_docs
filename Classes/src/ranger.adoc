@@ -78,6 +78,14 @@ A longbow and a quiver of 20 arrows
 ____
 |===
 
+=== Nature's Sense
+
+At 1st level, as an action you can sense the natural creatures that are 
+up to 60 ft to you. Those creatures are humanoids and beasts.
+
+You can use this feature a number of times equal to your wisdom modifier.
+And you regain all expended uses after a Long Rest.
+
 === Hunter’s Sense
 
 At 1st level, when you hit with an attack you can designate it as your
