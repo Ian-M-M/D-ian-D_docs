@@ -110,15 +110,28 @@ Beginning at 1st level, you have significant experience studying,
 tracking, hunting, and even talking to a certain type of enemy commonly
 encountered in the wilds.
 
-Choose a type of favored enemy: beasts, fey, *humanoids*, monstrosities,
-or undead. You gain a +2 bonus to damage rolls with weapon attacks
-against creatures of the chosen type. Additionally, if you have marked a
-creature of your favored enemy as your Prey, you have advantage
-attacking them.
+Choose a type of favored enemy, and gain the traits related to that given 
+creature type:
 
-When you gain this feature, you also learn one language of your choice,
-typically one spoken by your favored enemy or creatures associated with
-it. However, you are free to pick any language you wish to learn.
+- *Beasts*. You have always prepared the Beast Bond and the Speak with
+Animals spells. 
+- *Fey*. You can give yourself advantage on your next Charisma check, 
+you can use this trait a number of time equals to your wisdom modifier.
+In addition, you gain the Sylvan language. You can sense this creature 
+type while using the Nature's Sense trait.
+- *Humanoids*. At third level you you have always prepared the Detect
+Thoughts spell, and it doesn't require concentration for you. 
+In addition, you gain the languages Elvish and Dwarvish.
+- *Monstrosities* You can partially transform a part of your body to use it 
+as a natural weapon, making your Unarmed Strike deal 1d8 of bluedgoning, 
+slashing or piercing damage, you have to choose the type when using 
+this feature. In addition you gain the language Deep Speech. You 
+can sense this creature type while using the Nature's Sense trait.
+- *Undead.* When you are reduced to 0 hit points but not killed outright,
+you can drop to 1 hit point instead. You can't use this feature again 
+until you finish a long rest. In addition you have always prepared 
+the Speak with Dead spell ath 9th level. You can sense this creature 
+type while using the Nature's Sense trait.
 
 === Favored Terrain
 
