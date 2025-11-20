@@ -1,0 +1,251 @@
+== *Warlock Pacts*
+
+=== The Fiend
+
+You have made a pact with a fiend from the lower planes of existence, a
+being whose aims are evil, even if you strive against those aims. Such
+beings desire the corruption or destruction of all things, ultimately
+including you. Fiends powerful enough to forge a pact include demon
+lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils
+such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and
+balors that are especially mighty; and ultroloths and other lords of the
+yugoloths.
+
+==== 3rd LEVEL: Fiend Expanded Spells
+
+*Expanded Spell List*
+
+[width="100%",cols="28%,72%",options="header",]
+|===
+|Spell Level |Spells
+|1st |burning hands, command
+|2nd |blindness/deafness, scorching ray
+|3rd |fireball, stinking cloud
+|4th |fire shield, wall of fire
+|5th |flame strike, hallow
+|===
+
+The Fiend lets you choose from an expanded list of spells when you learn
+a warlock spell. The following spells are added to the warlock spell
+list for you.
+
+==== 3rd LEVEL: Dark One's Blessing
+
+Starting at 1st level, when you reduce a hostile creature to 0 hit
+points, you gain temporary hit points equal to your Charisma modifier +
+your warlock level (minimum of 1).
+
+==== 6th LEVEL: Dark One's Own Luck
+
+Starting at 6th level, you can call on your patron to alter fate in your
+favor. When you make an ability check or a saving throw, you can use
+this feature to add a d10 to your roll. You can do so after seeing the
+initial roll but before any of the roll's effects occur.
+
+Once you use this feature, you can't use it again until you finish a
+short or long rest.
+
+==== 10th LEVEL: Fiendish Resilience
+
+Starting at 10th level, you can choose one damage type when you finish a
+short or long rest. You gain resistance to that damage type until you
+choose a different one with this feature. Damage from magical weapons or
+silver weapons ignores this resistance.
+
+==== 14th LEVEL: Hurl Through Hell
+
+Starting at 14th level, when you hit a creature with an attack, you can
+use this feature to instantly transport the target through the lower
+planes. The creature disappears and hurtles through a nightmare
+landscape.
+
+At the end of your next turn, the target returns to the space it
+previously occupied, or the nearest unoccupied space. If the target is
+not a fiend, it takes 10d10 psychic damage as it reels from its horrific
+experience.
+
+Once you use this feature, you can't use it again until you finish a
+long rest.
+
+=== The Great Old One
+
+Your patron is a mysterious entity whose nature is utterly foreign to
+the fabric of reality. It might come from the Far Realm, the space
+beyond reality, or it could be one of the elder gods known only in
+legends. Its motives are incomprehensible to mortals, and its knowledge
+so immense and ancient that even the greatest libraries pale in
+comparison to the vast secrets it holds. The Great Old One might be
+unaware of your existence or entirely indifferent to you, but the
+secrets you have learned allow you to draw your magic from it. Entities
+of this type include Ghaunadar, called That Which Lurks; Tharizdun, the
+Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great
+Cthulhu; and other unfathomable beings.
+
+==== 3rd LEVEL: Great Old One Expanded Spell List
+
+The Great Old One lets you choose from an expanded list of spells when
+you learn a warlock spell. The following spells are added to the warlock
+spell list for you.
+
+*Expanded Spells*
+
+[width="100%",cols="21%,79%",options="header",]
+|===
+|Spell Level |Spells
+|1st |dissonant whispers, Tasha's hideous laughter
+|2nd |detect thoughts, phantasmal force
+|3rd |clairvoyance, sending
+|4th |dominate beast, Evard's black tentacles
+|5th |dominate person, telekinesis
+|===
+
+==== 3rd Awakened Mind
+
+Starting at 1st level, your alien knowledge gives you the ability to
+touch the minds of other creatures. You can telepathically speak to any
+creature you can see within 30 feet of you. You don't need to share a
+language with the creature for it to understand your telepathic
+utterances, but the creature must be able to understand at least one
+language.
+
+==== 6th LEVEL: Entropic Ward
+
+At 6th level, you learn to magically ward yourself against attack and to
+turn an enemy's failed strike into good luck for yourself. When a
+creature makes an attack roll against you, you can use your reaction to
+impose disadvantage on that roll. If the attack misses you, your next
+attack roll against the creature has advantage if you make it before the
+end of your next turn.
+
+Once you use this feature, you can't use it again until you finish a
+short or long rest.
+
+==== 10th LEVEL: Thought Shield
+
+Starting at 10th level, your thoughts can't be read by telepathy or
+other means unless you allow it. You also have resistance to psychic
+damage, and whenever a creature deals psychic damage to you, that
+creature takes the same amount of damage that you do.
+
+==== 14th LEVEL: Create Thrall
+
+At 14th level, you gain the ability to infect a humanoid's mind with the
+alien magic of your patron. You can use your action to touch an
+incapacitated humanoid. That creature is then charmed by you until a
+remove curse spell is cast on it, the charmed condition is removed from
+it, or you use this feature again.
+
+You can communicate telepathically with the charmed creature as long as
+the two of you are on the same plane of existence.
+
+=== The Hexblade
+
+You have made your pact with a mysterious entity from the Shadowfell—a
+force that manifests in sentient magic weapons carved from the stuff of
+shadow. The mighty sword Blackrazor is the most notable of these
+weapons, which have been spread across the multiverse over the ages. The
+shadowy force behind these weapons can offer power to warlocks who form
+pacts with it. Many hexblade warlocks create weapons that emulate those
+formed in the Shadowfell. Others forgo such arms, content to weave the
+dark magic of that plane into their spellcasting.
+
+Because the Raven Queen is known to have forged the first of these
+weapons, many sages speculate that she and the force are one and that
+the weapons, along with hexblade warlocks, are tools she uses to
+manipulate events on the Material Plane to her inscrutable ends.
+
+==== 3rd LEVEL: Expanded Spell List
+
+The Hexblade lets you choose from an expanded list of spells when you
+learn a warlock spell. The following spells are added to the warlock
+spell list for you.
+
+*Hexblade Expanded Spells*
+
+[width="100%",cols="24%,76%",options="header",]
+|===
+|*Spell Level* |*Spells*
+|*1st* |*shield, wrathful smite*
+|*2nd* |*blur, branding smite*
+|*3rd* |*blink, elemental weapon*
+|*4th* |*phantasmal killer, staggering smite*
+|*5th* |*banishing smite, cone of cold*
+|===
+
+==== 3rd LEVEL: Hexblade's Curse
+
+Starting at 1st level, you gain the ability to place a baleful curse on
+someone. As a bonus action, choose one creature you can see within 30
+feet of you. The target is cursed for 1 minute. The curse ends early if
+the target dies, you die, or you are incapacitated. Until the curse
+ends, you gain the following benefits:
+
+* {blank}
++
+____
+You gain a bonus to damage rolls against the cursed target. The bonus
+equals your proficiency bonus.
+____
+* {blank}
++
+____
+Any attack roll you make against the cursed target is a critical hit on
+a roll of 19 or 20 on the d20.
+____
+* {blank}
++
+____
+If the cursed target dies, you regain hit points equal to your warlock
+level + your Charisma modifier (minimum of 1 hit point).
+____
+
+You can't use this feature again until you finish a short or long rest.
+
+==== 3rd LEVEL: Hex Warrior
+
+At 1st level, you acquire the training necessary to effectively arm
+yourself for battle. You gain proficiency with medium armor, shields,
+and martial weapons.
+
+The influence of your patron also allows you to mystically channel your
+will through a particular weapon. Whenever you finish a long rest, you
+can touch one weapon that you are proficient with and that lacks the
+two-handed property. When you attack with that weapon, you can use your
+Charisma modifier, instead of Strength or Dexterity, for the attack and
+damage rolls. This benefit lasts until you finish a long rest. If you
+later gain the Pact of the Blade feature, this benefit extends to every
+pact weapon you conjure with that feature, no matter the weapon's type.
+
+==== 6th LEVEL: Accursed Specter
+
+Starting at 6th level, you can curse the soul of a person you slay,
+temporarily binding it to your service. When you slay a humanoid, you
+can cause its spirit to rise from its corpse as a specter, the
+statistics for which are in the Monster Manual. When the specter
+appears, it gains temporary hit points equal to half your warlock level.
+Roll initiative for the specter, which has its own turns. It obeys your
+verbal commands, and it gains a special bonus to its attack rolls equal
+to your Charisma modifier (minimum of +0).
+
+The specter remains in your service until the end of your next long
+rest, at which point it vanishes to the afterlife.
+
+Once you bind a specter with this feature, you can't use the feature
+again until you finish a long rest.
+
+==== 10th LEVEL: Armor of Hexes
+
+At 10th level, your hex grows more powerful. If the target cursed by
+your Hexblade's Curse hits you with an attack roll, you can use your
+reaction to roll a d6. On a 4 or higher, the attack instead misses you,
+regardless of its roll.
+
+==== 14th LEVEL: Master of Hexes
+
+Starting at 14th level, you can spread your Hexblade's Curse from a
+slain creature to another creature. When the creature cursed by your
+Hexblade's Curse dies, you can apply the curse to a different creature
+you can see within 30 feet of you, provided you aren't incapacitated.
+When you apply the curse in this way, you don't regain hit points from
+the death of the previously cursed creature.
+
