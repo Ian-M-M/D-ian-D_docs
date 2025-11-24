@@ -1,0 +1,171 @@
+= Variant Rule Set
+:toc:
+:toc-title: Homebrew Rules Index
+:toclevels: 3
+
+== Flanking
+When a creature and at least one of its allies are adjacent to an enemy and on opposite sides or corners of the enemy's space, they flank that enemy. Each of them gains +2 to hit and damage.
+
+If the flanked target is one size category larger, the bonus to hit and damage is reduced by 1 for each size beyond the creature, down to 0.
+
+== Standard Magic Weapons
+Magic weapons, armor, shields, and spellcasting foci with a +1 or higher bonus require attunement.
+
+== Rest Variant
+=== Short Rest (1 hour)
+Functions as normal, but you cannot spend Hit Dice to heal.
+
+=== Long Rest (8 hours)
+Functions as normal, but you do not heal or regain Hit Dice automatically. Instead, you can spend Hit Dice as if it were a Short Rest.
+
+=== Fully Rested (1 week)
+After one week of non-adventuring, you heal to full hit points and regain half of your total Hit Dice.
+
+== Critical Hit
+A critical hit occurs when you roll a 20 on a d20. You deal the maximum value of your weapon’s base damage dice, then roll damage as normal and add it.
+
+Example:
+
+* Greataxe: 12 + 1d12 + Strength modifier
+* Greatsword: 12 + 2d6 + Strength modifier
+
+This rule only applies to weapon damage, Battle Master maneuvers, Divine Smite, and Sneak Attack.
+
+== Exhaustion
+You gain the *Exhausted* condition when you acquire levels of exhaustion, up to a maximum of 10. At 10 levels, you die.
+
+Each level of exhaustion imposes a -X penalty (X = exhaustion level) to:
+
+* Attack rolls
+* Saving throws
+* Ability checks
+* Your Spell Save DC
+
+Additionally, for each even level of exhaustion, reduce your movement speed by 5 feet.
+
+Finishing a Long Rest removes 1 level of exhaustion. If you remove all levels, you lose the *Exhausted* condition.
+
+== Leveling Up
+When you level up, you retain the same hit points and hit dice as before until you rest to regain them.
+
+== Inspiration Points (DnD One + PF2e Hybrid)
+
+=== Spending Inspiration
+
+* Spend 1 Inspiration Point to reroll your last d20 roll. You must use the new roll.
+* You cannot spend more than 1 Inspiration Point per roll.
+
+=== Gaining Inspiration
+
+* At the start of a session, you gain 1 Inspiration Point.
+* Rolling a natural 20 grants 1 Inspiration Point, up to a maximum of 3.
+* The DM may also award Inspiration for heroic or amusing actions.
+
+=== Losing Inspiration
+
+* Rolling a natural 1 causes you to lose 1 Inspiration Point, minimum 0.
+
+=== Giving Inspiration
+
+* You may give 1 Inspiration Point as a Free Action on your turn.
+
+=== Resetting
+
+* At the end of a session, your total resets to 1.
+
+== Dying Condition (One D&D)
+When reduced to 0 HP, you gain the *Dying* condition, replacing the rules for “Falling Unconscious,” “Death Saves,” and “Stabilizing.”
+
+* You drop to 0 hit points.
+* You are Unconscious.
+
+=== Death Saving Throws
+At the start of your turn, roll a d20:
+
+* 10 or more = success
+* 9 or less = failure
+
+Track three successes or failures:
+
+* 3 failures = you die
+* 3 successes = regain 1 HP and begin a Short Rest, but remain Unconscious
+
+Other rules:
+
+* Rolling a 1 = two failures
+* Rolling a 20 = regain 1 HP
+* Taking damage = 1 failure
+* Taking a critical hit = 2 failures
+* Receiving healing = become stable, remain unconscious until further healing
+* First aid (DC 10 Medicine) = remove Dying condition
+
+== Working Together
+When characters team up, one character can make a check with advantage, provided the helper has proficiency in the relevant skill. In combat, this uses the *Help* action.
+
+== Jumping
+Your jump distance is based on your Speed and Strength.
+
+=== Long Jump
+Distance = Half your Speed + Strength modifier, if you move at least half your Speed beforehand. Standing jump = half distance.
+
+* Clear a low obstacle: DC 10 Strength (Athletics)
+* Land in difficult terrain: DC 10 Dexterity (Acrobatics) or fall prone
+
+=== High Jump
+Leap = Half Speed + Strength modifier (minimum 0) with a 10-foot run-up. Standing high jump = half distance. DM may allow an Athletics check to jump higher.
+
+== Simultaneous Effects
+Effects on a creature are resolved in Last-In-First-Out (LIFO) order.
+
+== Spellcasting
+Adds rules for spell preparation and ritual casting, including new rules for half casters and cantrips.
+
+== Full Casters (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)
+
+=== Cantrips
+
+* Learn cantrips from your class list.
+* Gain one extra cantrip that doesn’t count toward known total.
+* On Ability Score Improvement levels, you may swap a known cantrip.
+
+=== Spell Slots
+Use the slots listed in your class table. Regain all after a Long Rest.
+
+=== Preparing Spells
+After a Long Rest, choose spells from your class list equal to:
+**Spellcasting Ability Modifier + Class Level** (minimum 1).
+
+You can only cast spells of levels for which you have spell slots.
+
+=== Spellcasting Ability & Focus
+Use the ability and focus defined by your class.
+
+=== Ritual Casting
+You may cast prepared spells with the ritual tag as rituals.
+
+== Half Casters (Artificer, Paladin, Ranger)
+
+=== Cantrips
+
+* Prepare 2 cantrips from:
+
+  * Cleric list (Paladin), Druid list (Ranger), Artificer list (Artificer)
+* Gain 1 more at level 10 and another at level 14
+
+=== Spell Slots
+Use the table for your class. Regain all after a Long Rest.
+
+=== Preparing Spells
+After a Long Rest, prepare a number of spells equal to:
+**Spellcasting Ability Modifier + ½ Class Level** (rounded down, minimum 1).
+
+* Gain 1 additional level 1 spell known that doesn’t count against total.
+
+=== Spellcasting Ability & Focus
+Use those defined by your class.
+
+== Quarter Casters
+(Such as subclasses that grant spellcasting)
+
+* Use standard rules as written.
+* Know spells and may only change them upon leveling up.

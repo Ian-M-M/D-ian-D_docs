@@ -1,0 +1,18 @@
+= Encumbrance Reworked
+
+The idea behind this rework is to create a load system that offers more options and ways to play, but comes with risks that make players reflect on whether it’s really necessary or feasible to take all the loot found. This section presents the new proposed rules.
+
+== Carry Weight
+
+* *Maximum Carry Weight:* The total carry weight a PC can carry is:  
+  `Strength score x 15`
+
+* *Heavy Load:* If a PC carries more than their maximum carry weight but less than `(Strength score x 15) + (Strength score x 15) / 10`, their movement speed is halved, and they cannot perform the following actions: `dash`, `climb`, or `dodge`. Each hour the PC carries this load, they gain one level of `exhaustion`.
+
+* *Overloaded:* If a PC carries more than `(Strength score x 15) + (Strength score x 15) / 10`, the PC becomes immobile.
+
+* *Carry Weight Modifiers:* Depending on the character’s size, their maximum carry weight is:
+  ** *Maximum Carry Weight Tiny/Small:*  
+     `(Strength score x 15)/2`
+  ** *Maximum Carry Weight Large/Huge:*  
+     `Strength score x 15 x 2`

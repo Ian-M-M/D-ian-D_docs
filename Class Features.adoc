@@ -1,0 +1,889 @@
+= Class Features
+:toc:
+:toc-title: Class Features Index
+:toclevels: 3
+
+== Artificer - Infusions
+
+=== Arcane Propulsion Armor
+Prerequisite: 14th-level artificer Item: A suit of armor (requires attunement)
+
+The wearer's walking speed increases by 5 feet.
+
+The armor includes gauntlets, each of which is a magic melee weapon. They deal 1d8 force damage, have the thrown property (20/60 ft), and return after being thrown.
+
+The armor can't be removed against the wearer's will.
+
+If the wearer is missing limbs, the armor replaces them with functional equivalents.
+
+=== Armor of Magical Strength
+Item: A suit of armor (requires attunement)
+
+This armor has 6 charges.
+
+Spend 1 charge to add your Intelligence modifier to a Strength check or save.
+
+Spend 1 charge as a reaction to avoid being knocked prone.
+
+Regains 1d6 charges daily at dawn.
+
+=== Boots of the Winding Path
+Prerequisite: 6th-level artificer Item: A pair of boots (requires attunement)
+
+You can teleport up to 15 feet as a bonus action to a space you previously occupied this turn.
+
+=== Enhanced Arcane Focus
+Item: A rod, staff, or wand (requires attunement)
+
++1 bonus to spell attack rolls.
+
+Ignores half cover.
+
+Bonus increases to +2 at 10th level.
+
+=== Enhanced Defense
+Item: A suit of armor or a shield
+
++1 bonus to AC.
+
+Bonus increases to +2 at 10th level.
+
+=== Enhanced Weapon
+Item: A simple or martial weapon
+
++1 bonus to attack and damage rolls.
+
+Bonus increases to +2 at 10th level.
+
+=== Helm of Awareness
+Prerequisite: 10th-level artificer Item: A helmet (requires attunement)
+
+Advantage on initiative rolls.
+
+Can't be surprised unless incapacitated.
+
+=== Homunculus Servant
+Item: A gem or crystal worth at least 100 gp
+
+You create a magical homunculus servant using the infused item as its heart.
+
+Shares your initiative but acts after you.
+
+Uses Dodge unless commanded (bonus action).
+
+If you’re incapacitated, it can act freely.
+
+Regains 2d6 HP with mending.
+
+Vanishes on death, leaving the heart.
+
+==== Homunculus Servant Stat Block
+Tiny construct
+
+AC 13
+
+HP = 1 + INT mod + artificer level (Hit Dice = artificer level d4s)
+
+Speed: 20 ft., Fly 30 ft.
+
+STR 4 (-3), DEX 15 (+2), CON 12 (+1), INT 10 (+0), WIS 10 (+0), CHA 7 (−2)
+
+Saves: Dex +2 + PB
+
+Skills: Perception +PB×2, Stealth +2 + PB
+
+Damage Immunities: poison
+
+Condition Immunities: exhaustion, poisoned
+
+Senses: Darkvision 60 ft., Passive Perception 10 + PB×2
+
+Languages: Understands languages you speak
+
+Evasion: Avoid all or half damage on Dex saves.
+
+Force Strike (Action): Ranged spell attack (range 30 ft.), 1d4 + PB force damage.
+
+Channel Magic (Reaction): Deliver a touch spell within 120 ft.
+
+=== Mind Sharpener
+Item: A suit of armor or robes
+
+4 charges.
+
+When failing a concentration save, spend 1 charge to succeed.
+
+Regains 1d4 charges daily at dawn.
+
+=== Radiant Weapon
+Prerequisite: 6th-level artificer Item: Simple or martial weapon (requires attunement)
+
++1 bonus to attack and damage rolls.
+
+Bonus action: emit bright light (30 ft), dim light (30 ft).
+
+4 charges. Reaction on hit: spend 1 charge to blind attacker (Con save vs. spell DC).
+
+Regains 1d4 charges at dawn.
+
+=== Repeating Shot
+Item: Simple or martial ranged weapon (requires attunement)
+
++1 bonus to attack and damage rolls.
+
+Ignores loading property.
+
+Creates its own magical ammunition.
+
+=== Replicate Magic Item
+Replicate a magic item from a list based on artificer level. Each choice must be unique.
+
+Common items and others listed in the Dungeon Master’s Guide or Xanathar’s Guide are valid.
+
+=== Repulsion Shield
+Prerequisite: 6th-level artificer Item: A shield (requires attunement)
+
++1 bonus to AC.
+
+4 charges. On being hit by a melee attack, spend 1 charge to push attacker 15 ft.
+
+Regains 1d4 charges at dawn.
+
+=== Resistant Armor
+Prerequisite: 6th-level artificer Item: A suit of armor (requires attunement)
+
+Gain resistance to one damage type: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+
+=== Returning Weapon
+Item: Thrown simple or martial weapon
+
++1 bonus to attack and damage.
+
+Automatically returns to wielder after being thrown.
+
+=== Spell-Refueling Ring
+Prerequisite: 6th-level artificer Item: A ring (requires attunement)
+
+Once per day, recover a 3rd-level or lower spell slot as an action.
+
+=== Arcane Propulsion Armor
+Prerequisite: 14th-level artificer Item: A suit of armor (requires attunement)
+
+The wearer's walking speed increases by 5 feet.
+
+The armor includes gauntlets, each of which is a magic melee weapon. They deal 1d8 force damage, have the thrown property (20/60 ft), and return after being thrown.
+
+The armor can't be removed against the wearer's will.
+
+If the wearer is missing limbs, the armor replaces them with functional equivalents.
+
+=== Armor of Magical Strength
+Item: A suit of armor (requires attunement)
+
+This armor has 6 charges.
+
+Spend 1 charge to add your Intelligence modifier to a Strength check or save.
+
+Spend 1 charge as a reaction to avoid being knocked prone.
+
+Regains 1d6 charges daily at dawn.
+
+=== Boots of the Winding Path
+Prerequisite: 6th-level artificer Item: A pair of boots (requires attunement)
+
+You can teleport up to 15 feet as a bonus action to a space you previously occupied this turn.
+
+=== Enhanced Arcane Focus
+Item: A rod, staff, or wand (requires attunement)
+
++1 bonus to spell attack rolls.
+
+Ignores half cover.
+
+Bonus increases to +2 at 10th level.
+
+=== Enhanced Defense
+Item: A suit of armor or a shield
+
++1 bonus to AC.
+
+Bonus increases to +2 at 10th level.
+
+=== Enhanced Weapon
+Item: A simple or martial weapon
+
++1 bonus to attack and damage rolls.
+
+Bonus increases to +2 at 10th level.
+
+=== Helm of Awareness
+Prerequisite: 10th-level artificer Item: A helmet (requires attunement)
+
+Advantage on initiative rolls.
+
+Can't be surprised unless incapacitated.
+
+=== Homunculus Servant
+Item: A gem or crystal worth at least 100 gp
+
+You create a magical homunculus servant using the infused item as its heart.
+
+Shares your initiative but acts after you.
+
+Uses Dodge unless commanded (bonus action).
+
+If you’re incapacitated, it can act freely.
+
+Regains 2d6 HP with mending.
+
+Vanishes on death, leaving the heart.
+
+==== Homunculus Servant Stat Block
+Tiny construct
+
+AC 13
+
+HP = 1 + INT mod + artificer level (Hit Dice = artificer level d4s)
+
+Speed: 20 ft., Fly 30 ft.
+
+STR 4 (-3), DEX 15 (+2), CON 12 (+1), INT 10 (+0), WIS 10 (+0), CHA 7 (−2)
+
+Saves: Dex +2 + PB
+
+Skills: Perception +PB×2, Stealth +2 + PB
+
+Damage Immunities: poison
+
+Condition Immunities: exhaustion, poisoned
+
+Senses: Darkvision 60 ft., Passive Perception 10 + PB×2
+
+Languages: Understands languages you speak
+
+Evasion: Avoid all or half damage on Dex saves.
+
+Force Strike (Action): Ranged spell attack (range 30 ft.), 1d4 + PB force damage.
+
+Channel Magic (Reaction): Deliver a touch spell within 120 ft.
+
+=== Mind Sharpener
+Item: A suit of armor or robes
+
+4 charges.
+
+When failing a concentration save, spend 1 charge to succeed.
+
+Regains 1d4 charges daily at dawn.
+
+=== Radiant Weapon
+Prerequisite: 6th-level artificer Item: Simple or martial weapon (requires attunement)
+
++1 bonus to attack and damage rolls.
+
+Bonus action: emit bright light (30 ft), dim light (30 ft).
+
+4 charges. Reaction on hit: spend 1 charge to blind attacker (Con save vs. spell DC).
+
+Regains 1d4 charges at dawn.
+
+=== Repeating Shot
+Item: Simple or martial ranged weapon (requires attunement)
+
++1 bonus to attack and damage rolls.
+
+Ignores loading property.
+
+Creates its own magical ammunition.
+
+=== Replicate Magic Item
+Replicate a magic item from a list based on artificer level. Each choice must be unique.
+
+Common items and others listed in the Dungeon Master’s Guide or Xanathar’s Guide are valid.
+
+=== Repulsion Shield
+Prerequisite: 6th-level artificer Item: A shield (requires attunement)
+
++1 bonus to AC.
+
+4 charges. On being hit by a melee attack, spend 1 charge to push attacker 15 ft.
+
+Regains 1d4 charges at dawn.
+
+=== Resistant Armor
+Prerequisite: 6th-level artificer Item: A suit of armor (requires attunement)
+
+Gain resistance to one damage type: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+
+=== Returning Weapon
+Item: Thrown simple or martial weapon
+
++1 bonus to attack and damage.
+
+Automatically returns to wielder after being thrown.
+
+=== Spell-Refueling Ring
+Prerequisite: 6th-level artificer Item: A ring (requires attunement)
+
+Once per day, recover a 3rd-level or lower spell slot as an action.
+
+=== Arcane Propulsion Armor
+Prerequisite: 14th-level artificer Item: A suit of armor (requires attunement)
+
+The wearer's walking speed increases by 5 feet.
+
+The armor includes gauntlets, each of which is a magic melee weapon. They deal 1d8 force damage, have the thrown property (20/60 ft), and return after being thrown.
+
+The armor can't be removed against the wearer's will.
+
+If the wearer is missing limbs, the armor replaces them with functional equivalents.
+
+=== Armor of Magical Strength
+Item: A suit of armor (requires attunement)
+
+This armor has 6 charges.
+
+Spend 1 charge to add your Intelligence modifier to a Strength check or save.
+
+Spend 1 charge as a reaction to avoid being knocked prone.
+
+Regains 1d6 charges daily at dawn.
+
+=== Boots of the Winding Path
+Prerequisite: 6th-level artificer Item: A pair of boots (requires attunement)
+
+You can teleport up to 15 feet as a bonus action to a space you previously occupied this turn.
+
+=== Enhanced Arcane Focus
+Item: A rod, staff, or wand (requires attunement)
+
++1 bonus to spell attack rolls.
+
+Ignores half cover.
+
+Bonus increases to +2 at 10th level.
+
+=== Enhanced Defense
+Item: A suit of armor or a shield
+
++1 bonus to AC.
+
+Bonus increases to +2 at 10th level.
+
+=== Enhanced Weapon
+Item: A simple or martial weapon
+
++1 bonus to attack and damage rolls.
+
+Bonus increases to +2 at 10th level.
+
+=== Helm of Awareness
+Prerequisite: 10th-level artificer Item: A helmet (requires attunement)
+
+Advantage on initiative rolls.
+
+Can't be surprised unless incapacitated.
+
+=== Homunculus Servant
+Item: A gem or crystal worth at least 100 gp
+
+You create a magical homunculus servant using the infused item as its heart.
+
+Shares your initiative but acts after you.
+
+Uses Dodge unless commanded (bonus action).
+
+If you’re incapacitated, it can act freely.
+
+Regains 2d6 HP with mending.
+
+Vanishes on death, leaving the heart.
+
+==== Homunculus Servant Stat Block
+Tiny construct
+
+AC 13
+
+HP = 1 + INT mod + artificer level (Hit Dice = artificer level d4s)
+
+Speed: 20 ft., Fly 30 ft.
+
+STR 4 (-3), DEX 15 (+2), CON 12 (+1), INT 10 (+0), WIS 10 (+0), CHA 7 (−2)
+
+Saves: Dex +2 + PB
+
+Skills: Perception +PB×2, Stealth +2 + PB
+
+Damage Immunities: poison
+
+Condition Immunities: exhaustion, poisoned
+
+Senses: Darkvision 60 ft., Passive Perception 10 + PB×2
+
+Languages: Understands languages you speak
+
+Evasion: Avoid all or half damage on Dex saves.
+
+Force Strike (Action): Ranged spell attack (range 30 ft.), 1d4 + PB force damage.
+
+Channel Magic (Reaction): Deliver a touch spell within 120 ft.
+
+=== Mind Sharpener
+Item: A suit of armor or robes
+
+4 charges.
+
+When failing a concentration save, spend 1 charge to succeed.
+
+Regains 1d4 charges daily at dawn.
+
+=== Radiant Weapon
+Prerequisite: 6th-level artificer Item: Simple or martial weapon (requires attunement)
+
++1 bonus to attack and damage rolls.
+
+Bonus action: emit bright light (30 ft), dim light (30 ft).
+
+4 charges. Reaction on hit: spend 1 charge to blind attacker (Con save vs. spell DC).
+
+Regains 1d4 charges at dawn.
+
+=== Repeating Shot
+Item: Simple or martial ranged weapon (requires attunement)
+
++1 bonus to attack and damage rolls.
+
+Ignores loading property.
+
+Creates its own magical ammunition.
+
+=== Replicate Magic Item
+Replicate a magic item from a list based on artificer level. Each choice must be unique.
+
+Common items and others listed in the Dungeon Master’s Guide or Xanathar’s Guide are valid.
+
+=== Repulsion Shield
+Prerequisite: 6th-level artificer Item: A shield (requires attunement)
+
++1 bonus to AC.
+
+4 charges. On being hit by a melee attack, spend 1 charge to push attacker 15 ft.
+
+Regains 1d4 charges at dawn.
+
+=== Resistant Armor
+Prerequisite: 6th-level artificer Item: A suit of armor (requires attunement)
+
+Gain resistance to one damage type: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+
+=== Returning Weapon
+Item: Thrown simple or martial weapon
+
++1 bonus to attack and damage.
+
+Automatically returns to wielder after being thrown.
+
+=== Spell-Refueling Ring
+Prerequisite: 6th-level artificer Item: A ring (requires attunement)
+
+Once per day, recover a 3rd-level or lower spell slot as an action.
+== Druid - Animalistic Invocation
+
+=== Pack Tactics
+Prerequisite: None
+
+You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and isn't incapacitated.
+
+=== Keen Smell
+Prerequisite: None
+
+You have advantage on Wisdom (Perception) checks that rely on smell.
+
+=== Keen Hearing
+Prerequisite: None
+
+You have advantage on Wisdom (Perception) checks that rely on hearing.
+
+=== Charge
+Prerequisite: None
+
+If you move at least 20 feet straight toward a target and then hit it with an attack on the same turn, the target takes an extra 4 (1d8) bludgeoning damage. If the target is a creature, it must succeed on a Strength saving throw against your DC or be knocked prone.
+
+=== Sure-Footed
+Prerequisite: None
+
+You have advantage on Strength and Dexterity saving throws against effects that would knock you prone.
+
+=== Poisonous Bite
+Prerequisite: The form requires piercing damage
+
+On a hit, the target must make a Constitution saving throw against your DC, taking 5 (2d8) poison damage on a failed save, or half on a success.
+
+=== Constrict
+Prerequisite: None
+
+On a hit, the target is grappled (escape DC 8 + your Wildshape Strength). While grappled, the target is restrained, and you can't constrict another target.
+
+=== Amphibious
+Prerequisite: Aquatic Form
+
+You can breathe both air and water.
+
+=== Blood Frenzy
+Prerequisite: Aquatic Form
+
+You have advantage on melee attack rolls against any creature that doesn't have all its hit points.
+
+=== Relentless
+Prerequisite: Aquatic Form
+
+(Recharges after a Short or Long Rest) If damage would reduce you to 0 hit points, you are reduced to 1 instead.
+
+=== Mimicry
+Prerequisite: Aerial Form
+
+You can mimic simple sounds. A creature can discern the imitations with a successful Wisdom (Insight) check against your DC.
+
+=== Flyby
+Prerequisite: Aerial Form
+
+You don’t provoke opportunity attacks when flying out of an enemy's reach.
+
+== Fighter - Arcane Shot Options
+
+=== Banishing Shot
+Use abjuration magic to temporarily banish your target to the Feywild. Target must succeed on a Charisma saving throw or be banished until the end of its next turn.
+
+At 15th level, it also takes 2d6 force damage on hit.
+
+=== Beguiling Shot
+Adds 2d6 psychic damage. Target must make a Wisdom saving throw or be charmed by an ally within 30 feet until the start of your next turn.
+
+Damage increases to 4d6 at 15th level.
+
+=== Bursting Shot
+After a hit, the target and all other creatures within 10 feet take 2d6 force damage.
+
+Damage increases to 4d6 at 15th level.
+
+=== Enfeebling Shot
+Adds 2d6 necrotic damage. Target must make a Constitution save or deal half damage with weapon attacks until the start of your next turn.
+
+Damage increases to 4d6 at 15th level.
+
+=== Grasping Shot
+Adds 2d6 poison damage. Target’s speed is reduced by 10 ft. Takes 2d6 slashing damage if it moves without teleporting. Brambles last 1 minute or until reused.
+
+Damage increases to 4d6 at 15th level.
+
+=== Piercing Shot
+Fires in a 30-foot line. Each creature must make a Dexterity save, taking damage as if hit, plus 1d6 piercing damage (or half on a save).
+
+Damage increases to 2d6 at 15th level.
+
+=== Seeking Shot
+Choose a target seen within 1 minute. Shot curves toward target, bypasses cover. Target must make a Dexterity save or take full damage and reveal location. Half damage on a success.
+
+Damage increases to 2d6 force at 15th level.
+
+=== Shadow Shot
+Adds 2d6 psychic damage. Target must succeed on a Wisdom save or be unable to see beyond 5 ft until start of your next turn.
+
+Damage increases to 4d6 at 15th level.
+
+== Fighter - Battle Maneuvers
+
+=== Commander's Strike
+Forego one attack to use a bonus action and command an ally to attack. Ally adds superiority die to damage.
+
+=== Disarming Attack
+Expend a superiority die to disarm a target on hit. Target makes a Strength save or drops held item.
+
+=== Distracting Strike
+Expend a superiority die on hit. Next attack against the target has advantage if made before your next turn.
+
+=== Evasive Footwork
+When you move, expend a superiority die to add the roll to your AC until you stop moving.
+
+=== Feinting Attack
+Bonus action to feint. Gain advantage on next attack this turn against one creature. Add superiority die to damage.
+
+=== Goading Attack
+Expend a superiority die on hit. Target makes a Wisdom save or has disadvantage on attacks against targets other than you until your next turn.
+
+=== Lunging Attack
+Expend a superiority die to increase reach by 5 ft on an attack. Add die to damage.
+
+=== Maneuvering Attack
+Expend a superiority die on hit. An ally who can see or hear you may move up to half speed without provoking opportunity attacks from the target.
+
+=== Menacing Attack
+Expend a superiority die on hit. Target must make a Wisdom save or be frightened until end of your next turn.
+
+=== Parry
+Use reaction when damaged by melee attack. Expend a superiority die to reduce damage by the die + your Dexterity modifier.
+
+=== Precision Attack
+Expend a superiority die to add to an attack roll, before or after the roll (but before effects are applied).
+
+=== Pushing Attack
+Expend a superiority die on hit. If target is Large or smaller, they must make a Strength save or be pushed up to 15 feet away.
+
+=== Rally
+Bonus action to expend a superiority die. An ally gains temp HP equal to the die + your Charisma modifier.
+
+=== Riposte
+Use reaction when a creature misses you with a melee attack. Make a melee attack and add superiority die to the damage.
+
+=== Sweeping Attack
+On melee hit, expend a superiority die to hit another creature within 5 ft of the target. If the same attack roll hits, deal damage equal to the superiority die.
+
+=== Trip Attack
+Expend a superiority die on hit. If target is Large or smaller, they must make a Strength save or be knocked prone.
+
+=== Ambush
+When rolling Stealth or initiative, expend a superiority die and add the die to the roll.
+
+=== Bait and Switch
+Switch places with an ally within 5 ft using 5 ft of movement. Roll a superiority die; you or the ally gains that much AC until your next turn.
+
+=== Brace
+When a creature enters your reach, use reaction and expend a superiority die to make a melee weapon attack. Add die to damage.
+
+=== Commanding Presence
+Expend a superiority die to add it to a Charisma (Intimidation, Performance, or Persuasion) check.
+
+=== Grappling Strike
+After hitting with a melee attack, expend a superiority die to attempt a grapple as a bonus action. Add die to the Athletics check.
+
+=== Quick Toss
+As a bonus action, expend a superiority die to throw a weapon with the thrown property. Draw weapon as part of the attack. Add die to damage.
+
+=== Tactical Assessment
+Expend a superiority die to add to an Intelligence (Investigation, History) or Wisdom (Insight) check.
+
+== Fighter - Weapon Masteries
+
+=== Cleave
+Prerequisite: Melee weapon with Heavy property Make a second attack on a different creature within 5 ft. No ability modifier added to this extra attack.
+
+=== Flex
+Prerequisite: Versatile weaponDeal the weapon’s versatile damage even with one hand.
+
+=== Graze
+Prerequisite: Melee weapon with Heavy property On a miss, deal damage equal to your ability modifier.
+
+=== Nick
+Prerequisite: Light weapon Make the Light weapon's extra attack as part of the Attack action instead of a bonus action.
+
+=== Push
+Prerequisite: Heavy, Two-Handed, or Versatile weapon On hit, push a creature up to 5 feet away if it is no more than one size larger than you.
+
+=== Sap
+Prerequisite: Weapon with no propertiesOn hit, the target has disadvantage on its next attack roll before your next turn.
+
+=== Slow
+Prerequisite: NoneOn hit, reduce target’s speed by 10 feet until the start of your next turn.
+
+=== Topple
+Prerequisite: Heavy, Reach, or Versatile weapon On hit, force the target to make a Constitution saving throw (DC = 8 + PB + ability mod). On failure, the target falls prone.
+
+=== Vex
+Prerequisite: Ammunition, Finesse, or Light weapon On hit, gain advantage on your next attack roll against the creature before your next turn.
+
+== Sorcerer - Metamagics
+
+=== Autonomous Spell
+Cost: 13 Spell Points You can cast a concentration spell without needing to concentrate. Only one autonomous spell can be active at a time.
+
+=== Careful Spell
+Cost: 3 Spell Points Protect a number of creatures up to your Charisma modifier from your spell’s effects. They automatically succeed on the saving throw and take no damage on a success.
+
+=== Distant Spell
+Cost: 1 Spell Point Extend range of a spell by 30 feet per Sorcerer level or make a touch spell reach 30 feet.
+
+=== Empowered Spell
+Cost: 5 Spell Points Deal maximum damage with a spell you cast.
+
+=== Extended Spell
+Cost: 1 Spell Point per doublingDouble the duration of a spell with 1-minute duration or longer. Max duration: 24 hours. Gain advantage on Concentration saves.
+
+=== Heightened Spell
+Cost: 5 Spell Points Give one target disadvantage on saving throws against a spell.
+
+=== Quickened Spell
+Cost: 3 Spell Points Change casting time of a spell from action to bonus action. You can’t cast another leveled spell this turn.
+
+=== Seeking Spell
+Cost: 5 Spell Points Automatically hit a target with a spell attack.
+
+=== Subtle Spell
+Cost: 1 Spell Point Cast a spell without Verbal, Somatic, or Material components (unless consumed).
+
+=== Transmuted Spell
+Cost: 1 Spell Point Change spell damage type among: acid, cold, fire, lightning, poison, thunder.
+
+=== Twinned Spell
+Cost: Spell level (or 1 point for cantrips)When casting a single-target spell, target a second creature in range.
+
+== Sorcerer - Wild Table
+
+[%header,cols="1,2"]
+|===
+|d100 | Effect
+|01–02 | Roll on this table at the start of each of your turns for 1 minute.
+|03–04 | You can see invisible creatures with line of sight for 1 minute.
+|05–06 | A modron appears for 1 minute.
+|07–08 | You cast fireball on yourself.
+|09–10 | You cast magic missile as a 5th-level spell.
+|11–12 | Your height changes by inches equal to a d10 roll.
+|13–14 | You cast confusion on yourself.
+|15–16 | Regain 5 HP at the start of each turn for 1 minute.
+|17–18 | Grow a feather beard that explodes when sneezed.
+|19–20 | Cast grease on yourself.
+|21–22 | Creatures have disadvantage on your next spell save.
+|23–24 | Your skin turns blue.
+|25–26 | An eye appears on your forehead. Advantage on Perception (sight).
+|27–28 | All 1-action spells become bonus action spells for 1 minute.
+|29–30 | Teleport up to 60 feet to an unoccupied space.
+|31–32 | Transported to Astral Plane until end of next turn.
+|33–34 | Maximize next damaging spell within 1 minute.
+|35–36 | Your age changes by years equal to a d10 roll.
+|37–38 | 1d6 flumphs appear and fear you.
+|39–40 | Regain 2d10 HP.
+|41–42 | Turn into a potted plant until your next turn.
+|43–44 | Teleport 20 feet as bonus action for 1 minute.
+|45–46 | Cast levitate on yourself.
+|47–48 | A unicorn appears for 1 minute.
+|49–50 | You can’t speak for 1 minute; bubbles come out.
+|51–52 | A +2 spectral shield grants AC bonus and magic missile immunity.
+|53–54 | Immune to alcohol intoxication for 5d6 days.
+|55–56 | Hair falls out and regrows in 24 hours.
+|57–58 | Objects you touch ignite if flammable.
+|59–60 | Regain your lowest-level expended spell slot.
+|61–62 | You must shout when you speak for 1 minute.
+|63–64 | Cast fog cloud on yourself.
+|65–66 | Up to 3 creatures take 4d10 lightning damage.
+|67–68 | Frightened by the nearest creature.
+|69–70 | All creatures within 30 ft become invisible for 1 minute.
+|71–72 | Gain resistance to all damage for 1 minute.
+|73–74 | A random creature becomes poisoned for 1d4 hours.
+|75–76 | Glow brightly; nearby creatures are blinded.
+|77–78 | Cast polymorph on yourself. Fail = turn into sheep.
+|79–80 | Illusory butterflies/petals appear around you.
+|81–82 | Take one additional action immediately.
+|83–84 | All nearby creatures take 1d10 necrotic; you regain HP.
+|85–86 | Cast mirror image.
+|87–88 | Cast fly on a random creature.
+|89–90 | Become invisible and silent for 1 minute.
+|91–92 | Reincarnate if you die within 1 minute.
+|93–94 | Grow one size category for 1 minute.
+|95–96 | You and creatures nearby become vulnerable to piercing.
+|97–98 | Faint music surrounds you.
+|99–00 | Regain all expended Spell Points.
+|===
+
+== Warlock - Eldritch Invocations
+
+=== Voice of the Chain Master
+Prerequisite: Pact of the Chain Communicate and perceive through your familiar. Speak through it.
+
+=== Thief of Five Fates
+Cast bane once per long rest using a warlock spell slot.
+
+=== Repelling Blast
+Prerequisite: eldritch blast Push the target 10 ft away when you hit with eldritch blast.
+
+=== Rebuke of the Talisman
+Prerequisite: Pact of the Talisman As reaction, deal PB psychic damage to attacker and push it 10 ft away.
+
+=== Misty Visions
+Cast silent image at will without expending a spell slot.
+
+=== Mask of Many Faces
+Cast disguise self at will without expending a spell slot.
+
+=== Lance of Lethargy
+Prerequisite: eldritch blastOn hit, reduce target speed by 10 ft until your next turn.
+
+=== Investment of the Chain Master
+Prerequisite: Pact of the Chain Your familiar gains fly or swim speed, can attack, delivers spells, and resists damage with your reaction.
+
+=== Improved Pact Weapon
+Prerequisite: Pact of the Blade Your pact weapon becomes a spellcasting focus, gains +1 to attack/damage, and may be a bow or crossbow.
+
+=== Grasp of Hadar
+Prerequisite: eldritch blast On hit, pull the target 10 ft closer.
+
+=== Gift of the Ever-Living Ones
+Prerequisite: Pact of the Chain While your familiar is within 100 ft, all healing dice roll max value.
+
+=== Gaze of Two Minds
+Use your action to perceive through a willing humanoid's senses. Extend each round with an action.
+
+=== Fiendish Vigor
+Cast false life at will as a 1st-level spell.
+
+=== Eyes of the Rune Keeper
+You can read all writing.
+
+=== Eldritch Spear
+Prerequisite: eldritch blast Increases range to 300 ft.
+
+=== Eldritch Sight
+Cast detect magic at will.
+
+=== Eldritch Mind
+Advantage on Constitution saves to maintain concentration.
+
+=== Devil's Sight
+See normally in magical and non-magical darkness to 120 ft.
+
+=== Book of Ancient Secrets
+Prerequisite: Pact of the TomeLearn two ritual spells from any list. Can add more rituals to your Book of Shadows with time and cost.
+
+=== Beguiling Influence
+Gain proficiency in Deception and Persuasion.
+
+=== Beast Speech
+Cast speak with animals at will.
+
+=== Aspect of the Moon
+Prerequisite: Pact of the Tome No longer need sleep; can take long rests while reading or keeping watch.
+
+=== Armor of Shadows
+Cast mage armor at will.
+
+=== Agonizing Blast
+Prerequisite: eldritch blast Add your Charisma modifier to the damage.
+
+=== Minions of Chaos
+Prerequisite: 9th level Cast conjure elemental once per long rest using a warlock spell slot.
+
+=== Otherworldly Leap
+Prerequisite: 9th level Cast jump on yourself at will, without a spell slot or components.
+
+=== Whispers of the Grave
+Prerequisite: 9th level Cast speak with dead at will.
+
+=== Bond of the Talisman
+Prerequisite: 12th level, Pact of the Talisman Use action to teleport to talisman wearer or vice versa if on same plane. Usable PB times per long rest.
+
+=== Lifedrinker
+Prerequisite: 12th level, Pact of the Blade Your pact weapon deals extra necrotic damage equal to your Charisma modifier.
+
+=== Chains of Carceri
+Prerequisite: 15th level, Pact of the ChainCast hold monster at will on celestials, fiends, or elementals. One use per creature per long rest.
+
+=== Master of Myriad Forms
+Prerequisite: 15th level Cast alter self at will.
+
+=== Shroud of Shadow
+Prerequisite: 15th level Cast invisibility at will.
+
+=== Visions of Distant Realms
+Prerequisite: 15th level Cast arcane eye at will.
+
+=== Witch Sight
+Prerequisite: 15th level See the true form of any shapechanger or illusion/concealment effect within 30 ft if within line of sight.
+

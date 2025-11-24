@@ -1,0 +1,56 @@
+== Character Creation Overview
+
+Creating a character is a journey of both mechanics and imagination. Follow the steps below to build a unique adventurer who will take part in epic tales across the realms. Each section includes a reference to additional information to guide your choices.
+
+=== Lineage
+Select your character's *lineage*, which determines their ancestral heritage, traits, and abilities. Your lineage shapes your character’s innate magic, senses, resistances, and other unique features that will influence their journey.
+
+link:https://d-ian-d.ian-m-m.com/races.html#aasimar_hmb[Choose your lineage →]
+
+=== Class
+Your class defines your character's role, capabilities, and special features they acquire as they grow in power. Whether you're a cunning rogue, a scholarly wizard, or a brilliant artificer, your class provides the foundation of your adventuring style.
+
+link:https://d-ian-d.ian-m-m.com/classes.html#artificer_tce[Choose your class →]
+
+=== Ability Scores
+Use the *Point Buy* method to determine your character’s core attributes: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. These scores affect every aspect of your character’s performance, from spellcasting to combat prowess.
+
+link:https://d-ian-d.ian-m-m.com/statgen.html#rolledl[Generate your ability scores →]
+
+=== Background
+Your character's *background* provides a glimpse into their past and grants proficiencies, languages, and other features that reflect their life before becoming an adventurer.
+
+link:https://d-ian-d.ian-m-m.com/backgrounds.html#acolyte_phb[Choose your background →]
+
+=== Ability Score Improvements
+Assign your background’s ability score improvements. You may choose one of the following distributions:
+ +2 to one ability score and +1 to another, or
+ +1 to three different ability scores.
+
+=== Skill Proficiencies
+Select two skills in which your character is proficient. These represent areas where your character has received training or has natural aptitude.
+
+=== Tool Proficiency
+Choose one type of tool. Your character gains proficiency with this tool, allowing them to use it effectively.
+
+=== Language
+Select one additional language. Your character gains proficiency in this language, allowing them to read, write, and speak it fluently.
+
+=== Feat
+You may select one feat at 1st level, provided it meets the following criteria:
+- It does not grant any ability score increases.
+- You meet all prerequisites for the feat.
+- It fits thematically with your character’s background and personal story.
+
+=== Equipment
+Start with the equipment provided by your chosen class. In addition, your character begins with *50 gold pieces* (gp) to spend on extra gear, supplies, or personal items.
+
+=== Bio
+Complete your character sheet with the following personal details:
+- *Name*
+- *Age*
+- *Weight*
+- *Height*
+- *Physical Description*
+
+These details help bring your character to life and guide how you roleplay them during your adventures.

@@ -1,0 +1,208 @@
+= Equipment
+
+== Adventuring Gear
+
+[options="header"]
+|===
+|Item|Cost|Weight
+|Crystal|50 gp|1 lb.
+|Orb|50 gp|3 lb.
+|Rod|50 gp|2 lb.
+|Staff|50 gp|4 lb.
+|Wand|5 sp|1 lb.
+|Sprig of mistletoe|5 sp|-
+|Totem|5 sp|-
+|Wooden staff|5 sp|4 lb.
+|Yew wand|5 sp|1 lb.
+|Amulet|5 sp|1 lb.
+|Emblem|5 sp|-
+|Reliquary|5 gp|2 lb.
+|Abacus|5 gp|2 lb.
+|Acid (vial)|5 gp|1 lb.
+|Alchemist's fire (flask)|5 gp|1 lb.
+|Antitoxin (vial)|5 gp|-
+|Backpack|5 gp|5 lb.
+|Ball bearings (bag of 1,000)|5 gp|2 lb.
+|Barrel|5 gp|70 lb.
+|Basket|5 gp|2 lb.
+|Bedroll|5 gp|7 lb.
+|Bell|5 gp|-
+|Blanket|5 gp|3 lb.
+|Block and tackle|5 gp|5 lb.
+|Book|5 gp|5 lb.
+|Bottle, glass|5 gp|2 lb.
+|Bucket|5 cp|2 lb.
+|Caltrops (bag of 20)|5 cp|2 lb.
+|Candle|5 cp|-
+|Case, crossbow bolt|5 cp|1 lb.
+|Case, map or scroll|4 sp|1 lb.
+|Chain (10 feet)|4 gp|10 lb.
+|Chalk (1 piece)|25 gp|-
+|Chest|25 gp|25 lb.
+|Climber's kit|25 gp|12 lb.
+|Clothes, common|25 gp|3 lb.
+|Clothes, costume|25 gp|4 lb.
+|Clothes, fine|25 gp|6 lb.
+|Clothes, traveler's|20 gp|4 lb.
+|Component pouch|2 sp|2 lb.
+|Crowbar|2 sp|5 lb.
+|Fishing tackle|2 sp|4 lb.
+|Flask or tankard|2 gp|1 lb.
+|Grappling hook|2 gp|4 lb.
+|Hammer|2 gp|3 lb.
+|Hammer, sledge|2 gp|10 lb.
+|Healer's kit|2 gp|3 lb.
+|Holy water (flask)|2 gp|1 lb.
+|Hourglass|2 gp|1 lb.
+|Hunting trap|2 gp|25 lb.
+|Ink (1 ounce bottle)|2 gp|-
+|Ink pen|2 gp|-
+|Jug or pitcher|2 gp|4 lb.
+|Ladder (10 foot)|2 gp|25 lb.
+|Lamp|2 gp|1 lb.
+|Lantern, bullseye|2 cp|2 lb.
+|Lantern, hooded|2 cp|2 lb.
+|Lock|2 cp|1 lb.
+|===
+
+== Armors
+
+[options="header"]
+|===
+|Name|Type|Cost|Armor Class (AC)|Strength|Stealth|Weight
+|Padded|Light Armor|5 gp|11 + Dex modifier|-|Disadvantage|8 lb.
+|Leather|Light Armor|10 gp|11 + Dex modifier|-|-|10 lb.
+|Studded leather|Light Armor|45 gp|12 + Dex modifier|-|-|13 lb.
+|Hide|Medium Armor|10 gp|12 + Dex modifier (max 2)|-|-|12 lb.
+|Chain shirt|Medium Armor|50 gp|13 + Dex modifier (max 2)|-|-|20 lb.
+|Scale mail|Medium Armor|50 gp|14 + Dex modifier (max 2)|-|Disadvantage|45 lb.
+|Breastplate|Medium Armor|400 gp|14 + Dex modifier (max 2)|-|-|20 lb.
+|Half plate|Medium Armor|750 gp|15 + Dex modifier (max 2)|-|Disadvantage|40 lb.
+|Ring mail|Heavy Armor|30 gp|14|-|Disadvantage|40 lb.
+|Chain mail|Heavy Armor|75 gp|16|Str 13|Disadvantage|55 lb.
+|Splint|Heavy Armor|200 gp|17|Str 15|Disadvantage|60 lb.
+|Plate|Heavy Armor|1,500 gp|18|Str 15|Disadvantage|65 lb.
+|Shield|Shield|10 gp|+2|-|-|6 lb.
+|===
+
+== Artisan Tools
+
+[options="header"]
+|===
+|Item |Type |Cost |Weight
+|Alchemist's supplies |Artisan's Tools |50 gp |8 lb.
+|Brewer's supplies |Artisan's Tools |20 gp |9 lb.
+|Calligrapher's supplies |Artisan's Tools |10 gp |5 lb.
+|Carpenter's tools |Artisan's Tools |8 gp |6 lb.
+|Cartographer's tools |Artisan's Tools |15 gp |6 lb.
+|Cobbler's tools |Artisan's Tools |5 gp |5 lb.
+|Cook's utensils |Artisan's Tools |1 gp |8 lb.
+|Glassblower's tools |Artisan's Tools |30 gp |5 lb.
+|Jeweler's tools |Artisan's Tools |25 gp |2 lb.
+|Leatherworker's tools |Artisan's Tools |5 gp |5 lb.
+|Mason's tools |Artisan's Tools |10 gp |8 lb.
+|Painter's supplies |Artisan's Tools |10 gp |5 lb.
+|Potter's tools |Artisan's Tools |10 gp |3 lb.
+|Smith's tools |Artisan's Tools |20 gp |8 lb.
+|Tinker's tools |Artisan's Tools |50 gp |10 lb.
+|Weaver's tools |Artisan's Tools |1 gp |5 lb.
+|Woodcarver's tools |Artisan's Tools |1 gp |5 lb.
+|Dice set |Gaming Set |1 sp |-
+|Dragonchess set |Gaming Set |1 gp |1/2 lb.
+|Playing card set |Gaming Set |5 sp |-
+|Three-Dragon Ante set |Gaming Set |1 gp |-
+|Bagpipes |Musical Instrument |30 gp |6 lb.
+|Drum |Musical Instrument |6 gp |3 lb.
+|Dulcimer |Musical Instrument |25 gp |10 lb.
+|Flute |Musical Instrument |2 gp |1 lb.
+|Lute |Musical Instrument |35 gp |2 lb.
+|Lyre |Musical Instrument |30 gp |2 lb.
+|Horn |Musical Instrument |3 gp |2 lb.
+|Pan flute |Musical Instrument |12 gp |2 lb.
+|Shawm |Musical Instrument |2 gp |1 lb.
+|Viol |Musical Instrument |30 gp |1 lb.
+|Disguise kit |Tools |25 gp |3 lb.
+|Forgery kit |Tools |15 gp |5 lb.
+|Herbalism kit |Tools |5 gp |3 lb.
+|Navigator's tools |Tools |25 gp |2 lb.
+|Poisoner's kit |Tools |50 gp |2 lb.
+|Thieves' tools |Tools |25 gp |1 lb.
+|===
+
+== Mounts and Vehicles
+
+[options="header"]
+|===
+|Item |Type |Cost |Carrying Capacity |Speed
+|Camel |Mount |50 gp |480 lb. |50 ft.
+|Donkey or mule |Mount |8 gp |420 lb. |40 ft.
+|Elephant |Mount |200 gp |1,320 lb. |40 ft.
+|Horse, draft |Mount |50 gp |540 lb. |40 ft.
+|Horse, riding |Mount |75 gp |480 lb. |60 ft.
+|Mastiff |Mount |25 gp |195 lb. |40 ft.
+|Pony |Mount |30 gp |225 lb. |40 ft.
+|Warhorse |Mount |400 gp |540 lb. |60 ft.
+|Barding |Mount Equipment |×4 |×2 |-
+|Bit and bridle |Mount Equipment |2 gp |1 lb. |-
+|Carriage |Mount Equipment |100 gp |600 lb. |-
+|Cart |Mount Equipment |15 gp |200 lb. |-
+|Chariot |Mount Equipment |250 gp |100 lb. |-
+|Animal Feed (per day) |Mount Equipment |5 cp |10 lb. |-
+|Saddle |Mount Equipment | | |
+|Exotic |Mount Equipment |60 gp |40 lb. |-
+|Military |Mount Equipment |20 gp |30 lb. |-
+|Pack |Mount Equipment |5 gp |15 lb. |-
+|Riding |Mount Equipment |10 gp |25 lb. |-
+|Saddlebags |Mount Equipment |4 gp |8 lb. |-
+|Sled |Mount Equipment |20 gp |300 lb. |-
+|Stabling (per day) |Mount Equipment |5 sp |— |-
+|Wagon |Mount Equipment |35 gp |400 lb. |-
+|Galley |Water Vehicle |30,000 gp |150 tons |4 mph
+|Keelboat |Water Vehicle |3,000 gp |1/2 ton |1 mph
+|Longship |Water Vehicle |10,000 gp |10 tons |3 mph
+|Rowboat |Water Vehicle |50 gp |0 tons |1½ mph
+|Sailing ship |Water Vehicle |10,000 gp |100 tons |2 mph
+|Warship |Water Vehicle |25,000 gp |200 tons |2½ mph
+|===
+
+== Weapons
+
+[options="header"]
+|===
+|Name |Type |Cost |Ammo |Damage |Weight |Range |Properties |Mastery
+|Palm Pistol |Firearm |50g |2g (20) |1d8 piercing |1 lb. |(30/160) |Light, reload 1, misfire 1 |Vex
+|Pistol |Firearm |150g |4g (20) |1d10 piercing |3 lb. |(60/120) |Reload 4, misfire 1 |Vex
+|Musket |Firearm |300g |5g (20) |1d12 piercing |10 lb. |(120/480) |Two-handed, reload 1, misfire 2 |Slow
+|Blunderbuss |Firearm |300g |5g (5) |2d8 piercing |10 lb. |(15/60) |Reload 1, misfire 4 |Push
+|Club |Simple Melee |1 sp |-------------------- |1d4 bludgeoning |2 lb. |-------------------- |Light |Slow
+|Dagger |Simple Melee |2 gp |-------------------- |1d4 piercing |1 lb. |20/60 |Finesse, light, thrown |Nick
+|Greatclub |Simple Melee |2 sp |-------------------- |1d8 bludgeoning |10 lb. |-------------------- |Two-handed |Push
+|Handaxe |Simple Melee |5 gp |-------------------- |1d6 slashing |2 lb. |20/60 |Light, thrown |Vex
+|Javelin |Simple Melee |5 sp |-------------------- |1d6 piercing |2 lb. |30/120 |Thrown |Slow
+|Light hammer |Simple Melee |2 gp |-------------------- |1d4 bludgeoning |2 lb. |20/60 |Light, thrown |Nick
+|Mace |Simple Melee |5 gp |-------------------- |1d6 bludgeoning |4 lb. |-------------------- |– |Sap
+|Quarterstaff |Simple Melee |2 sp |-------------------- |1d6 bludgeoning |4 lb. |-------------------- |Versatile (1d8) |Flex
+|Sickle |Simple Melee |1 gp |-------------------- |1d4 slashing |2 lb. |-------------------- |Light |Nick
+|Spear |Simple Melee |1 gp |-------------------- |1d6 piercing |3 lb. |20/60 |Thrown, versatile (1d8) |Flex
+|Crossbow, light |Simple Ranged |25 gp |5 sp (10) |1d8 piercing |5 lb. |80/320 |Ammunition (Crossbow Bolt), loading, two-handed |Slow
+|Dart |Simple Ranged |5 cp |-------------------- |1d4 piercing |1/4 lb. |20/60 |Finesse, thrown |Vex
+|Shortbow |Simple Ranged |25 gp |5 sp (10) |1d6 piercing |2 lb. |80/320 |Ammunition (Arrow), two-handed |Vex
+|Sling |Simple Ranged |1 sp |1 cp (10) |1d4 bludgeoning |0 lb. |30/120 |Ammunition (Sling Ammo) |Slow
+|Battleaxe |Martial Melee |10 gp |-------------------- |1d8 slashing |4 lb. |-------------------- |Versatile (1d10) |Topple
+|Flail |Martial Melee |10 gp |-------------------- |1d8 bludgeoning |2 lb. |-------------------- |– |Sap
+|Glaive |Martial Melee |20 gp |-------------------- |1d10 slashing |6 lb. |-------------------- |Heavy, reach, two-handed |Graze
+|Greataxe |Martial Melee |30 gp |-------------------- |1d12 slashing |7 lb. |-------------------- |Heavy, two-handed |Cleave
+|Greatsword |Martial Melee |50 gp |-------------------- |2d6 slashing |6 lb. |-------------------- |Heavy, two-handed |Graze
+|Halberd |Martial Melee |20 gp |-------------------- |1d10 slashing |6 lb. |-------------------- |Heavy, reach, two-handed |Cleave
+|Lance |Martial Melee |10 gp |-------------------- |1d12 piercing |6 lb. |-------------------- |Reach, two-handed |Topple
+|Longsword |Martial Melee |15 gp |-------------------- |1d8 slashing |3 lb. |-------------------- |Versatile (1d10) |Flex
+|Maul |Martial Melee |10 gp |-------------------- |2d6 bludgeoning |10 lb. |-------------------- |Heavy, two-handed |Topple
+|Morningstar |Martial Melee |15 gp |-------------------- |1d8 piercing |4 lb. |-------------------- |– |Sap
+|Pike |Martial Melee |5 gp |-------------------- |1d10 piercing |18 lb. |-------------------- |Heavy, reach, two-handed |Push
+|Rapier |Martial Melee |25 gp |-------------------- |1d8 piercing |2 lb. |-------------------- |Finesse |Vex
+|Scimitar |Martial Melee |25 gp |-------------------- |1d6 slashing |3 lb. |-------------------- |Finesse, light |Nick
+|Shortsword |Martial Melee |10 gp |-------------------- |1d6 piercing |2 lb. |-------------------- |Finesse, light |Vex
+|Trident |Martial Melee |5 gp |-------------------- |1d6 piercing |4 lb. |20/60 |Thrown, versatile (1d8) |Topple
+|War pick |Martial Melee |5 gp |-------------------- |1d8 piercing |2 lb. |-------------------- |– |Flex
+|Warhammer |Martial Melee |15 gp |-------------------- |1d8 bludgeoning |2 lb. |------
+|===
