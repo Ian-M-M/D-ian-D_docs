@@ -1,0 +1,48 @@
+== Kingdoms Ability Scores
+:name="Kingdoms Ability Scores":
+
+A kingdom has four ability scores: Culture, Economy, Loyalty, and Stability. These function like the ability scores of a character, providing modifiers on die rolls and checks. As the kingdom prospers and grows, these scores can increase. And if the nation falls on hard times or goes through corruption, scandal, defeat, or disaster, Ruin will accrue that degrades these abilities. 
+//[TODO: link to Ruins]
+
+=== Culture 
+Culture measures the interest and dedication of your nation and its people to the arts and sciences, to religion and reason, and to the subjects that your society chooses to learn about and to teach. Are your people well‑versed in rhetoric and philosophy? Do they value learning and research, music and dance? Do they embrace society in all its diverse splendor? If they do, your kingdom likely has a robust Culture score.
+
+=== Economy
+Economy measures the practical day‑to‑day workings of your society as it comes together to do the work of making and building, buying and selling. How industrious are your citizenry? Are they devoted to building more, higher, and better, trading in goods, services, and ideas? If so, your kingdom likely has a robust Economy score.
+
+=== Loyalty
+Loyalty measures the collective will, spirit, and sense of camaraderie the citizens of your nation possess. How much do they trust and depend on one another? How do they respond when you sound the call to arms or enact new laws? How do they react when other nations send spies or provocateurs into your lands to make trouble? If they support the kingdom’s leadership, the kingdom itself has a robust Loyalty score.
+
+=== Stability
+Stability measures the physical health and well‑being of your nation. This includes its infrastructure and buildings, the welfare of its people, and how well things are protected and maintained under your rule. How carefully do you maintain your stores and reserves, repair things that are broken, and provide for the necessities of life? How quickly can you mobilize to shield your citizens from harm? A kingdom that can handle both prosperity and disaster efficiently and effectively has a robust Stability score.
+
+=== Ability Scores Overview
+Each Kingdom ability score starts at 10, representing the average, but as a player makes kingdom creation choices in the following steps, they’ll adjust these scores. Apply ability boosts (which increase a score by 2) or ability flaws (which decrease a score by 2), the ability scores modifier works as they do for the characters.
+
+=== Kingdom Skills
+Every nation has its own distinct areas of specialization, the things in which it invests its time, talent, and treasure, and the pursuits and features for which the nation becomes renowned for—these are tracked as a kingdom’s skills. At 1st level, the maximum number of skills in which a kingdom can have trained proficiency is six: two determined by the kingdom’s initial choice of government (see page 509) and up to four others determined by leadership roles (page 510). As a kingdom levels up, it can acquire training in additional skills and increase proficiencies to expert, master, or legendary. Choices about proficiencies cannot be changed after they have been made.
+
+==== Attemting Kingdom Skill Checks
+During a Kingdom turn, the PCs attempt Kingdom skill checks. Such checks determine the effects of many things that affect the kingdom, including enduring a hardship, completing a task, impressing a visiting band of dignitaries, fighting off monsters, building a structure, or expanding into a new hex. A skill check for a kingdom works just like a skill check for a PC. One of the players—typically the one playing the PC whose key attribute or role is most appropriate—rolls 1d20 and adds the appropriate skill modifier, which consists of the kingdom’s ability modifier for the ability associated with the skill plus any other applicable modifiers, including the kingdom’s proficiency bonus in that skill and any other situational bonuses and penalties that might arise.
+
+===== Kingdom Skills and Abilities
+[cols="4*", options="header"]
+|===============================================================================================================================
+|Skill             | Key Ability | Untrained Activities                                                        | Trained Activities 
+|Agriculture       | Stability   | Establish Farmland, Harvest Crops                                           | — 
+|Arts              | Culture     | Craft Luxuries, Rest and Relax, Quell Unrest                                | Create a Masterpiece, Repair Reputation (Corruption)
+|Boating           | Economy     | Establish Trade Agreement, Go Fishing, Rest and Relax                       | —
+|Defense           | Stability   | Fortify Hex, Provide Care                                                   | —
+|Engineering       | Stability   | Build Roads, Clear Hex, Demolish, Establish Settlement, Establish Work Site | Irrigation, Repair Reputation (Decay)*
+|Exploration       | Economy     | Abandon Hex, Claim Hex, Clear Hex, Hire Adventurers                         | —
+|Folklore          | Culture     | Celebrate Holiday, Quell Unrest                                             | —
+|Industry          | Economy     | Establish Settlement, Trade Commodities                                     | Relocate Capital
+|Intrigue          | Loyalty     | Infiltration, New Leadership, Quell Unrest                                  | Clandestine Business, Pledge of Fealty, Repair Reputation (Strife)
+|Magic             | Culture     | Quell Unrest, Supernatural Solution                                         | Establish Trade Agreement* (master), Prognostication
+|Politics          | Loyalty     | Establish Settlement, Improve, Lifestyle, New Leadership,Quell Unrest       | —
+|Scholarship       | Culture     | Creative Solution, Establish Settlement, Rest and Relax*                    | —
+|Statecraft        | Loyalty     | New Leadership, Tap Treasury                                                | Pledge of Fealty, Request Foreign Aid, Send Diplomatic Envoy
+|Trade             | Economy     | Capital Investment, Establish Trade Agreement, Manage Trade Agreements, Purchase Commodities, Rest and Relax | Collect Taxes, Repair Reputation (Crime)
+|Warfare           | Loyalty     | New Leadership, Quell Unrest                                                | Pledge of Fealty
+|Wilderness        | Stability   |  Abandon Hex, Claim Hex, Gather Livestock, Rest and Relax                   | —
+|===============================================================================================================================
