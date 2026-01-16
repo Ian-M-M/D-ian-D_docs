@@ -7,7 +7,7 @@
 |*2nd*     |*+2*            |*Metamagic*                                           |*4* |*6* |*1st*
 |*3rd*     |*+2*            |*Magical Guidance*                                    |*4* |*14* |*2nd*
 |*4th*     |*+2*            |*Feat*                                                |*5* |*17* |*2nd*
-|*5th*     |*+3*            |*Sorcerous Restoration (1d6), Sorcerous Vitality*     |*5* |*27* |*3rd*
+|*5th*     |*+3*            |*Sorcerous Restoration (1d6), Sorcerous Vitality*,*Negate Spell*    |*5* |*27* |*3rd*
 |*6th*     |*+3*            |*Sorcerous Origin feature*                            |*5* |*32* |*3rd*
 |*7th*     |*+3*            |*Arcane Eruption, Metamagic*                          |*5* |*38* |*4th*
 |*8th*     |*+3*            |*Feat*                                                |*5* |*44* |*4th*
@@ -299,6 +299,21 @@ number of d6 is your proficiency bonus.
 
 You can use this trait once, and you use it again when you finish a
 Short or Long Rest.
+
+=== *Negate Spell*
+At 5th level, you are able to stop the casting of a spell.
+As a reaction, when you see someone casting a spell withing 60 feet from you, you can try
+to cancel the casting. 
+
+To be eligeable as a correct target the target spell must have, at least, one component. 
+
+You can negate all spells that are equal or lower than the maximum spell level that you 
+are able to cast from this class. If the spell is higher, the caster target must succed 
+on a Constitution saving throw to be able to cast the spell, on a failure the spell is 
+negated. The DC for this save it your spell save DC from this class.
+
+You can use this feature a number of time equals to your Proficiency Bonus and regain all spent uses 
+after a Long Rest.
 
 === *Sorcerous Origin feature*
 
