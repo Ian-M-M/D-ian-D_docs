@@ -7,7 +7,7 @@
 |*2nd*      |*+2*             |*Eldritch Invocations*        |*2*                |*3*              |*1*             |*1st*          |*2*
 |*3rd*      |*+2*             |*Otherworldly Patron*         |*2*                |*4*              |*1*             |*2nd*          |*2*
 |*4th*      |*+2*             |*Feat, Eldritch Versatility*  |*3*                |*5*              |*1*             |*2nd*          |*2*
-|*5th*      |*+3*             |*—*                           |*3*                |*6*              |*2*             |*3rd*          |*3*
+|*5th*      |*+3*             |*Negate Spell*                |*3*                |*6*              |*2*             |*3rd*          |*3*
 |*6th*      |*+3*             |*Otherworldly Patron feature* |*3*                |*7*              |*2*             |*3rd*          |*3*
 |*7th*      |*+3*             |*—*                           |*3*                |*8*              |*2*             |*4th*          |*4*
 |*8th*      |*+3*             |*Feat*                        |*3*                |*9*              |*2*             |*4th*          |*4*
@@ -398,6 +398,21 @@ ____
 If this change makes you ineligible for any of your Eldritch
 Invocations, you must also replace them now, choosing invocations for
 which you qualify.
+
+=== *Negate Spell*
+At 5th level, you are able to stop the casting of a spell.
+As a reaction, when you see someone casting a spell withing 60 feet from you, you can try
+to cancel the casting. 
+
+To be eligeable as a correct target the target spell must have, at least, one component. 
+
+You can negate all spells that are equal or lower than the maximum spell level that you 
+are able to cast from this class. If the spell is higher, the caster target must succed 
+on a Constitution saving throw to be able to cast the spell, on a failure the spell is 
+negated. The DC for this save it your spell save DC from this class.
+
+You can use this feature a number of time equals to your Proficiency Bonus and regain all spent uses 
+after a Long Rest.
 
 === *Otherworldly Patron feature*
 

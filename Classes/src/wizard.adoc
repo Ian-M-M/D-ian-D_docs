@@ -8,7 +8,7 @@
 |*2nd*      |*+2*            |*Arcane Recovery, Cantrip Formulas* |*3*                |*3*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
 |*3rd*      |*+2*            |*Arcane Tradition*                  |*3*                |*4*     |*2*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
 |*4th*      |*+2*            |*Feat*                              |*4*                |*4*     |*3*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
-|*5th*      |*+3*            |*School Savant*                     |*4*                |*4*     |*3*     |*2*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
+|*5th*      |*+3*            |*School Savant*,*Negate Spell*      |*4*                |*4*     |*3*     |*2*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
 |*6th*      |*+3*            |*Arcane Tradition feature*          |*4*                |*4*     |*3*     |*3*     |*—*     |*—*     |*—*     |*—*     |*—*     |*—*
 |*7th*      |*+3*            |*—*                                 |*4*                |*4*     |*3*     |*3*     |*1*     |*—*     |*—*     |*—*     |*—*     |*—*
 |*8th*      |*+3*            |*Feat*                              |*4*                |*4*     |*3*     |*3*     |*2*     |*—*     |*—*     |*—*     |*—*     |*—*
@@ -264,6 +264,21 @@ ____
 
 Additionally, you can’t lose the spells that are from your School of
 magic.
+
+=== *Negate Spell*
+At 5th level, you are able to stop the casting of a spell.
+As a reaction, when you see someone casting a spell withing 60 feet from you, you can try
+to cancel the casting. 
+
+To be eligeable as a correct target the target spell must have, at least, one component. 
+
+You can negate all spells that are equal or lower than the maximum spell level that you 
+are able to cast from this class. If the spell is higher, the caster target must succed 
+on a Constitution saving throw to be able to cast the spell, on a failure the spell is 
+negated. The DC for this save it your spell save DC from this class.
+
+You can use this feature a number of time equals to your Proficiency Bonus and regain all spent uses 
+after a Long Rest.
 
 === *Arcane Tradition feature*
 
