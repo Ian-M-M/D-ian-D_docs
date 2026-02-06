@@ -1,29 +1,35 @@
 == *Ranger*
-
+// The rework should remove all the expertise related traits an focus on pet features.
 [width="100%",cols="11%,6%,54%,9%,4%,4%,4%,4%,4%",options="header",]
 |===
 | | | | |*_Spell Slots per Spell Level_* | | | |
-|*_Level_* a|*_Prof. Bonus_* |*_Features_*                                     |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_*
-|*1st*      |*+2*            |*Favored Enemy, Favored Terrain, Hunter’s Sense* |*-* |*—* |*—* |*—* |*—* |*—*
-|*2nd*      |*+2*            |*Expertise, Fighting Style*                      |*-* |*—* |*—* |*—* |*—* |*—*
-|*3rd*      |*+2*            |*Nature Magic, Ranger Conclave, Spellcasting*    |*2* |*3* |*—* |*—* |*—* |*—*
-|*4th*      |*+2*            |*Feat*                                           |*2* |*3* |*—* |*—* |*—* |*—*
-|*5th*      |*+3*            |*Extra Attack*                                   |*2* |*4* |*2* |*—* |*—* |*—* 
-|*6th*      |*+3*            |*Greater Favored Enemy, Roving*                  |*2* |*4* |*2* |*—* |*—* |*—*
-|*7th*      |*+3*            |*Ranger Conclave feature*                        |*2* |*4* |*3* |*—* |*—* |*—*
-|*8th*      |*+3*            |*Feat*                                           |*2* |*4* |*3* |*—* |*—* |*—*
-|*9th*      |*+4*            |*Expertise*                                      |*2* |*4* |*3* |*2* |*—* |*—*
-|*10th*     |*+4*            |*Tireless, Favored Enemy improvement*            |*3* |*4* |*3* |*2* |*—* |*—*
-|*11th*     |*+4*            |*Ranger Conclave feature*                        |*3* |*4* |*3* |*3* |*—* |*—*
-|*12th*     |*+4*            |*Feat*                                           |*3* |*4* |*3* |*3* |*—* |*—*
-|*13th*     |*+5*            |*Nature's Veil*                                  |*3* |*4* |*3* |*3* |*1* |*—*
-|*14th*     |*+5*            |*Favored Enemy improvement*                      |*4* |*4* |*3* |*3* |*1* |*—*
-|*15th*     |*+5*            |*Ranger Conclave feature*                        |*4* |*4* |*3* |*3* |*2* |*—*
-|*16th*     |*+5*            |*Feat*                                           |*4* |*4* |*3* |*3* |*2* |*—*
-|*17th*     |*+6*            |*Feral Senses*                                   |*4* |*4* |*3* |*3* |*3* |*1*
-|*18th*     |*+6*            |*Favored Enemy improvement*                      |*4* |*4* |*3* |*3* |*3* |*1*
-|*19th*     |*+6*            |*Feat*                                           |*4* |*4* |*3* |*3* |*3* |*2*
-|*20th*     |*+6*            |*Foe Slayer*                                     |*4* |*4* |*3* |*3* |*3* |*2*
+|*_Level_* a|*_Prof. Bonus_* |*_Features_*                                      |*_Cantrips Known_* |*_1st_* |*_2nd_* |*_3rd_* |*_4th_* |*_5th_*
+// Hunter Partner: Pet defined by the subclass, subclass at first level just define the pet.
+|*1st*      |*+2*            |*Fighting Style, Hunter Partner, Ranger Conclave* |*-* |*—* |*—* |*—* |*—* |*—*
+// Maybe merge Favored Enemy and Terrain.
+|*2nd*      |*+2*            |*Favored Enemy, Hunter's Sense*                   |*-* |*—* |*—* |*—* |*—* |*—*
+// Spellcasting now includes previous Nature Magic feature, but without the free casting part.
+|*3rd*      |*+2*            |*Ranger Conclave, Spellcasting*                   |*2* |*3* |*—* |*—* |*—* |*—*
+|*4th*      |*+2*            |*Feat*                                            |*2* |*3* |*—* |*—* |*—* |*—*
+|*5th*      |*+3*            |*Extra Attack*                                    |*2* |*4* |*2* |*—* |*—* |*—* 
+// Roving must go
+|*6th*      |*+3*            |*Greater Favored Enemy, Roving*                   |*2* |*4* |*2* |*—* |*—* |*—*
+|*7th*      |*+3*            |*Ranger Conclave feature*                         |*2* |*4* |*3* |*—* |*—* |*—*
+|*8th*      |*+3*            |*Feat*                                            |*2* |*4* |*3* |*—* |*—* |*—*
+// Expertise must go
+|*9th*      |*+4*            |*Expertise*                                       |*2* |*4* |*3* |*2* |*—* |*—*
+|*10th*     |*+4*            |*Tireless, Favored Enemy improvement*             |*3* |*4* |*3* |*2* |*—* |*—*
+|*11th*     |*+4*            |*Ranger Conclave feature*                         |*3* |*4* |*3* |*3* |*—* |*—*
+|*12th*     |*+4*            |*Feat*                                            |*3* |*4* |*3* |*3* |*—* |*—*
+|*13th*     |*+5*            |*Nature's Veil*                                   |*3* |*4* |*3* |*3* |*1* |*—*
+|*14th*     |*+5*            |*Favored Enemy improvement*                       |*4* |*4* |*3* |*3* |*1* |*—*
+|*15th*     |*+5*            |*Ranger Conclave feature*                         |*4* |*4* |*3* |*3* |*2* |*—*
+|*16th*     |*+5*            |*Feat*                                            |*4* |*4* |*3* |*3* |*2* |*—*
+// Feral Senses must go
+|*17th*     |*+6*            |*Feral Senses*                                    |*4* |*4* |*3* |*3* |*3* |*1*
+|*18th*     |*+6*            |*Favored Enemy improvement*                       |*4* |*4* |*3* |*3* |*3* |*1*
+|*19th*     |*+6*            |*Feat*                                            |*4* |*4* |*3* |*3* |*3* |*2*
+|*20th*     |*+6*            |*Foe Slayer*                                      |*4* |*4* |*3* |*3* |*3* |*2*
 |===
 
 [width="99%"]
