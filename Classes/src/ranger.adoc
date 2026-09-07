@@ -119,8 +119,41 @@ When you engage in two-weapon fighting, you can add your ability
 modifier to the damage of the second attack.
 
 === Hunter's Partner
-// Give 3 base kind (Land, Sea and Sky) of pets, let the player choose 1 Animalistic Invocation for each Pet.
-//  - Let the subclasses add a trait or an attack to the Pet. 
+At 1st level you have created a bond with an entity of your preference,
+a so called partner in hunt. As an action you can call that creature it
+forms and behavior has to be defined by you when you create the character.
+
+For this level you only can summon the Beast of the Land, it has the
+following caracteristics:
+
+- A base AC of 13 + you Profiency Bonus.
+- Hit points equals to 5 + five times your ranger level.
+- Walking and Climbing Speed of 40 ft.
+- The followings characteristics.
+
+|===
+|   STR   |   DEX   |   CON   |   INT  |   WIS   |   CHA
+| 14 (+2) | 14 (+2)	| 15 (+2) | 8 (-1) | 14 (+2) | 11 (+0)
+|===
+
+- Senses darkvision 60 ft., passive Perception 12.
+- Languages understands the languages you speak.
+
+Has the following Traits:
+
+- Primal Bond. You can add your proficiency bonus to any ability check
+or saving throw that the beast makes.
+
+Has the following Action:
+
+- Maul. Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,
+one target. Hit: 1d8 + 2 + Proficiency Bonus slashing damage.
+
+Additionally, you can choose 1 Druidic Animalistic Invocation to add to this
+creature, to do so you need to meet the perrequisite requiremerents.
+
+This creature benefits from spells that allow you to deal extra damage such as
+Hunter´s Mark.
 
 === Ranger Conclave
 
